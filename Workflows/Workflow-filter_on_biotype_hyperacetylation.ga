@@ -1,0 +1,3133 @@
+{
+    "a_galaxy_workflow": "true",
+    "annotation": "",
+    "format-version": "0.1",
+    "name": "filter on biotype hyperacetylation'",
+    "steps": {
+        "0": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 0,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "hyperacetylated_regions_ChIPseeker_removed_transcriptID"
+                }
+            ],
+            "label": "hyperacetylated_regions_ChIPseeker_removed_transcriptID",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 0.0,
+                "top": 2504.079962836371
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "ab049cb4-b3b7-4fc0-a88e-bffcaf8f0829",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "1": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 1,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 0.0
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "snoRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='snoRNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "dbf0c07a-f30f-43cf-9c0d-6f491e1e0c04",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "028b00ed-29cf-4d0e-bf55-5b3dd41b1b3f"
+                }
+            ]
+        },
+        "2": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 2,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 131.80555555555554
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "misc_RNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='misc_RNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "fb3f6695-8218-4348-b287-49a45d1fce87",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "6d52d666-17fa-4c34-a1af-16ee0eb4a80d"
+                }
+            ]
+        },
+        "3": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 3,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 263.97569232516815
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "rRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='rRNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "98e12b42-aeff-44a7-9d79-09c8342b51ef",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "0180b76a-df45-47ab-b9ec-4a6fb97c90ee"
+                }
+            ]
+        },
+        "4": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 4,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 395.9722222222222
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "miRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='miRNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "39dc63cc-1664-47ea-9d67-320bd3348fe6",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "ca972520-b894-41ed-beef-a8df585cb8ae"
+                }
+            ]
+        },
+        "5": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 5,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 527.9687499999999
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "Mt tRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='Mt_tRNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "1c046413-20e2-4b98-90f1-ee68c85d8d73",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "86b845b7-4223-48ce-bffe-6389e916bd6e"
+                }
+            ]
+        },
+        "6": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 6,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 659.9131944444443
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "Mt rRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='Mt_rRNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "dd9e1836-f064-4d7f-a047-fe9a1ff45cf9",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4d3aaeb5-0122-48fd-b1c0-c82f04176317"
+                }
+            ]
+        },
+        "7": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 7,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 792.1006944444443
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "snRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='snRNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "ad5baf48-3505-4559-b414-37e0703dc718",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4b6bdcc5-f87f-4820-bcf4-9198de196300"
+                }
+            ]
+        },
+        "8": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 8,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 924.06253390842
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "IG J gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='IG_J_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "236fbb86-a4c5-4370-93b6-29b409a177f5",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "a4d25bb1-4d40-424e-8838-2371f5c04c77"
+                }
+            ]
+        },
+        "9": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 9,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1056.0590616861978
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "nonsense_mediated_decay"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='nonsense_mediated_decay'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "671ae529-a05c-4044-bedf-b9ab698a3e67",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4e688fcf-4b1a-4a91-8093-fc89c9b35215"
+                }
+            ]
+        },
+        "10": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 10,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1188.0903116861978
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "protein_coding"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='protein_coding'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "ffc7768e-ca9c-48fb-84ca-97c64c157045",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "a38f3381-1e49-4cb9-9287-d2023ba53293"
+                }
+            ]
+        },
+        "11": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 11,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1320.034756130642
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "IG V gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='IG_V_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "bf865412-7a1d-42b9-bbd0-0328012f39aa",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "f3859216-b2f3-4872-807c-906b34701857"
+                }
+            ]
+        },
+        "12": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 12,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1452.0487128363711
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "IG D gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='IG_D_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "1891aaf8-8aa9-41b0-9e47-486804c4e3b9",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "cf5c742f-f796-4a9e-a1a1-d5ac91524ac6"
+                }
+            ]
+        },
+        "13": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 13,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1583.9931572808157
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "TR C gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='TR_C_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "9dea0dd3-d171-4586-8ba7-3cb7d76691b9",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "80cf3941-6999-4eb6-a69a-e291c364eeb7"
+                }
+            ]
+        },
+        "14": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 14,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1716.0417683919268
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "TR D gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='TR_D_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "1bfecc6e-a51e-4841-bdbd-5056b3a09bd8",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4ae82eb3-fd5c-42bf-9182-c5f96cdffe58"
+                }
+            ]
+        },
+        "15": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 15,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1848.0730183919268
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "IG C gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='IG_C_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "87548013-2132-4012-8b62-3ab1ee7045e8",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "68e64984-8290-40ac-a780-8f7eb0470857"
+                }
+            ]
+        },
+        "16": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 16,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 1980.1042683919268
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "TR V gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='TR_V_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "ceadc493-9a27-4fe8-bd4c-ff788fa0280d",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "35b0d43f-b2cd-4dbe-8015-a5a538e59874"
+                }
+            ]
+        },
+        "17": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 17,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 2112.065938313802
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "TR J gene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='TR_J_gene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "21d898df-0c26-4598-b909-06fec18aabf9",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "591daa3e-6d1f-44f8-8383-ee42084f8ea6"
+                }
+            ]
+        },
+        "18": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 18,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 2244.097188313802
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "polymorphic_pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='polymorphic_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "dac5a5fc-95ab-47ef-8633-75f41169daef",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4356034f-32fc-4c66-ae78-3f17b497b321"
+                }
+            ]
+        },
+        "19": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 19,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 2376.111212836371
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "non_stop_decay"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='non_stop_decay'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "15993873-1361-4ad1-bbdc-f6ac5d81499c",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "60555b95-5ce8-4c27-b13f-a28d6b672324"
+                }
+            ]
+        },
+        "20": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 20,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 2508.1076049804683
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "antisense"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#lncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='antisense'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "3d074fff-ed1d-4f26-a889-28c2cd11dd1c",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "95e6f46a-4e0a-4dfd-9483-6c400720f1ae"
+                }
+            ]
+        },
+        "21": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 21,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 2640.052049424913
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "sense_overlapping"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#lncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='sense_overlapping'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "a38a8a0c-ae45-4bce-946a-39a719d69ffe",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "d241f382-6b3a-4f99-907b-2e7976dd2179"
+                }
+            ]
+        },
+        "22": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 22,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 2772.083299424913
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "3 prime overlapping ncrna"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#lncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='3prime_overlapping_ncrna'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "7cf9f145-7554-4592-b10a-0297af70f23a",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "c0081dfb-94ee-43c7-aeca-d77a2bbef420"
+                }
+            ]
+        },
+        "23": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 23,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 2904.097459581163
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "retained intron"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#lncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='retained_intron'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "a717f77a-88c7-474a-aa00-ff4f72f13f95",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "a00ef9f7-8314-41bd-bcb9-afcb1efd773c"
+                }
+            ]
+        },
+        "24": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 24,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3036.0589938693574
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "lincRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#lncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='lincRNA'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "6ac07a17-3628-4be3-9c14-bf126bda959f",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4639e9e4-1fe5-4b50-bae1-e2b05c0bce1c"
+                }
+            ]
+        },
+        "25": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 25,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3168.0902438693574
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "sense intronic"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#lncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='sense_intronic'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "8e00a633-10ce-4ded-986d-a1bbffdcced1",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "694cdea2-c2e7-491e-a4f7-90e7a920b943"
+                }
+            ]
+        },
+        "26": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 26,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3300.1044040256074
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "processed transcript"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#lncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='processed_transcript'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "a328db39-62a3-4d6c-8306-5740df16ce32",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "1e0839e5-9e28-4a34-8a47-4c9e9dd78871"
+                }
+            ]
+        },
+        "27": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 27,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3432.083570692274
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "transcribed_unprocessed_pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='transcribed_unprocessed_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "5f769c70-ec43-421c-90ee-b100bd57714f",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "fece05c4-42a7-4d97-81a0-86f3bc76879d"
+                }
+            ]
+        },
+        "28": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 28,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3564.0280151367183
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "IG C pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='IG_C_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "1271d60c-76c7-4582-8814-1dc7d00fb809",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "ac0c4f8a-1489-4a0a-b59a-9ea6de2365a2"
+                }
+            ]
+        },
+        "29": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 29,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3695.9724595811626
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "11851587-de60-44de-ad97-7c48efd3a8bf",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "e8b5c1ad-b6bc-47ec-a6b0-c2e5d1352917"
+                }
+            ]
+        },
+        "30": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 30,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3828.0037095811626
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "transcribed processed pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='transcribed_processed_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "81d6ac33-27f4-4bb9-9ca6-2503eee6a304",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "39951c2e-42fc-4424-8b9f-463c52d53dbd"
+                }
+            ]
+        },
+        "31": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 31,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 3960.069681803385
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "processed pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='processed_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "c3451400-6bb1-4ba5-8ae5-a70b5de7f671",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "99964979-79e5-49ca-8b95-082dbbfa5e97"
+                }
+            ]
+        },
+        "32": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 32,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 4092.0662095811626
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "translated processed pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='translated_processed_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "304ccbe5-8c5a-4db3-a13d-62d16460ac80",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "7c94447d-4c89-4e13-9c3e-b72f95c98bd4"
+                }
+            ]
+        },
+        "33": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 33,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 4224.045376247829
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "IG J pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='IG_J_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "c441d30e-a0bf-4dfb-aaa5-11c500c5fd35",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "1d897c86-1668-4824-a4f0-a41721e97451"
+                }
+            ]
+        },
+        "34": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 34,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 4356.093716091579
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "IG V pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='IG_V_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "b7ce3690-4b84-438e-b003-3408187d57e7",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4f6f54c2-303b-494f-b505-31c59ea83702"
+                }
+            ]
+        },
+        "35": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 35,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 4488.124966091579
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "unitary pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='unitary_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "74179316-c0fc-4f95-8cbe-f82840d642b6",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "5833fc11-1d52-4b15-b233-5914099639c6"
+                }
+            ]
+        },
+        "36": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 36,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 4620.104404025607
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "unprocessed pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='unprocessed_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "be740052-eb41-4ffd-8597-0e26496c500b",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "477e76d9-b5c3-48e5-9577-2e515581fc4d"
+                }
+            ]
+        },
+        "37": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 37,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 4752.1006605360235
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "TR V pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='TR_V_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "77e17068-740e-4bb4-9613-e0f6d735efe6",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "ea8da958-0308-4f36-bcf4-b1b9d066b7ac"
+                }
+            ]
+        },
+        "38": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 38,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 4884.097459581162
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "TR J pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='TR_J_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "e58090da-8bd8-4821-82e8-00fa55fcb8f0",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "456288f2-7434-406f-accd-5726e1866d12"
+                }
+            ]
+        },
+        "39": {
+            "annotation": "",
+            "content_id": "Filter1",
+            "errors": null,
+            "id": 39,
+            "input_connections": {
+                "input": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Filter",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 277.8124915228949,
+                "top": 5016.111348470052
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "transcribed processed pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "Filter1",
+            "tool_state": "{\"cond\": \"c6=='transcribed_processed_pseudogene'\", \"header_lines\": \"1\", \"input\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.1.1",
+            "type": "tool",
+            "uuid": "57e228a2-bcc7-492d-bcf1-0807065df720",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "59ff5821-90fd-462a-89b4-e84353b4666c"
+                }
+            ]
+        },
+        "40": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "errors": null,
+            "id": 40,
+            "input_connections": {
+                "inputs": {
+                    "id": 4,
+                    "output_name": "out_file1"
+                },
+                "queries_0|inputs2": {
+                    "id": 2,
+                    "output_name": "out_file1"
+                },
+                "queries_1|inputs2": {
+                    "id": 6,
+                    "output_name": "out_file1"
+                },
+                "queries_2|inputs2": {
+                    "id": 5,
+                    "output_name": "out_file1"
+                },
+                "queries_3|inputs2": {
+                    "id": 3,
+                    "output_name": "out_file1"
+                },
+                "queries_4|inputs2": {
+                    "id": 1,
+                    "output_name": "out_file1"
+                },
+                "queries_5|inputs2": {
+                    "id": 7,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Concatenate datasets",
+                    "name": "inputs"
+                }
+            ],
+            "label": null,
+            "name": "Concatenate datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 605.5903032090928,
+                "top": 387.96874999999994
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "all sncRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#sncRNA"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "tool_shed_repository": {
+                "changeset_revision": "d698c222f354",
+                "name": "text_processing",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"inputs\": {\"__class__\": \"RuntimeValue\"}, \"queries\": [{\"__index__\": 0, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 1, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 2, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 3, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 4, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 5, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}], \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.1.1",
+            "type": "tool",
+            "uuid": "56e10cdc-fb0e-44d3-9bc7-58e52cfa2821",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "f8c47108-96a8-48aa-8067-70b45b4ed1d3"
+                }
+            ]
+        },
+        "41": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "errors": null,
+            "id": 41,
+            "input_connections": {
+                "inputs": {
+                    "id": 10,
+                    "output_name": "out_file1"
+                },
+                "queries_0|inputs2": {
+                    "id": 8,
+                    "output_name": "out_file1"
+                },
+                "queries_1|inputs2": {
+                    "id": 9,
+                    "output_name": "out_file1"
+                },
+                "queries_2|inputs2": {
+                    "id": 15,
+                    "output_name": "out_file1"
+                },
+                "queries_3|inputs2": {
+                    "id": 11,
+                    "output_name": "out_file1"
+                },
+                "queries_4|inputs2": [
+                    {
+                        "id": 13,
+                        "output_name": "out_file1"
+                    },
+                    {
+                        "id": 14,
+                        "output_name": "out_file1"
+                    }
+                ],
+                "queries_5|inputs2": [
+                    {
+                        "id": 17,
+                        "output_name": "out_file1"
+                    },
+                    {
+                        "id": 18,
+                        "output_name": "out_file1"
+                    },
+                    {
+                        "id": 19,
+                        "output_name": "out_file1"
+                    },
+                    {
+                        "id": 16,
+                        "output_name": "out_file1"
+                    }
+                ],
+                "queries_6|inputs2": {
+                    "id": 12,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Concatenate datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 605.5903032090928,
+                "top": 1542.0832994249129
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "all_protein_coding"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#protein_coding"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "tool_shed_repository": {
+                "changeset_revision": "d698c222f354",
+                "name": "text_processing",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"inputs\": {\"__class__\": \"ConnectedValue\"}, \"queries\": [{\"__index__\": 0, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 1, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 2, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 3, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 4, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 5, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 6, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}], \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.1.1",
+            "type": "tool",
+            "uuid": "a102b45a-f470-42b7-bdd3-86a9184f8612",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "59639e6f-b202-43cf-8c54-41eff82b2c1d"
+                }
+            ]
+        },
+        "42": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "errors": null,
+            "id": 42,
+            "input_connections": {
+                "inputs": {
+                    "id": 20,
+                    "output_name": "out_file1"
+                },
+                "queries_0|inputs2": {
+                    "id": 24,
+                    "output_name": "out_file1"
+                },
+                "queries_1|inputs2": {
+                    "id": 26,
+                    "output_name": "out_file1"
+                },
+                "queries_2|inputs2": {
+                    "id": 23,
+                    "output_name": "out_file1"
+                },
+                "queries_3|inputs2": {
+                    "id": 25,
+                    "output_name": "out_file1"
+                },
+                "queries_4|inputs2": {
+                    "id": 21,
+                    "output_name": "out_file1"
+                },
+                "queries_5|inputs2": {
+                    "id": 22,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Concatenate datasets",
+                    "name": "inputs"
+                }
+            ],
+            "label": null,
+            "name": "Concatenate datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 605.5903032090928,
+                "top": 2710.052049424913
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "all lncRNAs"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "tool_shed_repository": {
+                "changeset_revision": "d698c222f354",
+                "name": "text_processing",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"inputs\": {\"__class__\": \"RuntimeValue\"}, \"queries\": [{\"__index__\": 0, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 1, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 2, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 3, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 4, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}, {\"__index__\": 5, \"inputs2\": {\"__class__\": \"RuntimeValue\"}}], \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.1.1",
+            "type": "tool",
+            "uuid": "76fddd2b-ee02-49c2-a8bd-0f6bd86795ea",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "8deb2c8c-51ef-4759-9aa0-7bd018afd5cf"
+                }
+            ]
+        },
+        "43": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "errors": null,
+            "id": 43,
+            "input_connections": {
+                "inputs": {
+                    "id": 28,
+                    "output_name": "out_file1"
+                },
+                "queries_0|inputs2": {
+                    "id": 33,
+                    "output_name": "out_file1"
+                },
+                "queries_10|inputs2": {
+                    "id": 29,
+                    "output_name": "out_file1"
+                },
+                "queries_1|inputs2": {
+                    "id": 34,
+                    "output_name": "out_file1"
+                },
+                "queries_2|inputs2": {
+                    "id": 31,
+                    "output_name": "out_file1"
+                },
+                "queries_3|inputs2": {
+                    "id": 39,
+                    "output_name": "out_file1"
+                },
+                "queries_4|inputs2": {
+                    "id": 27,
+                    "output_name": "out_file1"
+                },
+                "queries_5|inputs2": {
+                    "id": 32,
+                    "output_name": "out_file1"
+                },
+                "queries_6|inputs2": {
+                    "id": 37,
+                    "output_name": "out_file1"
+                },
+                "queries_7|inputs2": {
+                    "id": 38,
+                    "output_name": "out_file1"
+                },
+                "queries_8|inputs2": {
+                    "id": 35,
+                    "output_name": "out_file1"
+                },
+                "queries_9|inputs2": {
+                    "id": 36,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "Concatenate datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 605.5903032090928,
+                "top": 4065.104404025607
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "all pseudogenes"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "#pseudogene"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/0.1.1",
+            "tool_shed_repository": {
+                "changeset_revision": "d698c222f354",
+                "name": "text_processing",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"inputs\": {\"__class__\": \"ConnectedValue\"}, \"queries\": [{\"__index__\": 0, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 1, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 2, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 3, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 4, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 5, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 6, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 7, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 8, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 9, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}, {\"__index__\": 10, \"inputs2\": {\"__class__\": \"ConnectedValue\"}}], \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.1.1",
+            "type": "tool",
+            "uuid": "43026609-b685-476a-b2a6-63f02098b699",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "4da63724-d9ee-4cba-83c2-79142128ff5c"
+                }
+            ]
+        },
+        "44": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "errors": null,
+            "id": 44,
+            "input_connections": {
+                "input": {
+                    "id": 40,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Unique",
+                    "name": "input"
+                }
+            ],
+            "label": null,
+            "name": "Unique",
+            "outputs": [
+                {
+                    "name": "outfile",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 893.4028032090928,
+                "top": 488.97569444444434
+            },
+            "post_job_actions": {
+                "RenameDatasetActionoutfile": {
+                    "action_arguments": {
+                        "newname": "unique sncRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "outfile"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "tool_shed_repository": {
+                "changeset_revision": "7ce75adb93be",
+                "name": "unique",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"adv_opts\": {\"adv_opts_selector\": \"advanced\", \"__current_case__\": 1, \"column_start\": \"7\", \"column_end\": \"7\"}, \"ignore_case\": false, \"input\": {\"__class__\": \"RuntimeValue\"}, \"is_numeric\": false, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.3",
+            "type": "tool",
+            "uuid": "be1a45f9-efe1-4bb7-a6be-c45a5f50fd8e",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "outfile",
+                    "uuid": "d5818ffe-c4f2-4df7-9cc2-eb1210d84080"
+                }
+            ]
+        },
+        "45": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "errors": null,
+            "id": 45,
+            "input_connections": {
+                "input": {
+                    "id": 41,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Unique",
+                    "name": "input"
+                }
+            ],
+            "label": null,
+            "name": "Unique",
+            "outputs": [
+                {
+                    "name": "outfile",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 893.4028032090928,
+                "top": 1658.055521647135
+            },
+            "post_job_actions": {
+                "RenameDatasetActionoutfile": {
+                    "action_arguments": {
+                        "newname": "unique protein coding"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "outfile"
+                },
+                "TagDatasetActionoutfile": {
+                    "action_arguments": {
+                        "tags": "final"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "outfile"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "tool_shed_repository": {
+                "changeset_revision": "7ce75adb93be",
+                "name": "unique",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"adv_opts\": {\"adv_opts_selector\": \"advanced\", \"__current_case__\": 1, \"column_start\": \"7\", \"column_end\": \"7\"}, \"ignore_case\": false, \"input\": {\"__class__\": \"RuntimeValue\"}, \"is_numeric\": false, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.3",
+            "type": "tool",
+            "uuid": "55310f96-d82f-4d55-9653-a45958761130",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "outfile",
+                    "uuid": "eef4acb0-2e85-4468-957c-4f1ffc509c41"
+                }
+            ]
+        },
+        "46": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "errors": null,
+            "id": 46,
+            "input_connections": {
+                "input": {
+                    "id": 42,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Unique",
+                    "name": "input"
+                }
+            ],
+            "label": null,
+            "name": "Unique",
+            "outputs": [
+                {
+                    "name": "outfile",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 893.4028032090928,
+                "top": 1790.0869072808157
+            },
+            "post_job_actions": {
+                "RenameDatasetActionoutfile": {
+                    "action_arguments": {
+                        "newname": "unique lncRNA"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "outfile"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "tool_shed_repository": {
+                "changeset_revision": "7ce75adb93be",
+                "name": "unique",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"adv_opts\": {\"adv_opts_selector\": \"advanced\", \"__current_case__\": 1, \"column_start\": \"7\", \"column_end\": \"7\"}, \"ignore_case\": false, \"input\": {\"__class__\": \"RuntimeValue\"}, \"is_numeric\": false, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.3",
+            "type": "tool",
+            "uuid": "d0340679-4a25-47ce-a01a-6ced341f6c1d",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "outfile",
+                    "uuid": "59451cd0-6d5f-4c16-a87a-85ebb3518d23"
+                }
+            ]
+        },
+        "47": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "errors": null,
+            "id": 47,
+            "input_connections": {
+                "input": {
+                    "id": 43,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Unique",
+                    "name": "input"
+                }
+            ],
+            "label": null,
+            "name": "Unique",
+            "outputs": [
+                {
+                    "name": "outfile",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 893.4028032090928,
+                "top": 1922.1181572808157
+            },
+            "post_job_actions": {
+                "RenameDatasetActionoutfile": {
+                    "action_arguments": {
+                        "newname": "unique pseudogene"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "outfile"
+                }
+            },
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/unique/bg_uniq/0.3",
+            "tool_shed_repository": {
+                "changeset_revision": "7ce75adb93be",
+                "name": "unique",
+                "owner": "bgruening",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"adv_opts\": {\"adv_opts_selector\": \"advanced\", \"__current_case__\": 1, \"column_start\": \"7\", \"column_end\": \"7\"}, \"ignore_case\": false, \"input\": {\"__class__\": \"RuntimeValue\"}, \"is_numeric\": false, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "0.3",
+            "type": "tool",
+            "uuid": "f42ae4bc-6dbf-4ada-8977-646e6449af13",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "outfile",
+                    "uuid": "2b2aed1c-005d-43d5-b57f-2da44cf01d4c"
+                }
+            ]
+        },
+        "48": {
+            "annotation": "",
+            "content_id": "comp1",
+            "errors": null,
+            "id": 48,
+            "input_connections": {
+                "input1": {
+                    "id": 44,
+                    "output_name": "outfile"
+                },
+                "input2": {
+                    "id": 45,
+                    "output_name": "outfile"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input1"
+                },
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input2"
+                }
+            ],
+            "label": null,
+            "name": "Compare two Datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 1184.2534298366968,
+                "top": 1504.4964938693574
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "sncRNA compared with protein_coding"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "comp1",
+            "tool_state": "{\"field1\": \"7\", \"field2\": \"7\", \"input1\": {\"__class__\": \"RuntimeValue\"}, \"input2\": {\"__class__\": \"RuntimeValue\"}, \"mode\": \"V\", \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.0.2",
+            "type": "tool",
+            "uuid": "b034c214-bbbf-4660-985c-528d0d686c8a",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "bb84fa8c-e448-452e-9e52-4430dca106a1"
+                }
+            ]
+        },
+        "49": {
+            "annotation": "",
+            "content_id": "comp1",
+            "errors": null,
+            "id": 49,
+            "input_connections": {
+                "input1": {
+                    "id": 46,
+                    "output_name": "outfile"
+                },
+                "input2": {
+                    "id": 45,
+                    "output_name": "outfile"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input1"
+                },
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input2"
+                }
+            ],
+            "label": null,
+            "name": "Compare two Datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 1182.6562076144746,
+                "top": 1687.0487128363711
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "lncRNAs compared with protein_coding"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "final "
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "comp1",
+            "tool_state": "{\"field1\": \"7\", \"field2\": \"7\", \"input1\": {\"__class__\": \"RuntimeValue\"}, \"input2\": {\"__class__\": \"RuntimeValue\"}, \"mode\": \"V\", \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.0.2",
+            "type": "tool",
+            "uuid": "27c8b71c-2971-431d-9f8e-ab7fa5ac1651",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "43615d19-7464-4516-b3b6-66fa35818ccd"
+                }
+            ]
+        },
+        "50": {
+            "annotation": "",
+            "content_id": "comp1",
+            "errors": null,
+            "id": 50,
+            "input_connections": {
+                "input1": {
+                    "id": 47,
+                    "output_name": "outfile"
+                },
+                "input2": {
+                    "id": 45,
+                    "output_name": "outfile"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input1"
+                },
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input2"
+                }
+            ],
+            "label": null,
+            "name": "Compare two Datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 1181.1284298366968,
+                "top": 1869.0799628363711
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "pseudogenes compared to protein coding"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "comp1",
+            "tool_state": "{\"field1\": \"7\", \"field2\": \"7\", \"input1\": {\"__class__\": \"RuntimeValue\"}, \"input2\": {\"__class__\": \"RuntimeValue\"}, \"mode\": \"V\", \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.0.2",
+            "type": "tool",
+            "uuid": "2da00486-1138-4c37-8863-fb65cfb4e31a",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "54c687ca-6d17-43ab-95d5-cfd3b04a34d9"
+                }
+            ]
+        },
+        "51": {
+            "annotation": "",
+            "content_id": "comp1",
+            "errors": null,
+            "id": 51,
+            "input_connections": {
+                "input1": {
+                    "id": 48,
+                    "output_name": "out_file1"
+                },
+                "input2": {
+                    "id": 49,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input1"
+                },
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input2"
+                }
+            ],
+            "label": null,
+            "name": "Compare two Datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 1458.9409298366968,
+                "top": 1533.055521647135
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "sncRNA compared with protein_coding and lncRNAs"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "final"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "comp1",
+            "tool_state": "{\"field1\": \"7\", \"field2\": \"7\", \"input1\": {\"__class__\": \"RuntimeValue\"}, \"input2\": {\"__class__\": \"RuntimeValue\"}, \"mode\": \"V\", \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.0.2",
+            "type": "tool",
+            "uuid": "19c303bc-6192-4197-9fc8-28ad7eaec8b7",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "70a11a9d-33a3-4dbd-982c-e26774472526"
+                }
+            ]
+        },
+        "52": {
+            "annotation": "",
+            "content_id": "comp1",
+            "errors": null,
+            "id": 52,
+            "input_connections": {
+                "input1": {
+                    "id": 50,
+                    "output_name": "out_file1"
+                },
+                "input2": {
+                    "id": 49,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input1"
+                },
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input2"
+                }
+            ],
+            "label": null,
+            "name": "Compare two Datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 1458.9409298366968,
+                "top": 1715.0869072808157
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "pseudogenes compared with protein coding and lncRNAs"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "comp1",
+            "tool_state": "{\"field1\": \"7\", \"field2\": \"7\", \"input1\": {\"__class__\": \"RuntimeValue\"}, \"input2\": {\"__class__\": \"RuntimeValue\"}, \"mode\": \"V\", \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.0.2",
+            "type": "tool",
+            "uuid": "bd2b021a-a54f-4cd1-8a33-7f66b3955d97",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "81aee6fb-a712-40a3-8bd1-895c171aace8"
+                }
+            ]
+        },
+        "53": {
+            "annotation": "",
+            "content_id": "comp1",
+            "errors": null,
+            "id": 53,
+            "input_connections": {
+                "input1": {
+                    "id": 52,
+                    "output_name": "out_file1"
+                },
+                "input2": {
+                    "id": 51,
+                    "output_name": "out_file1"
+                }
+            },
+            "inputs": [
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input1"
+                },
+                {
+                    "description": "runtime parameter for tool Compare two Datasets",
+                    "name": "input2"
+                }
+            ],
+            "label": null,
+            "name": "Compare two Datasets",
+            "outputs": [
+                {
+                    "name": "out_file1",
+                    "type": "input"
+                }
+            ],
+            "position": {
+                "left": 1736.7535654703775,
+                "top": 1572.013990614149
+            },
+            "post_job_actions": {
+                "RenameDatasetActionout_file1": {
+                    "action_arguments": {
+                        "newname": "pseudogene compared with protein coding, lncRNAs and sncRNAs"
+                    },
+                    "action_type": "RenameDatasetAction",
+                    "output_name": "out_file1"
+                },
+                "TagDatasetActionout_file1": {
+                    "action_arguments": {
+                        "tags": "final"
+                    },
+                    "action_type": "TagDatasetAction",
+                    "output_name": "out_file1"
+                }
+            },
+            "tool_id": "comp1",
+            "tool_state": "{\"field1\": \"7\", \"field2\": \"7\", \"input1\": {\"__class__\": \"RuntimeValue\"}, \"input2\": {\"__class__\": \"RuntimeValue\"}, \"mode\": \"V\", \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.0.2",
+            "type": "tool",
+            "uuid": "55867151-a828-4570-a485-950b417922f6",
+            "when": null,
+            "workflow_outputs": [
+                {
+                    "label": null,
+                    "output_name": "out_file1",
+                    "uuid": "5cf0c59f-d8c3-476f-8c75-a48d4d80a5c1"
+                }
+            ]
+        }
+    },
+    "tags": [],
+    "uuid": "4755e78d-3c4f-4693-b132-cd43c8e6c0a5",
+    "version": 4
+}
