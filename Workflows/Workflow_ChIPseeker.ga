@@ -1,0 +1,202 @@
+{
+    "a_galaxy_workflow": "true",
+    "annotation": "",
+    "format-version": "0.1",
+    "name": "ChIPseeker",
+    "steps": {
+        "0": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 0,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "hypoacetylated_regions.BED"
+                }
+            ],
+            "label": "hypoacetylated_regions.BED",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 0,
+                "top": 8.888885498046875
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "f0dab15d-0b11-49b7-a295-abaaa6640558",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "1": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 1,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "gencode.v19.chr_patch_hapl_scaff.annotation.gtf.gz"
+                }
+            ],
+            "label": "gencode.v19.chr_patch_hapl_scaff.annotation.gtf.gz",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 0,
+                "top": 128.88888549804688
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "1504e697-def8-45f1-a453-052eb2efc6df",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "2": {
+            "annotation": "",
+            "content_id": null,
+            "errors": null,
+            "id": 2,
+            "input_connections": {},
+            "inputs": [
+                {
+                    "description": "",
+                    "name": "Hyperacetylated_regions.bed"
+                }
+            ],
+            "label": "Hyperacetylated_regions.bed",
+            "name": "Input dataset",
+            "outputs": [],
+            "position": {
+                "left": 0,
+                "top": 248.88888549804688
+            },
+            "tool_id": null,
+            "tool_state": "{\"optional\": false, \"tag\": null}",
+            "tool_version": null,
+            "type": "data_input",
+            "uuid": "4783f023-9fa1-4354-830b-af84111dd63e",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "3": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/rnateam/chipseeker/chipseeker/1.28.3+galaxy0",
+            "errors": null,
+            "id": 3,
+            "input_connections": {
+                "gtf_source|gtf_hist": {
+                    "id": 1,
+                    "output_name": "output"
+                },
+                "peaks": {
+                    "id": 0,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "ChIPseeker",
+            "outputs": [
+                {
+                    "name": "out_tab",
+                    "type": "interval"
+                },
+                {
+                    "name": "out_plots",
+                    "type": "pdf"
+                },
+                {
+                    "name": "out_rscript",
+                    "type": "txt"
+                },
+                {
+                    "name": "out_rdata",
+                    "type": "rdata"
+                }
+            ],
+            "position": {
+                "left": 270.0000305175781,
+                "top": 0.0
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/rnateam/chipseeker/chipseeker/1.28.3+galaxy0",
+            "tool_shed_repository": {
+                "changeset_revision": "8bd92f2404dd",
+                "name": "chipseeker",
+                "owner": "rnateam",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"__input_ext\": \"bed\", \"adv\": {\"upstream\": \"5000\", \"downstream\": \"5000\", \"flankgeneinfo\": false, \"flankgenedist\": \"5000\", \"ignoreUpstream\": false, \"ignoreDownstream\": false}, \"chromInfo\": \"/opt/galaxy/tool-data/shared/ucsc/chrom/?.len\", \"format\": \"tabular\", \"gtf_source\": {\"gtf_source_select\": \"history\", \"__current_case__\": 1, \"gtf_hist\": {\"__class__\": \"ConnectedValue\"}}, \"header\": true, \"pdf\": true, \"peaks\": {\"__class__\": \"ConnectedValue\"}, \"rdata\": true, \"rscript\": true, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.28.3+galaxy0",
+            "type": "tool",
+            "uuid": "2f8423b4-08ac-4fce-81cc-38702e542363",
+            "when": null,
+            "workflow_outputs": []
+        },
+        "4": {
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/rnateam/chipseeker/chipseeker/1.28.3+galaxy0",
+            "errors": null,
+            "id": 4,
+            "input_connections": {
+                "gtf_source|gtf_hist": {
+                    "id": 1,
+                    "output_name": "output"
+                },
+                "peaks": {
+                    "id": 2,
+                    "output_name": "output"
+                }
+            },
+            "inputs": [],
+            "label": null,
+            "name": "ChIPseeker",
+            "outputs": [
+                {
+                    "name": "out_tab",
+                    "type": "interval"
+                },
+                {
+                    "name": "out_plots",
+                    "type": "pdf"
+                },
+                {
+                    "name": "out_rscript",
+                    "type": "txt"
+                },
+                {
+                    "name": "out_rdata",
+                    "type": "rdata"
+                }
+            ],
+            "position": {
+                "left": 287.7777404785156,
+                "top": 316.66668701171875
+            },
+            "post_job_actions": {},
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/rnateam/chipseeker/chipseeker/1.28.3+galaxy0",
+            "tool_shed_repository": {
+                "changeset_revision": "8bd92f2404dd",
+                "name": "chipseeker",
+                "owner": "rnateam",
+                "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "tool_state": "{\"__input_ext\": \"bed\", \"adv\": {\"upstream\": \"5000\", \"downstream\": \"5000\", \"flankgeneinfo\": false, \"flankgenedist\": \"5000\", \"ignoreUpstream\": false, \"ignoreDownstream\": false}, \"chromInfo\": \"/opt/galaxy/tool-data/shared/ucsc/chrom/?.len\", \"format\": \"tabular\", \"gtf_source\": {\"gtf_source_select\": \"history\", \"__current_case__\": 1, \"gtf_hist\": {\"__class__\": \"ConnectedValue\"}}, \"header\": true, \"pdf\": true, \"peaks\": {\"__class__\": \"ConnectedValue\"}, \"rdata\": true, \"rscript\": true, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
+            "tool_version": "1.28.3+galaxy0",
+            "type": "tool",
+            "uuid": "9bdd47bc-ad87-40c6-b49c-6ba18a23a7d7",
+            "when": null,
+            "workflow_outputs": []
+        }
+    },
+    "tags": [],
+    "uuid": "958ac25e-3c1c-46c0-a763-814bcab4c9e9",
+    "version": 1
+}
