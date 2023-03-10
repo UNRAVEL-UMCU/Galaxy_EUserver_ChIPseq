@@ -16,3 +16,6 @@ MEME-Suite
 
 Toppfunn and String
 
+
+.. contains all the information of all the files in this github. With name and description
+
