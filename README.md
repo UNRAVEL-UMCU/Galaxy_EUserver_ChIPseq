@@ -2,9 +2,13 @@
 
 This github contains:
 
-ChIP-seq workflow:
-- a .ga file for import to other Galaxy servers
-- a .svg image of the workflow
+5 workflows in .ga format:
+- ChIPseeker
+- annotation based on biomart
+- annotation based on features from ChIPseeker total
+- annotation based on features from ChIPseeker promoter region only
+- BED to fasta for MEME-Suite
+
 
 BioMart
 
