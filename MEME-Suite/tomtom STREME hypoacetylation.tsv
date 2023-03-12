@@ -1,0 +1,12 @@
+
++Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+2-GCCTCRGCCTCCCAA	ZN770_HUMAN.H11MO.0.C	9	2.12634e-06	0.000852662	0.00170532	13	GCCTCAGCCTCCCAA	GATCCTCCCGCCTCAGCCTCCC	-
+2-GCCTCRGCCTCCCAA	IKZF1_HUMAN.H11MO.0.C	-7	6.97601e-05	0.0279738	0.0279738	8	GCCTCAGCCTCCCAA	TCTCCCAA	-
+2-GCCTCRGCCTCCCAA	CRX_HUMAN.H11MO.0.B	-1	0.00123954	0.497056	0.331371	13	GCCTCAGCCTCCCAA	CCTAATCCTCTTA	-
+3-ACAGGCRTGAGCCAC	FOS_HUMAN.H11MO.0.A	-6	0.000380461	0.152565	0.263201	9	ACAGGCATGAGCCAC	GTGAGTCAC	+
+3-ACAGGCRTGAGCCAC	ZN257_HUMAN.H11MO.0.C	0	0.000919053	0.36854	0.263201	12	ACAGGCATGAGCCAC	AGAGGCAAGAGC	-
+3-ACAGGCRTGAGCCAC	FOSB_HUMAN.H11MO.0.A	-6	0.000984542	0.394801	0.263201	9	ACAGGCATGAGCCAC	ATGAGTCAT	+
+
+# Tomtom (Motif Comparison Tool): Version 5.5.1 compiled on Feb  5 2023 at 16:40:38
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -verbosity 1 -oc streme_tomtom_out -min-overlap 5 -dist pearson -evalue -thresh 1 -no-ssc streme_out/streme.xml db/motif_databases/HUMAN/HOCOMOCOv11_core_HUMAN_mono_meme_format.meme

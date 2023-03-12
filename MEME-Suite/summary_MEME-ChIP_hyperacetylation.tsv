@@ -1,0 +1,8 @@
+MOTIF_INDEX	MOTIF_SOURCE	MOTIF_ID	ALT_ID	CONSENSUS	WIDTH	SITES	E-VALUE	E-VALUE_SOURCE	MOST_SIMILAR_MOTIF_SOURCE	MOST_SIMILAR_MOTIF	URL
+1	MEME	TTTTTTKTTTTTTTT	MEME-1	TTTTTTKTTTTTTTT	15	96	1.3e-068	MEME	db/motif_databases/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	CPEB1_HUMAN.H11MO.0.D	http://hocomoco.autosome.ru/motif/CPEB1_HUMAN.H11MO.0.D
+2	MEME	GCTGGGATTACAGGC	MEME-3	GCTGGGATTACAGGC	15	20	3.1e-028	MEME	db/motif_databases/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	PITX2_HUMAN.H11MO.0.D	http://hocomoco.autosome.ru/motif/PITX2_HUMAN.H11MO.0.D
+3	MEME	GGGHGGCSGMGGSGG	MEME-2	GGGHGGCSGMGGSGG	15	92	2.2e-014	MEME	db/motif_databases/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.0.C	http://hocomoco.autosome.ru/motif/ZN770_HUMAN.H11MO.0.C
+
+# MEME-ChIP (Motif Analysis of Large Nucleotide Datasets): Version 5.5.1 released on Sun Jan 29 10:33:12 2023 -0800
+# The format of this file is described at https://meme-suite.org/meme//doc/meme-chip-output-format.html
+# meme-chip -oc . -time 240 -ccut 100 -fdesc description -dna -order 2 -minw 6 -maxw 15 -db db/motif_databases/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme -meme-mod zoops -meme-nmotifs 3 -meme-searchsize 100000 -streme-pvt 0.05 -streme-totallength 4000000 -centrimo-score 5.0 -centrimo-ethresh 10.0 Galaxy8-hyperacetylation_fasta.fasta
