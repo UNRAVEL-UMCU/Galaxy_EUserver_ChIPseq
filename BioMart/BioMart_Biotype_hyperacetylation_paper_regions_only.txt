@@ -1,0 +1,16 @@
+Chromosome Name	Gene Start (bp)	Gene End (bp)	Associated Gene Name	Description	Transcript Biotype	Ensembl Gene ID	Ensembl Transcript ID
+20	10618332	10654694	JAG1	jagged 1 [Source:HGNC Symbol;Acc:6188]	protein_coding	ENSG00000101384	ENST00000254958
+20	10618332	10654694	JAG1	jagged 1 [Source:HGNC Symbol;Acc:6188]	protein_coding	ENSG00000101384	ENST00000423891
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000494559
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000263666
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000462146
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000466780
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000479530
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000492909
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	retained_intron	ENSG00000121440	ENST00000478209
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	processed_transcript	ENSG00000121440	ENST00000466348
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	retained_intron	ENSG00000121440	ENST00000484487
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	retained_intron	ENSG00000121440	ENST00000477434
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	processed_transcript	ENSG00000121440	ENST00000498048
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000308537
+3	73431584	73674091	PDZRN3	PDZ domain containing ring finger 3 [Source:HGNC Symbol;Acc:17704]	protein_coding	ENSG00000121440	ENST00000535920

@@ -1,0 +1,505 @@
+Chromosome Name	Gene Start (bp)	Gene End (bp)	Associated Gene Name	Description	Transcript Biotype	Ensembl Gene ID
+13	23993110	24002818	SACS-AS1	"SACS antisense RNA 1 [Source:HGNC Symbol;Acc:39835]"	lincRNA	ENSG00000229558
+13	30890497	30894040	LINC00427	"long intergenic non-protein coding RNA 427 [Source:HGNC Symbol;Acc:42762]"	lincRNA	ENSG00000236463
+13	31456070	31507983	TEX26-AS1	"TEX26 antisense RNA 1 [Source:HGNC Symbol;Acc:42784]"	antisense	ENSG00000224743
+13	110750200	110750498	RN7SL783P	"RNA, 7SL, cytoplasmic 783, pseudogene [Source:HGNC Symbol;Acc:46799]"	misc_RNA	ENSG00000265885
+13	41025131	41055143	LINC00598	"long intergenic non-protein coding RNA 598 [Source:HGNC Symbol;Acc:42770]"	lincRNA	ENSG00000215483
+18	13217497	13652754	LDLRAD4	"low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:1224]"	processed_transcript	ENSG00000168675
+18	13217497	13652754	LDLRAD4	"low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:1224]"	protein_coding	ENSG00000168675
+18	13217497	13652754	LDLRAD4	"low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:1224]"	retained_intron	ENSG00000168675
+13	49144775	49147453	LINC01077	"long intergenic non-protein coding RNA 1077 [Source:HGNC Symbol;Acc:49120]"	lincRNA	ENSG00000233456
+18	46352422	46361141	RP11-484L8.1		antisense	ENSG00000267764
+21	33869122	33869621	EXOSC3P1	"exosome component 3 pseudogene 1 [Source:HGNC Symbol;Acc:33989]"	processed_pseudogene	ENSG00000229007
+9	97586554	97587055	RP11-49O14.3		sense_intronic	ENSG00000230815
+9	470291	746105	KANK1	"KN motif and ankyrin repeat domains 1 [Source:HGNC Symbol;Acc:19309]"	protein_coding	ENSG00000107104
+9	470291	746105	KANK1	"KN motif and ankyrin repeat domains 1 [Source:HGNC Symbol;Acc:19309]"	processed_transcript	ENSG00000107104
+9	470291	746105	KANK1	"KN motif and ankyrin repeat domains 1 [Source:HGNC Symbol;Acc:19309]"	retained_intron	ENSG00000107104
+18	46065417	46389588	CTIF	"CBP80/20-dependent translation initiation factor [Source:HGNC Symbol;Acc:23925]"	protein_coding	ENSG00000134030
+18	46065417	46389588	CTIF	"CBP80/20-dependent translation initiation factor [Source:HGNC Symbol;Acc:23925]"	processed_transcript	ENSG00000134030
+18	46065417	46389588	CTIF	"CBP80/20-dependent translation initiation factor [Source:HGNC Symbol;Acc:23925]"	retained_intron	ENSG00000134030
+20	39959763	39960300	RP3-450M14.1		processed_pseudogene	ENSG00000235102
+13	21276266	21297237	IL17D	"interleukin 17D [Source:HGNC Symbol;Acc:5984]"	processed_transcript	ENSG00000172458
+13	21276266	21297237	IL17D	"interleukin 17D [Source:HGNC Symbol;Acc:5984]"	protein_coding	ENSG00000172458
+4	100010008	100222513	RP11-696N14.1		antisense	ENSG00000246090
+8	29384829	29387840	RP11-486M23.1		lincRNA	ENSG00000253632
+13	23902965	24007841	SACS	"spastic ataxia of Charlevoix-Saguenay (sacsin) [Source:HGNC Symbol;Acc:10519]"	protein_coding	ENSG00000151835
+13	23902965	24007841	SACS	"spastic ataxia of Charlevoix-Saguenay (sacsin) [Source:HGNC Symbol;Acc:10519]"	processed_transcript	ENSG00000151835
+18	20714528	20840431	CABLES1	"Cdk5 and Abl enzyme substrate 1 [Source:HGNC Symbol;Acc:25097]"	protein_coding	ENSG00000134508
+18	20714528	20840431	CABLES1	"Cdk5 and Abl enzyme substrate 1 [Source:HGNC Symbol;Acc:25097]"	nonsense_mediated_decay	ENSG00000134508
+18	20714528	20840431	CABLES1	"Cdk5 and Abl enzyme substrate 1 [Source:HGNC Symbol;Acc:25097]"	processed_transcript	ENSG00000134508
+18	20714528	20840431	CABLES1	"Cdk5 and Abl enzyme substrate 1 [Source:HGNC Symbol;Acc:25097]"	retained_intron	ENSG00000134508
+13	24304328	24463558	MIPEP	"mitochondrial intermediate peptidase [Source:HGNC Symbol;Acc:7104]"	processed_transcript	ENSG00000027001
+13	24304328	24463558	MIPEP	"mitochondrial intermediate peptidase [Source:HGNC Symbol;Acc:7104]"	protein_coding	ENSG00000027001
+8	99383583	99400475	KB-1458E12.1		lincRNA	ENSG00000254267
+18	20777108	21017925	TMEM241	"transmembrane protein 241 [Source:HGNC Symbol;Acc:31723]"	processed_transcript	ENSG00000134490
+18	20777108	21017925	TMEM241	"transmembrane protein 241 [Source:HGNC Symbol;Acc:31723]"	nonsense_mediated_decay	ENSG00000134490
+18	20777108	21017925	TMEM241	"transmembrane protein 241 [Source:HGNC Symbol;Acc:31723]"	protein_coding	ENSG00000134490
+18	20777108	21017925	TMEM241	"transmembrane protein 241 [Source:HGNC Symbol;Acc:31723]"	retained_intron	ENSG00000134490
+21	33784314	33887707	EVA1C	"eva-1 homolog C (C. elegans) [Source:HGNC Symbol;Acc:13239]"	retained_intron	ENSG00000166979
+21	33784314	33887707	EVA1C	"eva-1 homolog C (C. elegans) [Source:HGNC Symbol;Acc:13239]"	processed_transcript	ENSG00000166979
+21	33784314	33887707	EVA1C	"eva-1 homolog C (C. elegans) [Source:HGNC Symbol;Acc:13239]"	protein_coding	ENSG00000166979
+21	33784314	33887707	EVA1C	"eva-1 homolog C (C. elegans) [Source:HGNC Symbol;Acc:13239]"	nonsense_mediated_decay	ENSG00000166979
+14	89816629	89831043	RP11-356K23.1		antisense	ENSG00000258752
+8	101487903	101513376	KB-1615E4.2		antisense	ENSG00000253666
+8	101504756	101505941	KB-1615E4.3		antisense	ENSG00000254364
+9	129677053	129985445	RALGPS1	"Ral GEF with PH domain and SH3 binding motif 1 [Source:HGNC Symbol;Acc:16851]"	protein_coding	ENSG00000136828
+9	129677053	129985445	RALGPS1	"Ral GEF with PH domain and SH3 binding motif 1 [Source:HGNC Symbol;Acc:16851]"	retained_intron	ENSG00000136828
+9	129677053	129985445	RALGPS1	"Ral GEF with PH domain and SH3 binding motif 1 [Source:HGNC Symbol;Acc:16851]"	processed_transcript	ENSG00000136828
+10	31982012	31996316	RP11-472N13.3		lincRNA	ENSG00000237797
+5	66675206	67101066	RP11-434D9.1		lincRNA	ENSG00000249364
+5	66675206	67101066	RP11-434D9.1		retained_intron	ENSG00000249364
+8	103935599	103936483	RPL5P24	"ribosomal protein L5 pseudogene 24 [Source:HGNC Symbol;Acc:35828]"	processed_pseudogene	ENSG00000244052
+6	155153831	155578857	TIAM2	"T-cell lymphoma invasion and metastasis 2 [Source:HGNC Symbol;Acc:11806]"	protein_coding	ENSG00000146426
+6	155153831	155578857	TIAM2	"T-cell lymphoma invasion and metastasis 2 [Source:HGNC Symbol;Acc:11806]"	processed_transcript	ENSG00000146426
+6	155153831	155578857	TIAM2	"T-cell lymphoma invasion and metastasis 2 [Source:HGNC Symbol;Acc:11806]"	nonsense_mediated_decay	ENSG00000146426
+6	155153831	155578857	TIAM2	"T-cell lymphoma invasion and metastasis 2 [Source:HGNC Symbol;Acc:11806]"	retained_intron	ENSG00000146426
+15	95819690	95870358	CTD-2536I1.1		lincRNA	ENSG00000248441
+2	38302791	38408997	CYP1B1-AS1	"CYP1B1 antisense RNA 1 [Source:HGNC Symbol;Acc:28543]"	antisense	ENSG00000232973
+10	129705325	129884119	PTPRE	"protein tyrosine phosphatase, receptor type, E [Source:HGNC Symbol;Acc:9669]"	protein_coding	ENSG00000132334
+10	129705325	129884119	PTPRE	"protein tyrosine phosphatase, receptor type, E [Source:HGNC Symbol;Acc:9669]"	retained_intron	ENSG00000132334
+10	129705325	129884119	PTPRE	"protein tyrosine phosphatase, receptor type, E [Source:HGNC Symbol;Acc:9669]"	nonsense_mediated_decay	ENSG00000132334
+10	33500205	33502732	RP11-342D11.2		antisense	ENSG00000238258
+12	54747445	54891472	RP11-753H16.3		antisense	ENSG00000258137
+15	101433945	101459488	RP11-66B24.4		antisense	ENSG00000259583
+2	109150857	109303702	LIMS1	"LIM and senescent cell antigen-like domains 1 [Source:HGNC Symbol;Acc:6616]"	protein_coding	ENSG00000169756
+2	109150857	109303702	LIMS1	"LIM and senescent cell antigen-like domains 1 [Source:HGNC Symbol;Acc:6616]"	processed_transcript	ENSG00000169756
+2	109150857	109303702	LIMS1	"LIM and senescent cell antigen-like domains 1 [Source:HGNC Symbol;Acc:6616]"	nonsense_mediated_decay	ENSG00000169756
+2	109150857	109303702	LIMS1	"LIM and senescent cell antigen-like domains 1 [Source:HGNC Symbol;Acc:6616]"	retained_intron	ENSG00000169756
+8	38558144	38562373	RP11-495O10.1		lincRNA	ENSG00000254321
+3	15358127	15358229	snoU13	"Small nucleolar RNA U13 [Source:RFAM;Acc:RF01210]"	snoRNA	ENSG00000238891
+12	54747576	54860769	RP11-753H16.5		antisense	ENSG00000258086
+9	135644840	135645599	RP11-295G24.5		sense_intronic	ENSG00000224992
+2	178148236	178257419	AC074286.1		sense_overlapping	ENSG00000213963
+4	124411423	124443261	RP11-381N20.2		lincRNA	ENSG00000249125
+4	124426434	124448680	RP11-381N20.1		lincRNA	ENSG00000251526
+1	229576031	229576767	RP5-1068B5.3		lincRNA	ENSG00000226920
+1	85742398	85913807	RP11-131L23.1		antisense	ENSG00000223653
+15	71088936	71095027	RPL29P30	"ribosomal protein L29 pseudogene 30 [Source:HGNC Symbol;Acc:36601]"	processed_transcript	ENSG00000235420
+15	71088936	71095027	RPL29P30	"ribosomal protein L29 pseudogene 30 [Source:HGNC Symbol;Acc:36601]"	transcribed_processed_pseudogene	ENSG00000235420
+15	71088936	71095027	RPL29P30	"ribosomal protein L29 pseudogene 30 [Source:HGNC Symbol;Acc:36601]"	processed_pseudogene	ENSG00000235420
+8	124600999	124601286	RN7SKP155	"RNA, 7SK small nuclear pseudogene 155 [Source:HGNC Symbol;Acc:45879]"	misc_RNA	ENSG00000251840
+1	87595448	87634881	LINC01140	"long intergenic non-protein coding RNA 1140 [Source:HGNC Symbol;Acc:27922]"	lincRNA	ENSG00000267272
+1	33452553	33453834	RP4-803A2.2		unprocessed_pseudogene	ENSG00000239670
+1	87616981	87617128	AL139139.1		miRNA	ENSG00000221222
+1	33452676	33498070	RP1-117O3.2		antisense	ENSG00000236065
+8	18837129	18837282	SNORA62	"Small nucleolar RNA SNORA62/SNORA6 family [Source:RFAM;Acc:RF00091]"	snoRNA	ENSG00000201157
+1	236121179	236135125	RP4-580N22.2		lincRNA	ENSG00000229291
+1	39672184	39672629	RP11-416A14.1		sense_intronic	ENSG00000270040
+6	30718815	30719062	RN7SL353P	"RNA, 7SL, cytoplasmic 353, pseudogene [Source:HGNC Symbol;Acc:46369]"	misc_RNA	ENSG00000263608
+5	172890503	172911587	CTB-164N12.1		lincRNA	ENSG00000253141
+7	25632971	25790614	AC003090.1		lincRNA	ENSG00000223561
+8	23193684	23223638	RP11-177H13.2		retained_intron	ENSG00000253837
+8	23193684	23223638	RP11-177H13.2		antisense	ENSG00000253837
+1	95302304	95320982	RP11-465K1.2		antisense	ENSG00000237416
+1	95302304	95320982	RP11-465K1.2		retained_intron	ENSG00000237416
+1	95393122	95428826	RP4-639F20.1		antisense	ENSG00000235501
+17	57924799	57924905	RNU6-450P	"RNA, U6 small nuclear 450, pseudogene [Source:HGNC Symbol;Acc:47413]"	snRNA	ENSG00000201524
+8	128806779	129113499	PVT1	"Pvt1 oncogene (non-protein coding) [Source:HGNC Symbol;Acc:9709]"	lincRNA	ENSG00000249859
+8	128806779	129113499	PVT1	"Pvt1 oncogene (non-protein coding) [Source:HGNC Symbol;Acc:9709]"	processed_transcript	ENSG00000249859
+8	128806779	129113499	PVT1	"Pvt1 oncogene (non-protein coding) [Source:HGNC Symbol;Acc:9709]"	miRNA	ENSG00000249859
+22	28144265	28197486	MN1	"meningioma (disrupted in balanced translocation) 1 [Source:HGNC Symbol;Acc:7180]"	protein_coding	ENSG00000169184
+22	28144265	28197486	MN1	"meningioma (disrupted in balanced translocation) 1 [Source:HGNC Symbol;Acc:7180]"	nonsense_mediated_decay	ENSG00000169184
+22	28144265	28197486	MN1	"meningioma (disrupted in balanced translocation) 1 [Source:HGNC Symbol;Acc:7180]"	processed_transcript	ENSG00000169184
+5	141704858	142051566	AC005592.2		antisense	ENSG00000231185
+8	81035087	81039905	RP11-92K15.1		antisense	ENSG00000254205
+3	171757418	172119455	FNDC3B	"fibronectin type III domain containing 3B [Source:HGNC Symbol;Acc:24670]"	protein_coding	ENSG00000075420
+3	171757418	172119455	FNDC3B	"fibronectin type III domain containing 3B [Source:HGNC Symbol;Acc:24670]"	retained_intron	ENSG00000075420
+3	171757418	172119455	FNDC3B	"fibronectin type III domain containing 3B [Source:HGNC Symbol;Acc:24670]"	processed_transcript	ENSG00000075420
+12	50031724	50101948	FMNL3	"formin-like 3 [Source:HGNC Symbol;Acc:23698]"	protein_coding	ENSG00000161791
+12	50031724	50101948	FMNL3	"formin-like 3 [Source:HGNC Symbol;Acc:23698]"	processed_transcript	ENSG00000161791
+12	50031724	50101948	FMNL3	"formin-like 3 [Source:HGNC Symbol;Acc:23698]"	retained_intron	ENSG00000161791
+5	151056506	151104343	CTB-113P19.1		antisense	ENSG00000249035
+3	172223298	172241297	TNFSF10	"tumor necrosis factor (ligand) superfamily, member 10 [Source:HGNC Symbol;Acc:11925]"	protein_coding	ENSG00000121858
+3	172223298	172241297	TNFSF10	"tumor necrosis factor (ligand) superfamily, member 10 [Source:HGNC Symbol;Acc:11925]"	nonsense_mediated_decay	ENSG00000121858
+3	172223298	172241297	TNFSF10	"tumor necrosis factor (ligand) superfamily, member 10 [Source:HGNC Symbol;Acc:11925]"	retained_intron	ENSG00000121858
+11	112658027	112666577	RP11-27G22.1		lincRNA	ENSG00000254626
+3	27674467	27675211	AC098614.2		processed_pseudogene	ENSG00000213846
+13	33006554	33112970	N4BP2L2	"NEDD4 binding protein 2-like 2 [Source:HGNC Symbol;Acc:26916]"	processed_transcript	ENSG00000244754
+13	33006554	33112970	N4BP2L2	"NEDD4 binding protein 2-like 2 [Source:HGNC Symbol;Acc:26916]"	protein_coding	ENSG00000244754
+13	33006554	33112970	N4BP2L2	"NEDD4 binding protein 2-like 2 [Source:HGNC Symbol;Acc:26916]"	retained_intron	ENSG00000244754
+17	4067201	4167274	ANKFY1	"ankyrin repeat and FYVE domain containing 1 [Source:HGNC Symbol;Acc:20763]"	protein_coding	ENSG00000185722
+17	4067201	4167274	ANKFY1	"ankyrin repeat and FYVE domain containing 1 [Source:HGNC Symbol;Acc:20763]"	nonsense_mediated_decay	ENSG00000185722
+17	4067201	4167274	ANKFY1	"ankyrin repeat and FYVE domain containing 1 [Source:HGNC Symbol;Acc:20763]"	retained_intron	ENSG00000185722
+17	4067201	4167274	ANKFY1	"ankyrin repeat and FYVE domain containing 1 [Source:HGNC Symbol;Acc:20763]"	processed_transcript	ENSG00000185722
+11	69860964	69867165	RP11-626H12.2		lincRNA	ENSG00000254605
+8	17501304	17658426	MTUS1	"microtubule associated tumor suppressor 1 [Source:HGNC Symbol;Acc:29789]"	retained_intron	ENSG00000129422
+8	17501304	17658426	MTUS1	"microtubule associated tumor suppressor 1 [Source:HGNC Symbol;Acc:29789]"	protein_coding	ENSG00000129422
+8	17501304	17658426	MTUS1	"microtubule associated tumor suppressor 1 [Source:HGNC Symbol;Acc:29789]"	nonsense_mediated_decay	ENSG00000129422
+8	17501304	17658426	MTUS1	"microtubule associated tumor suppressor 1 [Source:HGNC Symbol;Acc:29789]"	processed_transcript	ENSG00000129422
+6	152442819	152958936	SYNE1	"spectrin repeat containing, nuclear envelope 1 [Source:HGNC Symbol;Acc:17089]"	protein_coding	ENSG00000131018
+6	152442819	152958936	SYNE1	"spectrin repeat containing, nuclear envelope 1 [Source:HGNC Symbol;Acc:17089]"	retained_intron	ENSG00000131018
+6	152442819	152958936	SYNE1	"spectrin repeat containing, nuclear envelope 1 [Source:HGNC Symbol;Acc:17089]"	processed_transcript	ENSG00000131018
+6	152442819	152958936	SYNE1	"spectrin repeat containing, nuclear envelope 1 [Source:HGNC Symbol;Acc:17089]"	nonsense_mediated_decay	ENSG00000131018
+2	69240310	69476459	ANTXR1	"anthrax toxin receptor 1 [Source:HGNC Symbol;Acc:21014]"	protein_coding	ENSG00000169604
+2	69240310	69476459	ANTXR1	"anthrax toxin receptor 1 [Source:HGNC Symbol;Acc:21014]"	retained_intron	ENSG00000169604
+10	46937463	46951699	RP11-38L15.2		lincRNA	ENSG00000229227
+15	101417919	101456831	ALDH1A3	"aldehyde dehydrogenase 1 family, member A3 [Source:HGNC Symbol;Acc:409]"	protein_coding	ENSG00000184254
+15	101417919	101456831	ALDH1A3	"aldehyde dehydrogenase 1 family, member A3 [Source:HGNC Symbol;Acc:409]"	nonsense_mediated_decay	ENSG00000184254
+15	101417919	101456831	ALDH1A3	"aldehyde dehydrogenase 1 family, member A3 [Source:HGNC Symbol;Acc:409]"	processed_transcript	ENSG00000184254
+15	101417919	101456831	ALDH1A3	"aldehyde dehydrogenase 1 family, member A3 [Source:HGNC Symbol;Acc:409]"	retained_intron	ENSG00000184254
+11	3875757	4114439	STIM1	"stromal interaction molecule 1 [Source:HGNC Symbol;Acc:11386]"	protein_coding	ENSG00000167323
+11	3875757	4114439	STIM1	"stromal interaction molecule 1 [Source:HGNC Symbol;Acc:11386]"	processed_transcript	ENSG00000167323
+11	3875757	4114439	STIM1	"stromal interaction molecule 1 [Source:HGNC Symbol;Acc:11386]"	retained_intron	ENSG00000167323
+11	122026130	122293579	RP11-820L6.1		lincRNA	ENSG00000255090
+11	122026130	122293579	RP11-820L6.1		processed_transcript	ENSG00000255090
+10	29746267	30025710	SVIL	"supervillin [Source:HGNC Symbol;Acc:11480]"	protein_coding	ENSG00000197321
+10	29746267	30025710	SVIL	"supervillin [Source:HGNC Symbol;Acc:11480]"	processed_transcript	ENSG00000197321
+11	12115543	12285334	MICAL2	"microtubule associated monooxygenase, calponin and LIM domain containing 2 [Source:HGNC Symbol;Acc:24693]"	protein_coding	ENSG00000133816
+11	12115543	12285334	MICAL2	"microtubule associated monooxygenase, calponin and LIM domain containing 2 [Source:HGNC Symbol;Acc:24693]"	processed_transcript	ENSG00000133816
+11	12115543	12285334	MICAL2	"microtubule associated monooxygenase, calponin and LIM domain containing 2 [Source:HGNC Symbol;Acc:24693]"	retained_intron	ENSG00000133816
+7	137559725	137686813	CREB3L2	"cAMP responsive element binding protein 3-like 2 [Source:HGNC Symbol;Acc:23720]"	protein_coding	ENSG00000182158
+7	137559725	137686813	CREB3L2	"cAMP responsive element binding protein 3-like 2 [Source:HGNC Symbol;Acc:23720]"	processed_transcript	ENSG00000182158
+15	101459420	101610317	LRRK1	"leucine-rich repeat kinase 1 [Source:HGNC Symbol;Acc:18608]"	protein_coding	ENSG00000154237
+15	101459420	101610317	LRRK1	"leucine-rich repeat kinase 1 [Source:HGNC Symbol;Acc:18608]"	retained_intron	ENSG00000154237
+15	101459420	101610317	LRRK1	"leucine-rich repeat kinase 1 [Source:HGNC Symbol;Acc:18608]"	nonsense_mediated_decay	ENSG00000154237
+15	101459420	101610317	LRRK1	"leucine-rich repeat kinase 1 [Source:HGNC Symbol;Acc:18608]"	processed_transcript	ENSG00000154237
+2	1635659	1748624	PXDN	"peroxidasin homolog (Drosophila) [Source:HGNC Symbol;Acc:14966]"	protein_coding	ENSG00000130508
+2	1635659	1748624	PXDN	"peroxidasin homolog (Drosophila) [Source:HGNC Symbol;Acc:14966]"	retained_intron	ENSG00000130508
+2	1635659	1748624	PXDN	"peroxidasin homolog (Drosophila) [Source:HGNC Symbol;Acc:14966]"	nonsense_mediated_decay	ENSG00000130508
+2	1635659	1748624	PXDN	"peroxidasin homolog (Drosophila) [Source:HGNC Symbol;Acc:14966]"	processed_transcript	ENSG00000130508
+10	46951472	46966835	RP11-38L15.3		antisense	ENSG00000231187
+15	101715928	101792137	CHSY1	"chondroitin sulfate synthase 1 [Source:HGNC Symbol;Acc:17198]"	protein_coding	ENSG00000131873
+15	101715928	101792137	CHSY1	"chondroitin sulfate synthase 1 [Source:HGNC Symbol;Acc:17198]"	processed_transcript	ENSG00000131873
+10	33466420	33625190	NRP1	"neuropilin 1 [Source:HGNC Symbol;Acc:8004]"	protein_coding	ENSG00000099250
+11	111473115	111601577	SIK2	"salt-inducible kinase 2 [Source:HGNC Symbol;Acc:21680]"	protein_coding	ENSG00000170145
+11	111473115	111601577	SIK2	"salt-inducible kinase 2 [Source:HGNC Symbol;Acc:21680]"	processed_transcript	ENSG00000170145
+11	111597632	111637151	PPP2R1B	"protein phosphatase 2, regulatory subunit A, beta [Source:HGNC Symbol;Acc:9303]"	protein_coding	ENSG00000137713
+11	111597632	111637151	PPP2R1B	"protein phosphatase 2, regulatory subunit A, beta [Source:HGNC Symbol;Acc:9303]"	processed_transcript	ENSG00000137713
+11	111597632	111637151	PPP2R1B	"protein phosphatase 2, regulatory subunit A, beta [Source:HGNC Symbol;Acc:9303]"	nonsense_mediated_decay	ENSG00000137713
+11	111597632	111637151	PPP2R1B	"protein phosphatase 2, regulatory subunit A, beta [Source:HGNC Symbol;Acc:9303]"	retained_intron	ENSG00000137713
+3	42846244	42929466	ACKR2	"atypical chemokine receptor 2 [Source:HGNC Symbol;Acc:1565]"	processed_transcript	ENSG00000144648
+3	42846244	42929466	ACKR2	"atypical chemokine receptor 2 [Source:HGNC Symbol;Acc:1565]"	protein_coding	ENSG00000144648
+3	182895831	183146566	MCF2L2	"MCF.2 cell line derived transforming sequence-like 2 [Source:HGNC Symbol;Acc:30319]"	protein_coding	ENSG00000053524
+3	182895831	183146566	MCF2L2	"MCF.2 cell line derived transforming sequence-like 2 [Source:HGNC Symbol;Acc:30319]"	retained_intron	ENSG00000053524
+3	182895831	183146566	MCF2L2	"MCF.2 cell line derived transforming sequence-like 2 [Source:HGNC Symbol;Acc:30319]"	processed_transcript	ENSG00000053524
+17	38459457	38460909	CTD-2267D19.6		lincRNA	ENSG00000270145
+5	14143811	14532235	TRIO	"trio Rho guanine nucleotide exchange factor [Source:HGNC Symbol;Acc:12303]"	retained_intron	ENSG00000038382
+5	14143811	14532235	TRIO	"trio Rho guanine nucleotide exchange factor [Source:HGNC Symbol;Acc:12303]"	protein_coding	ENSG00000038382
+5	14143811	14532235	TRIO	"trio Rho guanine nucleotide exchange factor [Source:HGNC Symbol;Acc:12303]"	nonsense_mediated_decay	ENSG00000038382
+5	14143811	14532235	TRIO	"trio Rho guanine nucleotide exchange factor [Source:HGNC Symbol;Acc:12303]"	processed_transcript	ENSG00000038382
+14	69403319	69403581	BANF1P1	"barrier to autointegration factor 1 pseudogene 1 [Source:HGNC Symbol;Acc:20252]"	processed_pseudogene	ENSG00000258531
+3	42850938	43097363	KRBOX1	"KRAB domain-containing protein 1  [Source:UniProtKB/Swiss-Prot;Acc:C9JBD0]"	processed_transcript	ENSG00000273291
+3	42850938	43097363	KRBOX1	"KRAB domain-containing protein 1  [Source:UniProtKB/Swiss-Prot;Acc:C9JBD0]"	nonsense_mediated_decay	ENSG00000273291
+3	42850938	43097363	KRBOX1	"KRAB domain-containing protein 1  [Source:UniProtKB/Swiss-Prot;Acc:C9JBD0]"	protein_coding	ENSG00000273291
+3	42850975	42984284	KRBOX1	"KRAB box domain containing 1 [Source:HGNC Symbol;Acc:38708]"	protein_coding	ENSG00000240747
+3	42850975	42984284	KRBOX1	"KRAB box domain containing 1 [Source:HGNC Symbol;Acc:38708]"	retained_intron	ENSG00000240747
+6	76311225	76427997	SENP6	"SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:20944]"	protein_coding	ENSG00000112701
+6	76311225	76427997	SENP6	"SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:20944]"	nonsense_mediated_decay	ENSG00000112701
+6	76311225	76427997	SENP6	"SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:20944]"	retained_intron	ENSG00000112701
+6	76311225	76427997	SENP6	"SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:20944]"	processed_transcript	ENSG00000112701
+15	101840818	102065405	PCSK6	"proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:8569]"	protein_coding	ENSG00000140479
+15	101840818	102065405	PCSK6	"proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:8569]"	processed_transcript	ENSG00000140479
+15	101840818	102065405	PCSK6	"proprotein convertase subtilisin/kexin type 6 [Source:HGNC Symbol;Acc:8569]"	retained_intron	ENSG00000140479
+7	4683388	4811074	FOXK1	"forkhead box K1 [Source:HGNC Symbol;Acc:23480]"	protein_coding	ENSG00000164916
+7	4683388	4811074	FOXK1	"forkhead box K1 [Source:HGNC Symbol;Acc:23480]"	retained_intron	ENSG00000164916
+3	99219191	99224352	RP11-779P15.1		lincRNA	ENSG00000243296
+3	182971032	183016292	B3GNT5	"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5 [Source:HGNC Symbol;Acc:15684]"	protein_coding	ENSG00000176597
+3	182971032	183016292	B3GNT5	"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5 [Source:HGNC Symbol;Acc:15684]"	processed_transcript	ENSG00000176597
+8	18384811	18942240	PSD3	"pleckstrin and Sec7 domain containing 3 [Source:HGNC Symbol;Acc:19093]"	protein_coding	ENSG00000156011
+8	18384811	18942240	PSD3	"pleckstrin and Sec7 domain containing 3 [Source:HGNC Symbol;Acc:19093]"	nonsense_mediated_decay	ENSG00000156011
+8	18384811	18942240	PSD3	"pleckstrin and Sec7 domain containing 3 [Source:HGNC Symbol;Acc:19093]"	processed_transcript	ENSG00000156011
+8	18384811	18942240	PSD3	"pleckstrin and Sec7 domain containing 3 [Source:HGNC Symbol;Acc:19093]"	retained_intron	ENSG00000156011
+15	67356101	67487533	SMAD3	"SMAD family member 3 [Source:HGNC Symbol;Acc:6769]"	protein_coding	ENSG00000166949
+15	67356101	67487533	SMAD3	"SMAD family member 3 [Source:HGNC Symbol;Acc:6769]"	retained_intron	ENSG00000166949
+2	28856148	28887406	AC074011.2		antisense	ENSG00000230730
+2	105974169	106054970	FHL2	"four and a half LIM domains 2 [Source:HGNC Symbol;Acc:3703]"	protein_coding	ENSG00000115641
+2	105974169	106054970	FHL2	"four and a half LIM domains 2 [Source:HGNC Symbol;Acc:3703]"	nonsense_mediated_decay	ENSG00000115641
+3	42846696	42893920	RP11-70C1.3		antisense	ENSG00000235288
+3	42850906	42949597	RP11-141M3.5		processed_transcript	ENSG00000273328
+2	178092323	178257425	NFE2L2	"nuclear factor, erythroid 2-like 2 [Source:HGNC Symbol;Acc:7782]"	protein_coding	ENSG00000116044
+2	178092323	178257425	NFE2L2	"nuclear factor, erythroid 2-like 2 [Source:HGNC Symbol;Acc:7782]"	retained_intron	ENSG00000116044
+15	67435072	67439277	RP11-342M21.2	"Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:H0YK76]"	protein_coding	ENSG00000259202
+15	60639333	60695082	ANXA2	"annexin A2 [Source:HGNC Symbol;Acc:537]"	protein_coding	ENSG00000182718
+15	60639333	60695082	ANXA2	"annexin A2 [Source:HGNC Symbol;Acc:537]"	retained_intron	ENSG00000182718
+15	60639333	60695082	ANXA2	"annexin A2 [Source:HGNC Symbol;Acc:537]"	nonsense_mediated_decay	ENSG00000182718
+15	60639333	60695082	ANXA2	"annexin A2 [Source:HGNC Symbol;Acc:537]"	processed_transcript	ENSG00000182718
+10	50222290	50323554	VSTM4	"V-set and transmembrane domain containing 4 [Source:HGNC Symbol;Acc:26470]"	protein_coding	ENSG00000165633
+10	50222290	50323554	VSTM4	"V-set and transmembrane domain containing 4 [Source:HGNC Symbol;Acc:26470]"	retained_intron	ENSG00000165633
+17	25783670	25953461	KSR1	"kinase suppressor of ras 1 [Source:HGNC Symbol;Acc:6465]"	protein_coding	ENSG00000141068
+17	25783670	25953461	KSR1	"kinase suppressor of ras 1 [Source:HGNC Symbol;Acc:6465]"	processed_transcript	ENSG00000141068
+17	25783670	25953461	KSR1	"kinase suppressor of ras 1 [Source:HGNC Symbol;Acc:6465]"	retained_intron	ENSG00000141068
+17	25783670	25953461	KSR1	"kinase suppressor of ras 1 [Source:HGNC Symbol;Acc:6465]"	nonsense_mediated_decay	ENSG00000141068
+14	75081396	75083350	CTD-2207P18.2		lincRNA	ENSG00000258976
+20	10415951	10617477	SLX4IP	"SLX4 interacting protein [Source:HGNC Symbol;Acc:16225]"	protein_coding	ENSG00000149346
+20	10415951	10617477	SLX4IP	"SLX4 interacting protein [Source:HGNC Symbol;Acc:16225]"	nonsense_mediated_decay	ENSG00000149346
+3	148568720	148677899	RP11-680B3.2		antisense	ENSG00000240521
+13	42031695	42045018	RGCC	"regulator of cell cycle [Source:HGNC Symbol;Acc:20369]"	protein_coding	ENSG00000102760
+13	42031695	42045018	RGCC	"regulator of cell cycle [Source:HGNC Symbol;Acc:20369]"	processed_transcript	ENSG00000102760
+6	108881038	109005977	FOXO3	"forkhead box O3 [Source:HGNC Symbol;Acc:3821]"	protein_coding	ENSG00000118689
+10	104563686	104563788	RNU6-1231P	"RNA, U6 small nuclear 1231, pseudogene [Source:HGNC Symbol;Acc:48194]"	snRNA	ENSG00000252994
+12	75956982	76377795	RP11-114H23.1		lincRNA	ENSG00000258077
+2	46520806	46613836	EPAS1	"endothelial PAS domain protein 1 [Source:HGNC Symbol;Acc:3374]"	processed_transcript	ENSG00000116016
+2	46520806	46613836	EPAS1	"endothelial PAS domain protein 1 [Source:HGNC Symbol;Acc:3374]"	protein_coding	ENSG00000116016
+2	46520806	46613836	EPAS1	"endothelial PAS domain protein 1 [Source:HGNC Symbol;Acc:3374]"	retained_intron	ENSG00000116016
+5	40909354	40983041	C7	"complement component 7 [Source:HGNC Symbol;Acc:1346]"	protein_coding	ENSG00000112936
+5	40909354	40983041	C7	"complement component 7 [Source:HGNC Symbol;Acc:1346]"	retained_intron	ENSG00000112936
+5	40909354	40983041	C7	"complement component 7 [Source:HGNC Symbol;Acc:1346]"	processed_transcript	ENSG00000112936
+22	20850200	20941919	MED15	"mediator complex subunit 15 [Source:HGNC Symbol;Acc:14248]"	protein_coding	ENSG00000099917
+22	20850200	20941919	MED15	"mediator complex subunit 15 [Source:HGNC Symbol;Acc:14248]"	nonsense_mediated_decay	ENSG00000099917
+22	20850200	20941919	MED15	"mediator complex subunit 15 [Source:HGNC Symbol;Acc:14248]"	retained_intron	ENSG00000099917
+22	20850200	20941919	MED15	"mediator complex subunit 15 [Source:HGNC Symbol;Acc:14248]"	processed_transcript	ENSG00000099917
+9	132815705	132902448	GPR107	"G protein-coupled receptor 107 [Source:HGNC Symbol;Acc:17830]"	protein_coding	ENSG00000148358
+9	132815705	132902448	GPR107	"G protein-coupled receptor 107 [Source:HGNC Symbol;Acc:17830]"	nonsense_mediated_decay	ENSG00000148358
+9	132815705	132902448	GPR107	"G protein-coupled receptor 107 [Source:HGNC Symbol;Acc:17830]"	processed_transcript	ENSG00000148358
+22	32340447	32353590	YWHAH	"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta [Source:HGNC Symbol;Acc:12853]"	protein_coding	ENSG00000128245
+22	32340447	32353590	YWHAH	"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta [Source:HGNC Symbol;Acc:12853]"	nonsense_mediated_decay	ENSG00000128245
+22	32340447	32353590	YWHAH	"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta [Source:HGNC Symbol;Acc:12853]"	processed_transcript	ENSG00000128245
+3	14444076	14530857	SLC6A6	"solute carrier family 6 (neurotransmitter transporter), member 6 [Source:HGNC Symbol;Acc:11052]"	processed_transcript	ENSG00000131389
+3	14444076	14530857	SLC6A6	"solute carrier family 6 (neurotransmitter transporter), member 6 [Source:HGNC Symbol;Acc:11052]"	nonsense_mediated_decay	ENSG00000131389
+3	14444076	14530857	SLC6A6	"solute carrier family 6 (neurotransmitter transporter), member 6 [Source:HGNC Symbol;Acc:11052]"	protein_coding	ENSG00000131389
+3	14444076	14530857	SLC6A6	"solute carrier family 6 (neurotransmitter transporter), member 6 [Source:HGNC Symbol;Acc:11052]"	retained_intron	ENSG00000131389
+1	214522039	214725792	PTPN14	"protein tyrosine phosphatase, non-receptor type 14 [Source:HGNC Symbol;Acc:9647]"	protein_coding	ENSG00000152104
+1	214522039	214725792	PTPN14	"protein tyrosine phosphatase, non-receptor type 14 [Source:HGNC Symbol;Acc:9647]"	processed_transcript	ENSG00000152104
+5	166711804	167691162	TENM2	"teneurin transmembrane protein 2 [Source:HGNC Symbol;Acc:29943]"	protein_coding	ENSG00000145934
+5	166711804	167691162	TENM2	"teneurin transmembrane protein 2 [Source:HGNC Symbol;Acc:29943]"	processed_transcript	ENSG00000145934
+5	166711804	167691162	TENM2	"teneurin transmembrane protein 2 [Source:HGNC Symbol;Acc:29943]"	retained_intron	ENSG00000145934
+6	11712287	11807279	ADTRP	"androgen-dependent TFPI-regulating protein [Source:HGNC Symbol;Acc:21214]"	nonsense_mediated_decay	ENSG00000111863
+6	11712287	11807279	ADTRP	"androgen-dependent TFPI-regulating protein [Source:HGNC Symbol;Acc:21214]"	protein_coding	ENSG00000111863
+6	11712287	11807279	ADTRP	"androgen-dependent TFPI-regulating protein [Source:HGNC Symbol;Acc:21214]"	processed_transcript	ENSG00000111863
+2	33172039	33624576	LTBP1	"latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:6714]"	protein_coding	ENSG00000049323
+2	33172039	33624576	LTBP1	"latent transforming growth factor beta binding protein 1 [Source:HGNC Symbol;Acc:6714]"	processed_transcript	ENSG00000049323
+7	130621223	130624420	RP11-138A9.2		lincRNA	ENSG00000273319
+7	130626519	130794935	LINC-PINT	"long intergenic non-protein coding RNA, p53 induced transcript [Source:HGNC Symbol;Acc:26885]"	antisense	ENSG00000231721
+18	60790579	60987361	BCL2	"B-cell CLL/lymphoma 2 [Source:HGNC Symbol;Acc:990]"	protein_coding	ENSG00000171791
+18	60790579	60987361	BCL2	"B-cell CLL/lymphoma 2 [Source:HGNC Symbol;Acc:990]"	processed_transcript	ENSG00000171791
+11	7534529	7678358	PPFIBP2	"PTPRF interacting protein, binding protein 2 (liprin beta 2) [Source:HGNC Symbol;Acc:9250]"	protein_coding	ENSG00000166387
+11	7534529	7678358	PPFIBP2	"PTPRF interacting protein, binding protein 2 (liprin beta 2) [Source:HGNC Symbol;Acc:9250]"	processed_transcript	ENSG00000166387
+11	7534529	7678358	PPFIBP2	"PTPRF interacting protein, binding protein 2 (liprin beta 2) [Source:HGNC Symbol;Acc:9250]"	retained_intron	ENSG00000166387
+15	71123863	71146498	LARP6	"La ribonucleoprotein domain family, member 6 [Source:HGNC Symbol;Acc:24012]"	protein_coding	ENSG00000166173
+15	71123863	71146498	LARP6	"La ribonucleoprotein domain family, member 6 [Source:HGNC Symbol;Acc:24012]"	processed_transcript	ENSG00000166173
+4	77870856	77961537	sep-11	"septin 11 [Source:HGNC Symbol;Acc:25589]"	protein_coding	ENSG00000138758
+4	77870856	77961537	sep-11	"septin 11 [Source:HGNC Symbol;Acc:25589]"	processed_transcript	ENSG00000138758
+4	77870856	77961537	sep-11	"septin 11 [Source:HGNC Symbol;Acc:25589]"	retained_intron	ENSG00000138758
+13	50656307	51297372	DLEU1	"deleted in lymphocytic leukemia 1 (non-protein coding) [Source:HGNC Symbol;Acc:13747]"	processed_transcript	ENSG00000176124
+13	50656307	51297372	DLEU1	"deleted in lymphocytic leukemia 1 (non-protein coding) [Source:HGNC Symbol;Acc:13747]"	protein_coding	ENSG00000176124
+2	28680012	28866654	PLB1	"phospholipase B1 [Source:HGNC Symbol;Acc:30041]"	protein_coding	ENSG00000163803
+2	28680012	28866654	PLB1	"phospholipase B1 [Source:HGNC Symbol;Acc:30041]"	retained_intron	ENSG00000163803
+2	28680012	28866654	PLB1	"phospholipase B1 [Source:HGNC Symbol;Acc:30041]"	nonsense_mediated_decay	ENSG00000163803
+12	89765597	89766136	RP11-1109F11.5		lincRNA	ENSG00000271259
+8	42273993	42397069	SLC20A2	"solute carrier family 20 (phosphate transporter), member 2 [Source:HGNC Symbol;Acc:10947]"	protein_coding	ENSG00000168575
+8	42273993	42397069	SLC20A2	"solute carrier family 20 (phosphate transporter), member 2 [Source:HGNC Symbol;Acc:10947]"	processed_transcript	ENSG00000168575
+8	42273993	42397069	SLC20A2	"solute carrier family 20 (phosphate transporter), member 2 [Source:HGNC Symbol;Acc:10947]"	retained_intron	ENSG00000168575
+8	42273993	42397069	SLC20A2	"solute carrier family 20 (phosphate transporter), member 2 [Source:HGNC Symbol;Acc:10947]"	nonsense_mediated_decay	ENSG00000168575
+10	3976711	3978005	RP11-464C19.3		lincRNA	ENSG00000226005
+3	15296360	15382875	SH3BP5	"SH3-domain binding protein 5 (BTK-associated) [Source:HGNC Symbol;Acc:10827]"	protein_coding	ENSG00000131370
+3	15296360	15382875	SH3BP5	"SH3-domain binding protein 5 (BTK-associated) [Source:HGNC Symbol;Acc:10827]"	nonsense_mediated_decay	ENSG00000131370
+3	15296360	15382875	SH3BP5	"SH3-domain binding protein 5 (BTK-associated) [Source:HGNC Symbol;Acc:10827]"	processed_transcript	ENSG00000131370
+9	135600965	135754164	AK8	"adenylate kinase 8 [Source:HGNC Symbol;Acc:26526]"	protein_coding	ENSG00000165695
+9	135600965	135754164	AK8	"adenylate kinase 8 [Source:HGNC Symbol;Acc:26526]"	processed_transcript	ENSG00000165695
+12	93963590	93977263	SOCS2	"suppressor of cytokine signaling 2 [Source:HGNC Symbol;Acc:19382]"	protein_coding	ENSG00000120833
+8	98881068	99048944	MATN2	"matrilin 2 [Source:HGNC Symbol;Acc:6908]"	protein_coding	ENSG00000132561
+8	98881068	99048944	MATN2	"matrilin 2 [Source:HGNC Symbol;Acc:6908]"	retained_intron	ENSG00000132561
+8	98881068	99048944	MATN2	"matrilin 2 [Source:HGNC Symbol;Acc:6908]"	processed_transcript	ENSG00000132561
+8	98881068	99048944	MATN2	"matrilin 2 [Source:HGNC Symbol;Acc:6908]"	nonsense_mediated_decay	ENSG00000132561
+11	117075053	117103241	PCSK7	"proprotein convertase subtilisin/kexin type 7 [Source:HGNC Symbol;Acc:8748]"	protein_coding	ENSG00000160613
+11	117075053	117103241	PCSK7	"proprotein convertase subtilisin/kexin type 7 [Source:HGNC Symbol;Acc:8748]"	retained_intron	ENSG00000160613
+11	117075053	117103241	PCSK7	"proprotein convertase subtilisin/kexin type 7 [Source:HGNC Symbol;Acc:8748]"	processed_transcript	ENSG00000160613
+10	104503727	104576021	WBP1L	"WW domain binding protein 1-like [Source:HGNC Symbol;Acc:23510]"	protein_coding	ENSG00000166272
+17	9813926	10101868	GAS7	"growth arrest-specific 7 [Source:HGNC Symbol;Acc:4169]"	protein_coding	ENSG00000007237
+17	9813926	10101868	GAS7	"growth arrest-specific 7 [Source:HGNC Symbol;Acc:4169]"	processed_transcript	ENSG00000007237
+17	9813926	10101868	GAS7	"growth arrest-specific 7 [Source:HGNC Symbol;Acc:4169]"	retained_intron	ENSG00000007237
+1	66999066	67213982	SGIP1	"SH3-domain GRB2-like (endophilin) interacting protein 1 [Source:HGNC Symbol;Acc:25412]"	protein_coding	ENSG00000118473
+1	66999066	67213982	SGIP1	"SH3-domain GRB2-like (endophilin) interacting protein 1 [Source:HGNC Symbol;Acc:25412]"	processed_transcript	ENSG00000118473
+1	67131547	67142710	AL139147.1	"Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:F5H5J5]"	protein_coding	ENSG00000248458
+11	19372271	20143144	NAV2	"neuron navigator 2 [Source:HGNC Symbol;Acc:15997]"	protein_coding	ENSG00000166833
+11	19372271	20143144	NAV2	"neuron navigator 2 [Source:HGNC Symbol;Acc:15997]"	processed_transcript	ENSG00000166833
+11	19372271	20143144	NAV2	"neuron navigator 2 [Source:HGNC Symbol;Acc:15997]"	retained_intron	ENSG00000166833
+17	38443885	38459171	CDC6	"cell division cycle 6 [Source:HGNC Symbol;Acc:1744]"	protein_coding	ENSG00000094804
+17	38443885	38459171	CDC6	"cell division cycle 6 [Source:HGNC Symbol;Acc:1744]"	retained_intron	ENSG00000094804
+18	74690783	74845639	MBP	"myelin basic protein [Source:HGNC Symbol;Acc:6925]"	protein_coding	ENSG00000197971
+18	74690783	74845639	MBP	"myelin basic protein [Source:HGNC Symbol;Acc:6925]"	retained_intron	ENSG00000197971
+18	74690783	74845639	MBP	"myelin basic protein [Source:HGNC Symbol;Acc:6925]"	nonsense_mediated_decay	ENSG00000197971
+18	74690783	74845639	MBP	"myelin basic protein [Source:HGNC Symbol;Acc:6925]"	processed_transcript	ENSG00000197971
+14	69340860	69446157	ACTN1	"actinin, alpha 1 [Source:HGNC Symbol;Acc:163]"	protein_coding	ENSG00000072110
+14	69340860	69446157	ACTN1	"actinin, alpha 1 [Source:HGNC Symbol;Acc:163]"	retained_intron	ENSG00000072110
+14	69340860	69446157	ACTN1	"actinin, alpha 1 [Source:HGNC Symbol;Acc:163]"	processed_transcript	ENSG00000072110
+14	23016447	23021097	TRAC	"T cell receptor alpha constant [Source:HGNC Symbol;Acc:12029]"	TR_C_gene	ENSG00000229164
+6	111981535	112194655	FYN	"FYN oncogene related to SRC, FGR, YES [Source:HGNC Symbol;Acc:4037]"	protein_coding	ENSG00000010810
+6	111981535	112194655	FYN	"FYN oncogene related to SRC, FGR, YES [Source:HGNC Symbol;Acc:4037]"	processed_transcript	ENSG00000010810
+6	111981535	112194655	FYN	"FYN oncogene related to SRC, FGR, YES [Source:HGNC Symbol;Acc:4037]"	retained_intron	ENSG00000010810
+9	71939488	72007371	FAM189A2	"family with sequence similarity 189, member A2 [Source:HGNC Symbol;Acc:24820]"	protein_coding	ENSG00000135063
+9	71939488	72007371	FAM189A2	"family with sequence similarity 189, member A2 [Source:HGNC Symbol;Acc:24820]"	processed_transcript	ENSG00000135063
+8	23154702	23282841	LOXL2	"lysyl oxidase-like 2 [Source:HGNC Symbol;Acc:6666]"	protein_coding	ENSG00000134013
+8	23154702	23282841	LOXL2	"lysyl oxidase-like 2 [Source:HGNC Symbol;Acc:6666]"	retained_intron	ENSG00000134013
+8	23154702	23282841	LOXL2	"lysyl oxidase-like 2 [Source:HGNC Symbol;Acc:6666]"	nonsense_mediated_decay	ENSG00000134013
+8	23154702	23282841	LOXL2	"lysyl oxidase-like 2 [Source:HGNC Symbol;Acc:6666]"	processed_transcript	ENSG00000134013
+1	229577045	229644103	NUP133	"nucleoporin 133kDa [Source:HGNC Symbol;Acc:18016]"	protein_coding	ENSG00000069248
+1	229577045	229644103	NUP133	"nucleoporin 133kDa [Source:HGNC Symbol;Acc:18016]"	processed_transcript	ENSG00000069248
+1	230193536	230417870	GALNT2	"UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 2 (GalNAc-T2) [Source:HGNC Symbol;Acc:4124]"	processed_transcript	ENSG00000143641
+1	230193536	230417870	GALNT2	"UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 2 (GalNAc-T2) [Source:HGNC Symbol;Acc:4124]"	protein_coding	ENSG00000143641
+8	23386318	23432976	SLC25A37	"solute carrier family 25 (mitochondrial iron transporter), member 37 [Source:HGNC Symbol;Acc:29786]"	protein_coding	ENSG00000147454
+8	23386318	23432976	SLC25A37	"solute carrier family 25 (mitochondrial iron transporter), member 37 [Source:HGNC Symbol;Acc:29786]"	nonsense_mediated_decay	ENSG00000147454
+8	23386318	23432976	SLC25A37	"solute carrier family 25 (mitochondrial iron transporter), member 37 [Source:HGNC Symbol;Acc:29786]"	retained_intron	ENSG00000147454
+8	23386318	23432976	SLC25A37	"solute carrier family 25 (mitochondrial iron transporter), member 37 [Source:HGNC Symbol;Acc:29786]"	processed_transcript	ENSG00000147454
+3	188665003	189043093	TPRG1	"tumor protein p63 regulated 1 [Source:HGNC Symbol;Acc:24759]"	protein_coding	ENSG00000188001
+3	188665003	189043093	TPRG1	"tumor protein p63 regulated 1 [Source:HGNC Symbol;Acc:24759]"	processed_transcript	ENSG00000188001
+20	30458505	30532764	TTLL9	"tubulin tyrosine ligase-like family, member 9 [Source:HGNC Symbol;Acc:16118]"	protein_coding	ENSG00000131044
+18	13500640	13501288	RP11-53B2.5		antisense	ENSG00000267366
+2	38294116	38337044	CYP1B1	"cytochrome P450, family 1, subfamily B, polypeptide 1 [Source:HGNC Symbol;Acc:2597]"	processed_transcript	ENSG00000138061
+2	38294116	38337044	CYP1B1	"cytochrome P450, family 1, subfamily B, polypeptide 1 [Source:HGNC Symbol;Acc:2597]"	protein_coding	ENSG00000138061
+14	89591215	90085493	FOXN3	"forkhead box N3 [Source:HGNC Symbol;Acc:1928]"	protein_coding	ENSG00000053254
+14	89591215	90085493	FOXN3	"forkhead box N3 [Source:HGNC Symbol;Acc:1928]"	processed_transcript	ENSG00000053254
+14	89591215	90085493	FOXN3	"forkhead box N3 [Source:HGNC Symbol;Acc:1928]"	nonsense_mediated_decay	ENSG00000053254
+16	49521435	49891830	ZNF423	"zinc finger protein 423 [Source:HGNC Symbol;Acc:16762]"	protein_coding	ENSG00000102935
+16	49521435	49891830	ZNF423	"zinc finger protein 423 [Source:HGNC Symbol;Acc:16762]"	retained_intron	ENSG00000102935
+18	20837128	20840318	RP11-17J14.2		antisense	ENSG00000266495
+8	103876528	103990104	KB-1507C5.2	"HCG15011, isoform CRA_a; Protein LOC100996457  [Source:UniProtKB/TrEMBL;Acc:G3V139]"	protein_coding	ENSG00000253320
+8	103876528	103990104	KB-1507C5.2	"HCG15011, isoform CRA_a; Protein LOC100996457  [Source:UniProtKB/TrEMBL;Acc:G3V139]"	processed_transcript	ENSG00000253320
+8	103876528	103990104	KB-1507C5.2	"HCG15011, isoform CRA_a; Protein LOC100996457  [Source:UniProtKB/TrEMBL;Acc:G3V139]"	retained_intron	ENSG00000253320
+4	4291924	4323513	ZBTB49	"zinc finger and BTB domain containing 49 [Source:HGNC Symbol;Acc:19883]"	nonsense_mediated_decay	ENSG00000168826
+4	4291924	4323513	ZBTB49	"zinc finger and BTB domain containing 49 [Source:HGNC Symbol;Acc:19883]"	protein_coding	ENSG00000168826
+2	238165734	238166319	AC112715.2	"Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:H7C1P4]"	protein_coding	ENSG00000224132
+11	34172535	34379555	ABTB2	"ankyrin repeat and BTB (POZ) domain containing 2 [Source:HGNC Symbol;Acc:23842]"	protein_coding	ENSG00000166016
+11	34172535	34379555	ABTB2	"ankyrin repeat and BTB (POZ) domain containing 2 [Source:HGNC Symbol;Acc:23842]"	processed_transcript	ENSG00000166016
+1	85784164	86043933	DDAH1	"dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:2715]"	protein_coding	ENSG00000153904
+1	85784164	86043933	DDAH1	"dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:2715]"	processed_transcript	ENSG00000153904
+1	87458692	87634884	RP5-1052I5.2	"Heparan sulfate 2-O-sulfotransferase 1  [Source:UniProtKB/TrEMBL;Acc:K7EP71]"	protein_coding	ENSG00000267561
+1	8412457	8877702	RERE	"arginine-glutamic acid dipeptide (RE) repeats [Source:HGNC Symbol;Acc:9965]"	protein_coding	ENSG00000142599
+1	8412457	8877702	RERE	"arginine-glutamic acid dipeptide (RE) repeats [Source:HGNC Symbol;Acc:9965]"	processed_transcript	ENSG00000142599
+1	8412457	8877702	RERE	"arginine-glutamic acid dipeptide (RE) repeats [Source:HGNC Symbol;Acc:9965]"	non_stop_decay	ENSG00000142599
+1	8412457	8877702	RERE	"arginine-glutamic acid dipeptide (RE) repeats [Source:HGNC Symbol;Acc:9965]"	retained_intron	ENSG00000142599
+2	101436614	101613291	NPAS2	"neuronal PAS domain protein 2 [Source:HGNC Symbol;Acc:7895]"	protein_coding	ENSG00000170485
+2	101436614	101613291	NPAS2	"neuronal PAS domain protein 2 [Source:HGNC Symbol;Acc:7895]"	processed_transcript	ENSG00000170485
+2	101436614	101613291	NPAS2	"neuronal PAS domain protein 2 [Source:HGNC Symbol;Acc:7895]"	retained_intron	ENSG00000170485
+5	150480273	150537443	ANXA6	"annexin A6 [Source:HGNC Symbol;Acc:544]"	protein_coding	ENSG00000197043
+5	150480273	150537443	ANXA6	"annexin A6 [Source:HGNC Symbol;Acc:544]"	nonsense_mediated_decay	ENSG00000197043
+5	150480273	150537443	ANXA6	"annexin A6 [Source:HGNC Symbol;Acc:544]"	retained_intron	ENSG00000197043
+5	150480273	150537443	ANXA6	"annexin A6 [Source:HGNC Symbol;Acc:544]"	processed_transcript	ENSG00000197043
+2	238536219	238722325	LRRFIP1	"leucine rich repeat (in FLII) interacting protein 1 [Source:HGNC Symbol;Acc:6702]"	protein_coding	ENSG00000124831
+2	238536219	238722325	LRRFIP1	"leucine rich repeat (in FLII) interacting protein 1 [Source:HGNC Symbol;Acc:6702]"	retained_intron	ENSG00000124831
+2	238536219	238722325	LRRFIP1	"leucine rich repeat (in FLII) interacting protein 1 [Source:HGNC Symbol;Acc:6702]"	processed_transcript	ENSG00000124831
+5	139554227	139661637	CYSTM1	"cysteine-rich transmembrane module containing 1 [Source:HGNC Symbol;Acc:30239]"	protein_coding	ENSG00000120306
+5	139554227	139661637	CYSTM1	"cysteine-rich transmembrane module containing 1 [Source:HGNC Symbol;Acc:30239]"	processed_transcript	ENSG00000120306
+13	21286570	21288285	AL512652.1		pseudogene	ENSG00000203614
+3	30647994	30735634	TGFBR2	"transforming growth factor, beta receptor II (70/80kDa) [Source:HGNC Symbol;Acc:11773]"	protein_coding	ENSG00000163513
+17	411908	624957	VPS53	"vacuolar protein sorting 53 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:25608]"	protein_coding	ENSG00000141252
+17	411908	624957	VPS53	"vacuolar protein sorting 53 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:25608]"	processed_transcript	ENSG00000141252
+17	411908	624957	VPS53	"vacuolar protein sorting 53 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:25608]"	retained_intron	ENSG00000141252
+17	411908	624957	VPS53	"vacuolar protein sorting 53 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:25608]"	nonsense_mediated_decay	ENSG00000141252
+9	95087766	95382815	CENPP	"centromere protein P [Source:HGNC Symbol;Acc:32933]"	protein_coding	ENSG00000188312
+6	125440195	125585553	TPD52L1	"tumor protein D52-like 1 [Source:HGNC Symbol;Acc:12006]"	protein_coding	ENSG00000111907
+6	125440195	125585553	TPD52L1	"tumor protein D52-like 1 [Source:HGNC Symbol;Acc:12006]"	retained_intron	ENSG00000111907
+6	125440195	125585553	TPD52L1	"tumor protein D52-like 1 [Source:HGNC Symbol;Acc:12006]"	processed_transcript	ENSG00000111907
+6	125541108	125623282	HDDC2	"HD domain containing 2 [Source:HGNC Symbol;Acc:21078]"	processed_transcript	ENSG00000111906
+6	125541108	125623282	HDDC2	"HD domain containing 2 [Source:HGNC Symbol;Acc:21078]"	nonsense_mediated_decay	ENSG00000111906
+6	125541108	125623282	HDDC2	"HD domain containing 2 [Source:HGNC Symbol;Acc:21078]"	protein_coding	ENSG00000111906
+6	125541108	125623282	HDDC2	"HD domain containing 2 [Source:HGNC Symbol;Acc:21078]"	retained_intron	ENSG00000111906
+1	95285898	95360802	SLC44A3	"solute carrier family 44, member 3 [Source:HGNC Symbol;Acc:28689]"	protein_coding	ENSG00000143036
+1	95285898	95360802	SLC44A3	"solute carrier family 44, member 3 [Source:HGNC Symbol;Acc:28689]"	nonsense_mediated_decay	ENSG00000143036
+1	95285898	95360802	SLC44A3	"solute carrier family 44, member 3 [Source:HGNC Symbol;Acc:28689]"	processed_transcript	ENSG00000143036
+9	97488983	97849441	C9orf3	"chromosome 9 open reading frame 3 [Source:HGNC Symbol;Acc:1361]"	protein_coding	ENSG00000148120
+9	97488983	97849441	C9orf3	"chromosome 9 open reading frame 3 [Source:HGNC Symbol;Acc:1361]"	processed_transcript	ENSG00000148120
+9	97488983	97849441	C9orf3	"chromosome 9 open reading frame 3 [Source:HGNC Symbol;Acc:1361]"	nonsense_mediated_decay	ENSG00000148120
+1	95362507	95392834	CNN3	"calponin 3, acidic [Source:HGNC Symbol;Acc:2157]"	protein_coding	ENSG00000117519
+1	95362507	95392834	CNN3	"calponin 3, acidic [Source:HGNC Symbol;Acc:2157]"	processed_transcript	ENSG00000117519
+1	95439963	95538501	ALG14	"ALG14, UDP-N-acetylglucosaminyltransferase subunit [Source:HGNC Symbol;Acc:28287]"	protein_coding	ENSG00000172339
+1	95439963	95538501	ALG14	"ALG14, UDP-N-acetylglucosaminyltransferase subunit [Source:HGNC Symbol;Acc:28287]"	processed_transcript	ENSG00000172339
+19	38701646	38720354	DPF1	"D4, zinc and double PHD fingers family 1 [Source:HGNC Symbol;Acc:20225]"	protein_coding	ENSG00000011332
+19	38701646	38720354	DPF1	"D4, zinc and double PHD fingers family 1 [Source:HGNC Symbol;Acc:20225]"	nonsense_mediated_decay	ENSG00000011332
+19	38701646	38720354	DPF1	"D4, zinc and double PHD fingers family 1 [Source:HGNC Symbol;Acc:20225]"	retained_intron	ENSG00000011332
+3	124480795	124620265	ITGB5	"integrin, beta 5 [Source:HGNC Symbol;Acc:6160]"	protein_coding	ENSG00000082781
+3	124480795	124620265	ITGB5	"integrin, beta 5 [Source:HGNC Symbol;Acc:6160]"	retained_intron	ENSG00000082781
+3	124480795	124620265	ITGB5	"integrin, beta 5 [Source:HGNC Symbol;Acc:6160]"	processed_transcript	ENSG00000082781
+3	124480795	124620265	ITGB5	"integrin, beta 5 [Source:HGNC Symbol;Acc:6160]"	nonsense_mediated_decay	ENSG00000082781
+22	45704849	45737836	FAM118A	"family with sequence similarity 118, member A [Source:HGNC Symbol;Acc:1313]"	processed_transcript	ENSG00000100376
+22	45704849	45737836	FAM118A	"family with sequence similarity 118, member A [Source:HGNC Symbol;Acc:1313]"	protein_coding	ENSG00000100376
+22	45704849	45737836	FAM118A	"family with sequence similarity 118, member A [Source:HGNC Symbol;Acc:1313]"	retained_intron	ENSG00000100376
+10	5680830	5708558	ASB13	"ankyrin repeat and SOCS box containing 13 [Source:HGNC Symbol;Acc:19765]"	processed_transcript	ENSG00000196372
+10	5680830	5708558	ASB13	"ankyrin repeat and SOCS box containing 13 [Source:HGNC Symbol;Acc:19765]"	protein_coding	ENSG00000196372
+10	5680830	5708558	ASB13	"ankyrin repeat and SOCS box containing 13 [Source:HGNC Symbol;Acc:19765]"	nonsense_mediated_decay	ENSG00000196372
+12	3715799	3873985	EFCAB4B	"EF-hand calcium binding domain 4B [Source:HGNC Symbol;Acc:28657]"	nonsense_mediated_decay	ENSG00000130038
+12	3715799	3873985	EFCAB4B	"EF-hand calcium binding domain 4B [Source:HGNC Symbol;Acc:28657]"	protein_coding	ENSG00000130038
+12	3715799	3873985	EFCAB4B	"EF-hand calcium binding domain 4B [Source:HGNC Symbol;Acc:28657]"	processed_transcript	ENSG00000130038
+6	129204342	129837714	LAMA2	"laminin, alpha 2 [Source:HGNC Symbol;Acc:6482]"	protein_coding	ENSG00000196569
+6	129204342	129837714	LAMA2	"laminin, alpha 2 [Source:HGNC Symbol;Acc:6482]"	processed_transcript	ENSG00000196569
+9	108006903	108201452	SLC44A1	"solute carrier family 44 (choline transporter), member 1 [Source:HGNC Symbol;Acc:18798]"	protein_coding	ENSG00000070214
+9	108006903	108201452	SLC44A1	"solute carrier family 44 (choline transporter), member 1 [Source:HGNC Symbol;Acc:18798]"	nonsense_mediated_decay	ENSG00000070214
+9	108006903	108201452	SLC44A1	"solute carrier family 44 (choline transporter), member 1 [Source:HGNC Symbol;Acc:18798]"	processed_transcript	ENSG00000070214
+9	108006903	108201452	SLC44A1	"solute carrier family 44 (choline transporter), member 1 [Source:HGNC Symbol;Acc:18798]"	retained_intron	ENSG00000070214
+5	77781038	78065844	LHFPL2	"lipoma HMGIC fusion partner-like 2 [Source:HGNC Symbol;Acc:6588]"	protein_coding	ENSG00000145685
+5	77781038	78065844	LHFPL2	"lipoma HMGIC fusion partner-like 2 [Source:HGNC Symbol;Acc:6588]"	processed_transcript	ENSG00000145685
+3	37034823	37107380	MLH1	"mutL homolog 1 [Source:HGNC Symbol;Acc:7127]"	protein_coding	ENSG00000076242
+3	37034823	37107380	MLH1	"mutL homolog 1 [Source:HGNC Symbol;Acc:7127]"	nonsense_mediated_decay	ENSG00000076242
+3	37034823	37107380	MLH1	"mutL homolog 1 [Source:HGNC Symbol;Acc:7127]"	processed_transcript	ENSG00000076242
+9	114803065	114937688	SUSD1	"sushi domain containing 1 [Source:HGNC Symbol;Acc:25413]"	protein_coding	ENSG00000106868
+9	114803065	114937688	SUSD1	"sushi domain containing 1 [Source:HGNC Symbol;Acc:25413]"	nonsense_mediated_decay	ENSG00000106868
+9	114803065	114937688	SUSD1	"sushi domain containing 1 [Source:HGNC Symbol;Acc:25413]"	processed_transcript	ENSG00000106868
+9	114803065	114937688	SUSD1	"sushi domain containing 1 [Source:HGNC Symbol;Acc:25413]"	retained_intron	ENSG00000106868
+4	100123795	100140694	ADH6	"alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:255]"	protein_coding	ENSG00000172955
+4	100123795	100140694	ADH6	"alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:255]"	nonsense_mediated_decay	ENSG00000172955
+4	100123795	100140694	ADH6	"alcohol dehydrogenase 6 (class V) [Source:HGNC Symbol;Acc:255]"	processed_transcript	ENSG00000172955
+20	36661948	36720768	RPRD1B	"regulation of nuclear pre-mRNA domain containing 1B [Source:HGNC Symbol;Acc:16209]"	protein_coding	ENSG00000101413
+20	36661948	36720768	RPRD1B	"regulation of nuclear pre-mRNA domain containing 1B [Source:HGNC Symbol;Acc:16209]"	nonsense_mediated_decay	ENSG00000101413
+20	36661948	36720768	RPRD1B	"regulation of nuclear pre-mRNA domain containing 1B [Source:HGNC Symbol;Acc:16209]"	processed_transcript	ENSG00000101413
+7	63980262	64023484	ZNF680	"zinc finger protein 680 [Source:HGNC Symbol;Acc:26897]"	protein_coding	ENSG00000173041
+7	63980262	64023484	ZNF680	"zinc finger protein 680 [Source:HGNC Symbol;Acc:26897]"	processed_transcript	ENSG00000173041
+7	63980262	64023484	ZNF680	"zinc finger protein 680 [Source:HGNC Symbol;Acc:26897]"	retained_intron	ENSG00000173041
+19	16466050	16582896	EPS15L1	"epidermal growth factor receptor pathway substrate 15-like 1 [Source:HGNC Symbol;Acc:24634]"	protein_coding	ENSG00000127527
+19	16466050	16582896	EPS15L1	"epidermal growth factor receptor pathway substrate 15-like 1 [Source:HGNC Symbol;Acc:24634]"	nonsense_mediated_decay	ENSG00000127527
+19	16466050	16582896	EPS15L1	"epidermal growth factor receptor pathway substrate 15-like 1 [Source:HGNC Symbol;Acc:24634]"	retained_intron	ENSG00000127527
+9	117782806	117880536	TNC	"tenascin C [Source:HGNC Symbol;Acc:5318]"	protein_coding	ENSG00000041982
+9	117782806	117880536	TNC	"tenascin C [Source:HGNC Symbol;Acc:5318]"	processed_transcript	ENSG00000041982
+1	39546988	39952849	MACF1	"microtubule-actin crosslinking factor 1 [Source:HGNC Symbol;Acc:13664]"	protein_coding	ENSG00000127603
+1	39546988	39952849	MACF1	"microtubule-actin crosslinking factor 1 [Source:HGNC Symbol;Acc:13664]"	retained_intron	ENSG00000127603
+1	39546988	39952849	MACF1	"microtubule-actin crosslinking factor 1 [Source:HGNC Symbol;Acc:13664]"	processed_transcript	ENSG00000127603
+1	39546988	39952849	MACF1	"microtubule-actin crosslinking factor 1 [Source:HGNC Symbol;Acc:13664]"	nonsense_mediated_decay	ENSG00000127603
+9	123664671	123691451	TRAF1	"TNF receptor-associated factor 1 [Source:HGNC Symbol;Acc:12031]"	protein_coding	ENSG00000056558
+9	123837141	123939888	CNTRL	"centriolin [Source:HGNC Symbol;Acc:1858]"	protein_coding	ENSG00000119397
+9	123837141	123939888	CNTRL	"centriolin [Source:HGNC Symbol;Acc:1858]"	processed_transcript	ENSG00000119397
+9	123837141	123939888	CNTRL	"centriolin [Source:HGNC Symbol;Acc:1858]"	retained_intron	ENSG00000119397
+8	80870571	81143467	TPD52	"tumor protein D52 [Source:HGNC Symbol;Acc:12005]"	protein_coding	ENSG00000076554
+8	80870571	81143467	TPD52	"tumor protein D52 [Source:HGNC Symbol;Acc:12005]"	nonsense_mediated_decay	ENSG00000076554
+8	80870571	81143467	TPD52	"tumor protein D52 [Source:HGNC Symbol;Acc:12005]"	processed_transcript	ENSG00000076554
+8	80870571	81143467	TPD52	"tumor protein D52 [Source:HGNC Symbol;Acc:12005]"	retained_intron	ENSG00000076554
+11	133938820	134021896	JAM3	"junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:15532]"	protein_coding	ENSG00000166086
+11	133938820	134021896	JAM3	"junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:15532]"	nonsense_mediated_decay	ENSG00000166086
+11	133938820	134021896	JAM3	"junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:15532]"	retained_intron	ENSG00000166086
+11	133938820	134021896	JAM3	"junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:15532]"	processed_transcript	ENSG00000166086
+12	53874274	53893847	MAP3K12	"mitogen-activated protein kinase kinase kinase 12 [Source:HGNC Symbol;Acc:6851]"	retained_intron	ENSG00000139625
+12	53874274	53893847	MAP3K12	"mitogen-activated protein kinase kinase kinase 12 [Source:HGNC Symbol;Acc:6851]"	protein_coding	ENSG00000139625
+12	53874274	53893847	MAP3K12	"mitogen-activated protein kinase kinase kinase 12 [Source:HGNC Symbol;Acc:6851]"	nonsense_mediated_decay	ENSG00000139625
+12	53874274	53893847	MAP3K12	"mitogen-activated protein kinase kinase kinase 12 [Source:HGNC Symbol;Acc:6851]"	processed_transcript	ENSG00000139625
+3	127634075	127706514	KBTBD12	"kelch repeat and BTB (POZ) domain containing 12 [Source:HGNC Symbol;Acc:25731]"	protein_coding	ENSG00000187715
+3	127634075	127706514	KBTBD12	"kelch repeat and BTB (POZ) domain containing 12 [Source:HGNC Symbol;Acc:25731]"	processed_transcript	ENSG00000187715
+3	127634075	127706514	KBTBD12	"kelch repeat and BTB (POZ) domain containing 12 [Source:HGNC Symbol;Acc:25731]"	retained_intron	ENSG00000187715
+8	134467091	134584183	ST3GAL1	"ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [Source:HGNC Symbol;Acc:10862]"	protein_coding	ENSG00000008513
+8	134467091	134584183	ST3GAL1	"ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [Source:HGNC Symbol;Acc:10862]"	retained_intron	ENSG00000008513
+8	134467091	134584183	ST3GAL1	"ST3 beta-galactoside alpha-2,3-sialyltransferase 1 [Source:HGNC Symbol;Acc:10862]"	processed_transcript	ENSG00000008513
+15	90373831	90437574	AP3S2	"adaptor-related protein complex 3, sigma 2 subunit [Source:HGNC Symbol;Acc:571]"	protein_coding	ENSG00000157823
+15	90373831	90437574	AP3S2	"adaptor-related protein complex 3, sigma 2 subunit [Source:HGNC Symbol;Acc:571]"	nonsense_mediated_decay	ENSG00000157823
+15	90373831	90437574	AP3S2	"adaptor-related protein complex 3, sigma 2 subunit [Source:HGNC Symbol;Acc:571]"	retained_intron	ENSG00000157823
+15	90373831	90437574	AP3S2	"adaptor-related protein complex 3, sigma 2 subunit [Source:HGNC Symbol;Acc:571]"	processed_transcript	ENSG00000157823
+15	90377540	90456114	C15orf38-AP3S2	"C15orf38-AP3S2 readthrough [Source:HGNC Symbol;Acc:38824]"	protein_coding	ENSG00000250021
+15	90377540	90456114	C15orf38-AP3S2	"C15orf38-AP3S2 readthrough [Source:HGNC Symbol;Acc:38824]"	processed_transcript	ENSG00000250021
+17	41561233	41621831	DHX8	"DEAH (Asp-Glu-Ala-His) box polypeptide 8 [Source:HGNC Symbol;Acc:2749]"	nonsense_mediated_decay	ENSG00000067596
+17	41561233	41621831	DHX8	"DEAH (Asp-Glu-Ala-His) box polypeptide 8 [Source:HGNC Symbol;Acc:2749]"	protein_coding	ENSG00000067596
+17	41561233	41621831	DHX8	"DEAH (Asp-Glu-Ala-His) box polypeptide 8 [Source:HGNC Symbol;Acc:2749]"	retained_intron	ENSG00000067596
+1	117452679	117532980	PTGFRN	"prostaglandin F2 receptor inhibitor [Source:HGNC Symbol;Acc:9601]"	protein_coding	ENSG00000134247
+1	117452679	117532980	PTGFRN	"prostaglandin F2 receptor inhibitor [Source:HGNC Symbol;Acc:9601]"	processed_transcript	ENSG00000134247
+1	19665267	19812066	CAPZB	"capping protein (actin filament) muscle Z-line, beta [Source:HGNC Symbol;Acc:1491]"	protein_coding	ENSG00000077549
+1	19665267	19812066	CAPZB	"capping protein (actin filament) muscle Z-line, beta [Source:HGNC Symbol;Acc:1491]"	processed_transcript	ENSG00000077549
+3	194308402	194354418	TMEM44	"transmembrane protein 44 [Source:HGNC Symbol;Acc:25120]"	protein_coding	ENSG00000145014
+3	194308402	194354418	TMEM44	"transmembrane protein 44 [Source:HGNC Symbol;Acc:25120]"	retained_intron	ENSG00000145014
+3	194308402	194354418	TMEM44	"transmembrane protein 44 [Source:HGNC Symbol;Acc:25120]"	processed_transcript	ENSG00000145014
+3	194308402	194354418	TMEM44	"transmembrane protein 44 [Source:HGNC Symbol;Acc:25120]"	nonsense_mediated_decay	ENSG00000145014
+1	144836157	145076186	PDE4DIP	"phosphodiesterase 4D interacting protein [Source:HGNC Symbol;Acc:15580]"	processed_transcript	ENSG00000178104
+1	144836157	145076186	PDE4DIP	"phosphodiesterase 4D interacting protein [Source:HGNC Symbol;Acc:15580]"	retained_intron	ENSG00000178104
+1	144836157	145076186	PDE4DIP	"phosphodiesterase 4D interacting protein [Source:HGNC Symbol;Acc:15580]"	protein_coding	ENSG00000178104
+1	144836157	145076186	PDE4DIP	"phosphodiesterase 4D interacting protein [Source:HGNC Symbol;Acc:15580]"	nonsense_mediated_decay	ENSG00000178104
+14	76099968	76421421	TTLL5	"tubulin tyrosine ligase-like family, member 5 [Source:HGNC Symbol;Acc:19963]"	processed_transcript	ENSG00000119685
+14	76099968	76421421	TTLL5	"tubulin tyrosine ligase-like family, member 5 [Source:HGNC Symbol;Acc:19963]"	protein_coding	ENSG00000119685
+14	76099968	76421421	TTLL5	"tubulin tyrosine ligase-like family, member 5 [Source:HGNC Symbol;Acc:19963]"	retained_intron	ENSG00000119685
+7	107564244	107643700	LAMB1	"laminin, beta 1 [Source:HGNC Symbol;Acc:6486]"	retained_intron	ENSG00000091136
+7	107564244	107643700	LAMB1	"laminin, beta 1 [Source:HGNC Symbol;Acc:6486]"	protein_coding	ENSG00000091136
+7	107564244	107643700	LAMB1	"laminin, beta 1 [Source:HGNC Symbol;Acc:6486]"	processed_transcript	ENSG00000091136
+2	55199325	55339757	RTN4	"reticulon 4 [Source:HGNC Symbol;Acc:14085]"	protein_coding	ENSG00000115310
+2	55199325	55339757	RTN4	"reticulon 4 [Source:HGNC Symbol;Acc:14085]"	processed_transcript	ENSG00000115310
+10	17686124	17757913	STAM	"signal transducing adaptor molecule (SH3 domain and ITAM motif) 1 [Source:HGNC Symbol;Acc:11357]"	protein_coding	ENSG00000136738
+10	17686124	17757913	STAM	"signal transducing adaptor molecule (SH3 domain and ITAM motif) 1 [Source:HGNC Symbol;Acc:11357]"	nonsense_mediated_decay	ENSG00000136738
+10	17686124	17757913	STAM	"signal transducing adaptor molecule (SH3 domain and ITAM motif) 1 [Source:HGNC Symbol;Acc:11357]"	retained_intron	ENSG00000136738
+12	109554400	109706031	ACACB	"acetyl-CoA carboxylase beta [Source:HGNC Symbol;Acc:85]"	protein_coding	ENSG00000076555
+12	109554400	109706031	ACACB	"acetyl-CoA carboxylase beta [Source:HGNC Symbol;Acc:85]"	retained_intron	ENSG00000076555
+12	109554400	109706031	ACACB	"acetyl-CoA carboxylase beta [Source:HGNC Symbol;Acc:85]"	processed_transcript	ENSG00000076555
+12	109554400	109706031	ACACB	"acetyl-CoA carboxylase beta [Source:HGNC Symbol;Acc:85]"	nonsense_mediated_decay	ENSG00000076555
+1	183155373	183214035	LAMC2	"laminin, gamma 2 [Source:HGNC Symbol;Acc:6493]"	protein_coding	ENSG00000058085
+1	183155373	183214035	LAMC2	"laminin, gamma 2 [Source:HGNC Symbol;Acc:6493]"	processed_transcript	ENSG00000058085
