@@ -11,11 +11,25 @@ This github contains:
 
 
 BioMart
+- results created with Ensembl Biomart
 
 MEME-Suite 
+- results created with MEME-Suite
 
 Toppfunn and String
+- results crated with ToppGene and String
+
+PLN paper
+- data used from the PLN paper
+
+Rdata and results
+- Rscripts and the results created with Rstudio
+
+Other
+- input files used for ChIPseeker
+- input files used for BioMart
+- regionIDs used for comparison
 
 
-.. contains all the information of all the files in this github. With name and description
+Detailed_information_all_files.xls contains all the information of all the files in this Github.
 
