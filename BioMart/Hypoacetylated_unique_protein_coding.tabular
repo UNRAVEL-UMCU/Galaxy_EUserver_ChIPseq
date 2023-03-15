@@ -1,0 +1,538 @@
+Chromosome Name	Gene Start (bp)	Gene End (bp)	Associated Gene Name	Description	Transcript Biotype	Ensembl Gene ID
+7	95212811	95225803	PDK4	pyruvate dehydrogenase kinase, isozyme 4 [Source:HGNC Symbol;Acc:8812]	protein_coding	ENSG00000004799
+17	48172101	48189516	PDK2	pyruvate dehydrogenase kinase, isozyme 2 [Source:HGNC Symbol;Acc:8810]	protein_coding	ENSG00000005882
+17	48620419	48633213	SPATA20	spermatogenesis associated 20 [Source:HGNC Symbol;Acc:26125]	protein_coding	ENSG00000006282
+16	108058	126354	RHBDF1	rhomboid 5 homolog 1 (Drosophila) [Source:HGNC Symbol;Acc:20561]	protein_coding	ENSG00000007384
+3	48636435	48648409	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:12585]	protein_coding	ENSG00000010256
+3	52444673	52457657	PHF7	PHD finger protein 7 [Source:HGNC Symbol;Acc:18458]	protein_coding	ENSG00000010318
+3	52489134	52527087	NISCH	nischarin [Source:HGNC Symbol;Acc:18006]	protein_coding	ENSG00000010322
+3	52529354	52558511	STAB1	stabilin 1 [Source:HGNC Symbol;Acc:18628]	protein_coding	ENSG00000010327
+19	50310126	50320633	FUZ	fuzzy planar cell polarity protein [Source:HGNC Symbol;Acc:26219]	protein_coding	ENSG00000010361
+11	61282785	61348620	SYT7	synaptotagmin VII [Source:HGNC Symbol;Acc:11514]	protein_coding	ENSG00000011347
+19	45910591	45982086	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence) [Source:HGNC Symbol;Acc:3433]	protein_coding	ENSG00000012061
+3	46477136	46526724	LTF	lactotransferrin [Source:HGNC Symbol;Acc:6720]	protein_coding	ENSG00000012223
+11	47269851	47290396	NR1H3	nuclear receptor subfamily 1, group H, member 3 [Source:HGNC Symbol;Acc:7966]	protein_coding	ENSG00000025434
+8	41510739	41754280	ANK1	ankyrin 1, erythrocytic [Source:HGNC Symbol;Acc:492]	protein_coding	ENSG00000029534
+6	33540329	33548019	BAK1	BCL2-antagonist/killer 1 [Source:HGNC Symbol;Acc:949]	protein_coding	ENSG00000030110
+17	76849059	76921469	TIMP2	TIMP metallopeptidase inhibitor 2 [Source:HGNC Symbol;Acc:11821]	protein_coding	ENSG00000035862
+16	67552321	67580691	FAM65A	family with sequence similarity 65, member A [Source:HGNC Symbol;Acc:25836]	protein_coding	ENSG00000039523
+17	48609904	48621111	EPN3	epsin 3 [Source:HGNC Symbol;Acc:18235]	protein_coding	ENSG00000049283
+11	2465914	2870339	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1 [Source:HGNC Symbol;Acc:6294]	protein_coding	ENSG00000053918
+19	49122548	49133974	SPHK2	sphingosine kinase 2 [Source:HGNC Symbol;Acc:18859]	protein_coding	ENSG00000063176
+16	1845621	1877195	HAGH	hydroxyacylglutathione hydrolase [Source:HGNC Symbol;Acc:4805]	protein_coding	ENSG00000063854
+3	123328896	123603178	MYLK	myosin light chain kinase [Source:HGNC Symbol;Acc:7590]	protein_coding	ENSG00000065534
+19	2997636	3047633	TLE2	transducin-like enhancer of split 2 (E(sp1) homolog, Drosophila) [Source:HGNC Symbol;Acc:11838]	protein_coding	ENSG00000065717
+19	10527449	10580305	PDE4A	phosphodiesterase 4A, cAMP-specific [Source:HGNC Symbol;Acc:8780]	protein_coding	ENSG00000065989
+11	64494383	64512928	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated) [Source:HGNC Symbol;Acc:9879]	protein_coding	ENSG00000068831
+11	64685025	64701945	PPP2R5B	protein phosphatase 2, regulatory subunit B', beta [Source:HGNC Symbol;Acc:9310]	protein_coding	ENSG00000068971
+11	64513861	64527769	PYGM	phosphorylase, glycogen, muscle [Source:HGNC Symbol;Acc:9726]	protein_coding	ENSG00000068976
+5	65892176	66465423	MAST4	microtubule associated serine/threonine kinase family member 4 [Source:HGNC Symbol;Acc:19037]	protein_coding	ENSG00000069020
+19	14202500	14228896	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha [Source:HGNC Symbol;Acc:9380]	protein_coding	ENSG00000072062
+2	128395956	128439360	LIMS2	LIM and senescent cell antigen-like domains 2 [Source:HGNC Symbol;Acc:16084]	protein_coding	ENSG00000072163
+19	49843852	49865714	TEAD2	TEA domain family member 2 [Source:HGNC Symbol;Acc:11715]	protein_coding	ENSG00000074219
+5	175969512	176022975	CDHR2	cadherin-related family member 2 [Source:HGNC Symbol;Acc:18231]	protein_coding	ENSG00000074276
+22	46971909	47075688	GRAMD4	GRAM domain containing 4 [Source:HGNC Symbol;Acc:29113]	protein_coding	ENSG00000075240
+11	119179241	119192231	MCAM	melanoma cell adhesion molecule [Source:HGNC Symbol;Acc:6934]	protein_coding	ENSG00000076706
+12	48128455	48164823	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3 [Source:HGNC Symbol;Acc:16629]	protein_coding	ENSG00000079337
+19	42905659	42931578	LIPE	lipase, hormone-sensitive [Source:HGNC Symbol;Acc:6621]	protein_coding	ENSG00000079435
+3	122628041	122747452	SEMA5B	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5B [Source:HGNC Symbol;Acc:10737]	protein_coding	ENSG00000082684
+19	58985384	58992597	ZNF446	zinc finger protein 446 [Source:HGNC Symbol;Acc:21036]	protein_coding	ENSG00000083838
+19	58790317	58807254	ZNF8	Zinc finger protein 8  [Source:UniProtKB/Swiss-Prot;Acc:P17098]	protein_coding	ENSG00000083842
+2	26413504	26467594	HADHA	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit [Source:HGNC Symbol;Acc:4801]	protein_coding	ENSG00000084754
+16	3179778	3192806	ZNF213	zinc finger protein 213 [Source:HGNC Symbol;Acc:13005]	protein_coding	ENSG00000085644
+19	49316274	49339935	HSD17B14	hydroxysteroid (17-beta) dehydrogenase 14 [Source:HGNC Symbol;Acc:23238]	protein_coding	ENSG00000087076
+17	42269173	42277481	ATXN7L3	ataxin 7-like 3 [Source:HGNC Symbol;Acc:25416]	protein_coding	ENSG00000087152
+16	56995762	57017757	CETP	cholesteryl ester transfer protein, plasma [Source:HGNC Symbol;Acc:1869]	protein_coding	ENSG00000087237
+4	2794750	2842825	SH3BP2	SH3-domain binding protein 2 [Source:HGNC Symbol;Acc:10825]	protein_coding	ENSG00000087266
+12	27932953	27955973	KLHL42	kelch-like family member 42 [Source:HGNC Symbol;Acc:29252]	protein_coding	ENSG00000087448
+1	23755056	23811061	ASAP3	ArfGAP with SH3 domain, ankyrin repeat and PH domain 3 [Source:HGNC Symbol;Acc:14987]	protein_coding	ENSG00000088280
+12	117476728	117537284	TESC	tescalcin [Source:HGNC Symbol;Acc:26065]	protein_coding	ENSG00000088992
+3	51991470	52002426	PCBP4	poly(rC) binding protein 4 [Source:HGNC Symbol;Acc:8652]	protein_coding	ENSG00000090097
+12	123468027	123634562	PITPNM2	phosphatidylinositol transfer protein, membrane-associated 2 [Source:HGNC Symbol;Acc:21044]	protein_coding	ENSG00000090975
+17	4862521	4871167	SPAG7	sperm associated antigen 7 [Source:HGNC Symbol;Acc:11216]	protein_coding	ENSG00000091640
+14	23881947	23904927	MYH7	myosin, heavy chain 7, cardiac muscle, beta [Source:HGNC Symbol;Acc:7577]	protein_coding	ENSG00000092054
+14	24615892	24629870	RNF31	ring finger protein 31 [Source:HGNC Symbol;Acc:16031]	protein_coding	ENSG00000092098
+15	41849873	41871536	TYRO3	TYRO3 protein tyrosine kinase [Source:HGNC Symbol;Acc:12446]	protein_coding	ENSG00000092445
+22	19466982	19508135	CDC45	cell division cycle 45 [Source:HGNC Symbol;Acc:1739]	protein_coding	ENSG00000093009
+5	170190354	170241051	GABRP	gamma-aminobutyric acid (GABA) A receptor, pi [Source:HGNC Symbol;Acc:4089]	protein_coding	ENSG00000094755
+9	130500596	130541020	SH2D3C	SH2 domain containing 3C [Source:HGNC Symbol;Acc:16884]	protein_coding	ENSG00000095370
+16	30844947	30906281	BCL7C	B-cell CLL/lymphoma 7C [Source:HGNC Symbol;Acc:1006]	protein_coding	ENSG00000099385
+22	20099389	20104915	TRMT2A	tRNA methyltransferase 2 homolog A (S. cerevisiae) [Source:HGNC Symbol;Acc:24974]	protein_coding	ENSG00000099899
+22	20103461	20114878	RANBP1	RAN binding protein 1 [Source:HGNC Symbol;Acc:9847]	protein_coding	ENSG00000099901
+22	20116979	20135530	ZDHHC8	zinc finger, DHHC-type containing 8 [Source:HGNC Symbol;Acc:18474]	protein_coding	ENSG00000099904
+22	24407642	24574596	CABIN1	calcineurin binding protein 1 [Source:HGNC Symbol;Acc:24187]	protein_coding	ENSG00000099991
+22	24577227	24585078	SUSD2	sushi domain containing 2 [Source:HGNC Symbol;Acc:30667]	protein_coding	ENSG00000099994
+22	25747385	25801344	LRP5L	low density lipoprotein receptor-related protein 5-like [Source:HGNC Symbol;Acc:25323]	protein_coding	ENSG00000100068
+22	42979727	43010968	POLDIP3	polymerase (DNA-directed), delta interacting protein 3 [Source:HGNC Symbol;Acc:23782]	protein_coding	ENSG00000100227
+22	29708922	29715668	RASL10A	RAS-like, family 10, member A [Source:HGNC Symbol;Acc:16954]	protein_coding	ENSG00000100276
+22	51017378	51039884	CHKB	choline kinase beta [Source:HGNC Symbol;Acc:1938]	protein_coding	ENSG00000100288
+22	41855721	41864729	PHF5A	PHD finger protein 5A [Source:HGNC Symbol;Acc:18000]	protein_coding	ENSG00000100410
+22	41865129	41924993	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:118]	protein_coding	ENSG00000100412
+14	24612574	24616779	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta) [Source:HGNC Symbol;Acc:9569]	protein_coding	ENSG00000100911
+20	61427805	61431945	MRGBP	MRG/MORF4L binding protein [Source:HGNC Symbol;Acc:15866]	protein_coding	ENSG00000101189
+20	62119366	62130505	EEF1A2	eukaryotic translation elongation factor 1 alpha 2 [Source:HGNC Symbol;Acc:3192]	protein_coding	ENSG00000101210
+20	62218955	62258394	GMEB2	glucocorticoid modulatory element binding protein 2 [Source:HGNC Symbol;Acc:4371]	protein_coding	ENSG00000101216
+20	3734155	3749034	C20orf27	chromosome 20 open reading frame 27 [Source:HGNC Symbol;Acc:15873]	protein_coding	ENSG00000101220
+20	30598245	30619984	CCM2L	cerebral cavernous malformation 2-like [Source:HGNC Symbol;Acc:16153]	protein_coding	ENSG00000101331
+16	30789778	30798523	ZNF629	zinc finger protein 629 [Source:HGNC Symbol;Acc:29008]	protein_coding	ENSG00000102870
+16	58496750	58547532	NDRG4	NDRG family member 4 [Source:HGNC Symbol;Acc:14466]	protein_coding	ENSG00000103034
+16	68279207	68294961	PLA2G15	phospholipase A2, group XV [Source:HGNC Symbol;Acc:17163]	protein_coding	ENSG00000103066
+16	68263014	68272005	ESRP2	epithelial splicing regulatory protein 2 [Source:HGNC Symbol;Acc:26152]	protein_coding	ENSG00000103067
+16	83932731	83949787	MLYCD	malonyl-CoA decarboxylase [Source:HGNC Symbol;Acc:7150]	protein_coding	ENSG00000103150
+16	127006	135852	MPG	N-methylpurine-DNA glycosylase [Source:HGNC Symbol;Acc:7211]	protein_coding	ENSG00000103152
+16	84155886	84178797	HSDL1	hydroxysteroid dehydrogenase like 1 [Source:HGNC Symbol;Acc:16475]	protein_coding	ENSG00000103160
+16	31117428	31124110	BCKDK	branched chain ketoacid dehydrogenase kinase [Source:HGNC Symbol;Acc:16902]	protein_coding	ENSG00000103507
+16	19714902	19729557	KNOP1	lysine-rich nucleolar protein 1 [Source:HGNC Symbol;Acc:34404]	protein_coding	ENSG00000103550
+8	144635377	144645232	GSDMD	gasdermin D [Source:HGNC Symbol;Acc:25697]	protein_coding	ENSG00000104518
+8	144661867	144681711	EEF1D	eukaryotic translation elongation factor 1 delta (guanine nucleotide exchange protein) [Source:HGNC Symbol;Acc:3211]	protein_coding	ENSG00000104529
+8	1772142	1906807	ARHGEF10	Rho guanine nucleotide exchange factor (GEF) 10 [Source:HGNC Symbol;Acc:14103]	protein_coding	ENSG00000104728
+19	39078281	39109522	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1 [Source:HGNC Symbol;Acc:6863]	protein_coding	ENSG00000104814
+19	49838428	49846592	CD37	CD37 molecule [Source:HGNC Symbol;Acc:1666]	protein_coding	ENSG00000104894
+19	14142560	14163743	IL27RA	interleukin 27 receptor, alpha [Source:HGNC Symbol;Acc:17290]	protein_coding	ENSG00000104998
+19	15225795	15236596	ILVBL	ilvB (bacterial acetolactate synthase)-like [Source:HGNC Symbol;Acc:6041]	protein_coding	ENSG00000105135
+19	15218214	15225799	SYDE1	synapse defective 1, Rho GTPase, homolog 1 (C. elegans) [Source:HGNC Symbol;Acc:25824]	protein_coding	ENSG00000105137
+19	34850385	34893061	GPI	glucose-6-phosphate isomerase [Source:HGNC Symbol;Acc:4458]	protein_coding	ENSG00000105220
+19	49298319	49314286	BCAT2	branched chain amino-acid transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:977]	protein_coding	ENSG00000105552
+7	142985308	143004789	CASP2	caspase 2, apoptosis-related cysteine peptidase [Source:HGNC Symbol;Acc:1503]	protein_coding	ENSG00000106144
+7	44178463	44180931	MYL7	myosin, light chain 7, regulatory [Source:HGNC Symbol;Acc:21719]	protein_coding	ENSG00000106631
+7	73703805	73820273	CLIP2	CAP-GLY domain containing linker protein 2 [Source:HGNC Symbol;Acc:2586]	protein_coding	ENSG00000106665
+9	139871956	139879887	PTGDS	prostaglandin D2 synthase 21kDa (brain) [Source:HGNC Symbol;Acc:9592]	protein_coding	ENSG00000107317
+1	1270656	1284730	DVL1	dishevelled segment polarity protein 1 [Source:HGNC Symbol;Acc:3084]	protein_coding	ENSG00000107404
+10	100175955	100206684	HPS1	Hermansky-Pudlak syndrome 1 [Source:HGNC Symbol;Acc:5163]	protein_coding	ENSG00000107521
+17	4871287	4890960	CAMTA2	calmodulin binding transcription activator 2 [Source:HGNC Symbol;Acc:18807]	protein_coding	ENSG00000108509
+17	19240867	19281495	B9D1	B9 protein domain 1 [Source:HGNC Symbol;Acc:24123]	protein_coding	ENSG00000108641
+17	76967320	76976191	LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein [Source:HGNC Symbol;Acc:6564]	protein_coding	ENSG00000108679
+17	40701232	40707231	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1 [Source:HGNC Symbol;Acc:5210]	protein_coding	ENSG00000108786
+17	48445218	48450575	MRPL27	mitochondrial ribosomal protein L27 [Source:HGNC Symbol;Acc:14483]	protein_coding	ENSG00000108826
+11	64662007	64684722	ATG2A	autophagy related 2A [Source:HGNC Symbol;Acc:29028]	protein_coding	ENSG00000110046
+11	47290712	47351582	MADD	MAP-kinase activating death domain [Source:HGNC Symbol;Acc:6766]	protein_coding	ENSG00000110514
+11	63706431	63724800	NAA40	N(alpha)-acetyltransferase 40, NatD catalytic subunit [Source:HGNC Symbol;Acc:25845]	protein_coding	ENSG00000110583
+11	67259239	67273734	PITPNM1	phosphatidylinositol transfer protein, membrane-associated 1 [Source:HGNC Symbol;Acc:9003]	protein_coding	ENSG00000110697
+12	7033626	7051484	ATN1	atrophin 1 [Source:HGNC Symbol;Acc:3033]	protein_coding	ENSG00000111676
+12	7052141	7055166	C12orf57	chromosome 12 open reading frame 57 [Source:HGNC Symbol;Acc:29521]	protein_coding	ENSG00000111678
+12	7055631	7070479	PTPN6	protein tyrosine phosphatase, non-receptor type 6 [Source:HGNC Symbol;Acc:9658]	protein_coding	ENSG00000111679
+6	14117872	14137149	CD83	CD83 molecule [Source:HGNC Symbol;Acc:1703]	protein_coding	ENSG00000112149
+6	43139037	43149243	SRF	serum response factor (c-fos serum response element-binding transcription factor) [Source:HGNC Symbol;Acc:11291]	protein_coding	ENSG00000112658
+5	175085033	175113245	HRH2	histamine receptor H2 [Source:HGNC Symbol;Acc:5183]	protein_coding	ENSG00000113749
+3	50337320	50349812	HYAL1	hyaluronoglucosaminidase 1 [Source:HGNC Symbol;Acc:5320]	protein_coding	ENSG00000114378
+3	196662273	196669468	NCBP2	nuclear cap binding protein subunit 2, 20kDa [Source:HGNC Symbol;Acc:7659]	protein_coding	ENSG00000114503
+3	183637722	183735803	ABCC5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5 [Source:HGNC Symbol;Acc:56]	protein_coding	ENSG00000114770
+3	52002526	52017425	ABHD14B	abhydrolase domain containing 14B [Source:HGNC Symbol;Acc:28235]	protein_coding	ENSG00000114779
+3	52009066	52023199	ABHD14A-ACY1	ABHD14A-ACY1 readthrough (NMD candidate) [Source:HGNC Symbol;Acc:38856]	protein_coding	ENSG00000114786
+2	220492049	220506702	SLC4A3	solute carrier family 4 (anion exchanger), member 3 [Source:HGNC Symbol;Acc:11029]	protein_coding	ENSG00000114923
+2	27548716	27579868	GTF3C2	general transcription factor IIIC, polypeptide 2, beta 110kDa [Source:HGNC Symbol;Acc:4665]	protein_coding	ENSG00000115207
+2	238394071	238463961	MLPH	melanophilin [Source:HGNC Symbol;Acc:29643]	protein_coding	ENSG00000115648
+2	220074490	220083712	ABCB6	ATP-binding cassette, sub-family B (MDR/TAP), member 6 [Source:HGNC Symbol;Acc:47]	protein_coding	ENSG00000115657
+1	12040238	12073571	MFN2	mitofusin 2 [Source:HGNC Symbol;Acc:16877]	protein_coding	ENSG00000116688
+1	12079523	12092102	MIIP	migration and invasion inhibitory protein [Source:HGNC Symbol;Acc:25715]	protein_coding	ENSG00000116691
+1	16010827	16061264	PLEKHM2	pleckstrin homology domain containing, family M (with RUN domain) member 2 [Source:HGNC Symbol;Acc:29131]	protein_coding	ENSG00000116786
+1	205473723	205501921	CDK18	cyclin-dependent kinase 18 [Source:HGNC Symbol;Acc:8751]	protein_coding	ENSG00000117266
+1	44412611	44433694	IPO13	importin 13 [Source:HGNC Symbol;Acc:16853]	protein_coding	ENSG00000117408
+19	1189406	1228428	STK11	serine/threonine kinase 11 [Source:HGNC Symbol;Acc:11389]	protein_coding	ENSG00000118046
+1	150229554	150237478	CA14	carbonic anhydrase XIV [Source:HGNC Symbol;Acc:1372]	protein_coding	ENSG00000118298
+10	100143322	100174941	PYROXD2	pyridine nucleotide-disulphide oxidoreductase domain 2 [Source:HGNC Symbol;Acc:23517]	protein_coding	ENSG00000119943
+3	142315229	142432506	PLS1	plastin 1 [Source:HGNC Symbol;Acc:9090]	protein_coding	ENSG00000120756
+8	22435792	22455538	PDLIM2	PDZ and LIM domain 2 (mystique) [Source:HGNC Symbol;Acc:13992]	protein_coding	ENSG00000120913
+12	57522276	57607134	LRP1	low density lipoprotein receptor-related protein 1 [Source:HGNC Symbol;Acc:6692]	protein_coding	ENSG00000123384
+16	67696848	67701168	ENKD1	enkurin domain containing 1 [Source:HGNC Symbol;Acc:25246]	protein_coding	ENSG00000124074
+20	44044717	44054884	PIGT	phosphatidylinositol glycan anchor biosynthesis, class T [Source:HGNC Symbol;Acc:14938]	protein_coding	ENSG00000124155
+6	42989383	43001894	RRP36	ribosomal RNA processing 36 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:21374]	protein_coding	ENSG00000124541
+6	42981951	42989036	KLHDC3	kelch domain containing 3 [Source:HGNC Symbol;Acc:20704]	protein_coding	ENSG00000124702
+20	3801178	3805949	AP5S1	adaptor-related protein complex 5, sigma 1 subunit [Source:HGNC Symbol;Acc:15875]	protein_coding	ENSG00000125843
+1	45100910	45140227	TMEM53	transmembrane protein 53 [Source:HGNC Symbol;Acc:26186]	protein_coding	ENSG00000126106
+13	113548692	113754053	MCF2L	MCF.2 cell line derived transforming sequence-like [Source:HGNC Symbol;Acc:14576]	protein_coding	ENSG00000126217
+11	64085560	64089283	PRDX5	peroxiredoxin 5 [Source:HGNC Symbol;Acc:9355]	protein_coding	ENSG00000126432
+19	50179043	50192286	PRMT1	protein arginine methyltransferase 1 [Source:HGNC Symbol;Acc:5187]	protein_coding	ENSG00000126457
+19	50083903	50094272	PRRG2	proline rich Gla (G-carboxyglutamic acid) 2 [Source:HGNC Symbol;Acc:9470]	protein_coding	ENSG00000126460
+19	50094900	50129696	PRR12	proline rich 12 [Source:HGNC Symbol;Acc:29217]	protein_coding	ENSG00000126464
+12	7072408	7105520	EMG1	EMG1 N1-specific pseudouridine methyltransferase [Source:HGNC Symbol;Acc:16912]	protein_coding	ENSG00000126749
+9	95375466	95432547	IPPK	inositol 1,3,4,5,6-pentakisphosphate 2-kinase [Source:HGNC Symbol;Acc:14645]	protein_coding	ENSG00000127080
+19	17402940	17421045	ABHD8	abhydrolase domain containing 8 [Source:HGNC Symbol;Acc:23759]	protein_coding	ENSG00000127220
+10	135175984	135187193	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:3151]	protein_coding	ENSG00000127884
+7	75528518	75616173	POR	P450 (cytochrome) oxidoreductase [Source:HGNC Symbol;Acc:9208]	protein_coding	ENSG00000127948
+22	20301799	20307603	DGCR6L	DiGeorge syndrome critical region gene 6-like [Source:HGNC Symbol;Acc:18551]	protein_coding	ENSG00000128185
+22	24813847	24838328	ADORA2A	adenosine A2a receptor [Source:HGNC Symbol;Acc:263]	protein_coding	ENSG00000128271
+7	128470431	128499328	FLNC	filamin C, gamma [Source:HGNC Symbol;Acc:3756]	protein_coding	ENSG00000128591
+15	41245160	41248710	CHAC1	ChaC, cation transport regulator homolog 1 (E. coli) [Source:HGNC Symbol;Acc:28680]	protein_coding	ENSG00000128965
+16	420773	437113	TMEM8A	transmembrane protein 8A [Source:HGNC Symbol;Acc:17205]	protein_coding	ENSG00000129925
+19	416583	460996	SHC2	SHC (Src homology 2 domain containing) transforming protein 2 [Source:HGNC Symbol;Acc:29869]	protein_coding	ENSG00000129946
+19	11546109	11561783	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:9411]	protein_coding	ENSG00000130175
+19	17666403	17693971	COLGALT1	collagen beta(1-O)galactosyltransferase 1 [Source:HGNC Symbol;Acc:26182]	protein_coding	ENSG00000130309
+19	17403418	17417652	MRPL34	mitochondrial ribosomal protein L34 [Source:HGNC Symbol;Acc:14488]	protein_coding	ENSG00000130312
+20	62605466	62611361	SAMD10	sterile alpha motif domain containing 10 [Source:HGNC Symbol;Acc:16129]	protein_coding	ENSG00000130590
+11	1874200	1913497	LSP1	lymphocyte-specific protein 1 [Source:HGNC Symbol;Acc:6707]	protein_coding	ENSG00000130592
+11	1940792	1959936	TNNT3	troponin T type 3 (skeletal, fast) [Source:HGNC Symbol;Acc:11950]	protein_coding	ENSG00000130595
+11	1860219	1862910	TNNI2	troponin I type 2 (skeletal, fast) [Source:HGNC Symbol;Acc:11946]	protein_coding	ENSG00000130598
+9	133320316	133376661	ASS1	argininosuccinate synthase 1 [Source:HGNC Symbol;Acc:758]	protein_coding	ENSG00000130707
+16	684429	686358	C16orf13	chromosome 16 open reading frame 13 [Source:HGNC Symbol;Acc:14141]	protein_coding	ENSG00000130731
+19	47549165	47551888	TMEM160	transmembrane protein 160 [Source:HGNC Symbol;Acc:26042]	protein_coding	ENSG00000130748
+19	47523077	47549033	NPAS1	neuronal PAS domain protein 1 [Source:HGNC Symbol;Acc:7894]	protein_coding	ENSG00000130751
+1	3370990	3397677	ARHGEF16	Rho guanine nucleotide exchange factor (GEF) 16 [Source:HGNC Symbol;Acc:15515]	protein_coding	ENSG00000130762
+1	10696661	10856707	CASZ1	castor zinc finger 1 [Source:HGNC Symbol;Acc:26002]	protein_coding	ENSG00000130940
+17	37793318	37819737	STARD3	StAR-related lipid transfer (START) domain containing 3 [Source:HGNC Symbol;Acc:17579]	protein_coding	ENSG00000131748
+2	86371055	86422893	IMMT	inner membrane protein, mitochondrial [Source:HGNC Symbol;Acc:6047]	protein_coding	ENSG00000132305
+17	2592680	2615957	CLUH	clustered mitochondria (cluA/CLU1) homolog [Source:HGNC Symbol;Acc:29094]	protein_coding	ENSG00000132361
+17	1397865	1420182	INPP5K	inositol polyphosphate-5-phosphatase K [Source:HGNC Symbol;Acc:33882]	protein_coding	ENSG00000132376
+17	4442192	4458926	MYBBP1A	MYB binding protein (P160) 1a [Source:HGNC Symbol;Acc:7546]	protein_coding	ENSG00000132382
+3	127872297	128127485	EEFSEC	eukaryotic elongation factor, selenocysteine-tRNA-specific [Source:HGNC Symbol;Acc:24614]	protein_coding	ENSG00000132394
+11	68671310	68708070	IGHMBP2	immunoglobulin mu binding protein 2 [Source:HGNC Symbol;Acc:5542]	protein_coding	ENSG00000132740
+19	1985447	2034880	BTBD2	BTB (POZ) domain containing 2 [Source:HGNC Symbol;Acc:15504]	protein_coding	ENSG00000133243
+11	64570982	64578766	MEN1	multiple endocrine neoplasia I [Source:HGNC Symbol;Acc:7010]	protein_coding	ENSG00000133895
+5	68513587	68525956	MRPS36	mitochondrial ribosomal protein S36 [Source:HGNC Symbol;Acc:16631]	protein_coding	ENSG00000134056
+18	32073254	32471808	DTNA	dystrobrevin, alpha [Source:HGNC Symbol;Acc:3057]	protein_coding	ENSG00000134769
+11	57001051	57004709	APLNR	apelin receptor [Source:HGNC Symbol;Acc:339]	protein_coding	ENSG00000134817
+13	110958159	111165374	COL4A2	collagen, type IV, alpha 2 [Source:HGNC Symbol;Acc:2203]	protein_coding	ENSG00000134871
+12	58118980	58135940	AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2 [Source:HGNC Symbol;Acc:16921]	protein_coding	ENSG00000135439
+2	71680852	71913898	DYSF	dysferlin [Source:HGNC Symbol;Acc:3097]	protein_coding	ENSG00000135636
+7	44084239	44109055	DBNL	drebrin-like [Source:HGNC Symbol;Acc:2696]	protein_coding	ENSG00000136279
+9	130556876	130576606	FPGS	folylpolyglutamate synthase [Source:HGNC Symbol;Acc:3824]	protein_coding	ENSG00000136877
+9	35808042	35812269	SPAG8	sperm associated antigen 8 [Source:HGNC Symbol;Acc:14105]	protein_coding	ENSG00000137098
+9	35814448	35854844	TMEM8B	transmembrane protein 8B [Source:HGNC Symbol;Acc:21427]	protein_coding	ENSG00000137103
+9	35812957	35815351	HINT2	histidine triad nucleotide binding protein 2 [Source:HGNC Symbol;Acc:18344]	protein_coding	ENSG00000137133
+6	36822603	36842800	PPIL1	peptidylprolyl isomerase (cyclophilin)-like 1 [Source:HGNC Symbol;Acc:9260]	protein_coding	ENSG00000137168
+6	43479565	43484728	YIPF3	Yip1 domain family, member 3 [Source:HGNC Symbol;Acc:21023]	protein_coding	ENSG00000137207
+11	74811608	74917594	SLCO2B1	solute carrier organic anion transporter family, member 2B1 [Source:HGNC Symbol;Acc:10962]	protein_coding	ENSG00000137491
+1	100652475	100715390	DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:2698]	protein_coding	ENSG00000137992
+2	26466038	26513336	HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit [Source:HGNC Symbol;Acc:4803]	protein_coding	ENSG00000138029
+4	106629935	106768885	GSTCD	glutathione S-transferase, C-terminal domain containing [Source:HGNC Symbol;Acc:25806]	protein_coding	ENSG00000138780
+4	106603784	106817143	INTS12	integrator complex subunit 12 [Source:HGNC Symbol;Acc:25067]	protein_coding	ENSG00000138785
+9	116207011	116360018	RGS3	regulator of G-protein signaling 3 [Source:HGNC Symbol;Acc:9999]	protein_coding	ENSG00000138835
+15	40731920	40760441	BAHD1	bromo adjacent homology domain containing 1 [Source:HGNC Symbol;Acc:29153]	protein_coding	ENSG00000140320
+15	74509613	74628813	CCDC33	coiled-coil domain containing 33 [Source:HGNC Symbol;Acc:26552]	protein_coding	ENSG00000140481
+16	46740891	46824319	MYLK3	myosin light chain kinase 3 [Source:HGNC Symbol;Acc:29826]	protein_coding	ENSG00000140795
+16	66637777	66647795	CMTM3	CKLF-like MARVEL transmembrane domain containing 3 [Source:HGNC Symbol;Acc:19174]	protein_coding	ENSG00000140931
+16	84511681	84587639	TLDC1	TBC/LysM-associated domain containing 1 [Source:HGNC Symbol;Acc:29325]	protein_coding	ENSG00000140950
+17	2240792	2284352	SGSM2	small G protein signaling modulator 2 [Source:HGNC Symbol;Acc:29026]	protein_coding	ENSG00000141258
+17	76106539	76128488	TMC6	transmembrane channel-like 6 [Source:HGNC Symbol;Acc:18021]	protein_coding	ENSG00000141524
+17	80186273	80219005	SLC16A3	solute carrier family 16 (monocarboxylate transporter), member 3 [Source:HGNC Symbol;Acc:10924]	protein_coding	ENSG00000141526
+17	37844167	37886679	ERBB2	v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 [Source:HGNC Symbol;Acc:3430]	protein_coding	ENSG00000141736
+17	37884749	37887040	MIEN1	migration and invasion enhancer 1 [Source:HGNC Symbol;Acc:28230]	protein_coding	ENSG00000141741
+17	37824234	37826728	PNMT	phenylethanolamine N-methyltransferase [Source:HGNC Symbol;Acc:9160]	protein_coding	ENSG00000141744
+19	3359561	3469215	NFIC	nuclear factor I/C (CCAAT-binding transcription factor) [Source:HGNC Symbol;Acc:7786]	protein_coding	ENSG00000141905
+19	50058968	50093519	NOSIP	nitric oxide synthase interacting protein [Source:HGNC Symbol;Acc:17946]	protein_coding	ENSG00000142546
+1	27695603	27701315	FCN3	ficolin (collagen/fibrinogen domain containing) 3 [Source:HGNC Symbol;Acc:3625]	protein_coding	ENSG00000142748
+1	32042116	32053288	TINAGL1	tubulointerstitial nephritis antigen-like 1 [Source:HGNC Symbol;Acc:19168]	protein_coding	ENSG00000142910
+1	151778547	151804348	RORC	RAR-related orphan receptor C [Source:HGNC Symbol;Acc:10260]	protein_coding	ENSG00000143365
+1	151336778	151345209	SELENBP1	selenium binding protein 1 [Source:HGNC Symbol;Acc:10719]	protein_coding	ENSG00000143416
+1	214454445	214510474	SMYD2	SET and MYND domain containing 2 [Source:HGNC Symbol;Acc:20982]	protein_coding	ENSG00000143499
+1	224544552	224567161	CNIH4	cornichon family AMPA receptor auxiliary protein 4 [Source:HGNC Symbol;Acc:25013]	protein_coding	ENSG00000143771
+1	228327663	228336685	GUK1	guanylate kinase 1 [Source:HGNC Symbol;Acc:4693]	protein_coding	ENSG00000143774
+2	219262979	219270664	CTDSP1	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 1 [Source:HGNC Symbol;Acc:21614]	protein_coding	ENSG00000144579
+3	183852826	184402546	EIF2B5	eukaryotic translation initiation factor 2B, subunit 5 epsilon, 82kDa [Source:HGNC Symbol;Acc:3261]	protein_coding	ENSG00000145191
+6	43267448	43276535	CRIP3	cysteine-rich protein 3 [Source:HGNC Symbol;Acc:17751]	protein_coding	ENSG00000146215
+7	1036622	1177896	C7orf50	chromosome 7 open reading frame 50 [Source:HGNC Symbol;Acc:22421]	protein_coding	ENSG00000146540
+7	76018651	76039012	SRCRB4D	scavenger receptor cysteine rich domain containing, group B (4 domains) [Source:HGNC Symbol;Acc:14461]	protein_coding	ENSG00000146700
+7	56019486	56067874	GBAS	glioblastoma amplified sequence [Source:HGNC Symbol;Acc:4179]	protein_coding	ENSG00000146729
+7	150872785	150884919	ASB10	ankyrin repeat and SOCS box containing 10 [Source:HGNC Symbol;Acc:17185]	protein_coding	ENSG00000146926
+8	19261672	19615540	CSGALNACT1	chondroitin sulfate N-acetylgalactosaminyltransferase 1 [Source:HGNC Symbol;Acc:24290]	protein_coding	ENSG00000147408
+8	144656955	144660819	NAPRT1	nicotinate phosphoribosyltransferase domain containing 1 [Source:HGNC Symbol;Acc:30450]	protein_coding	ENSG00000147813
+9	139886870	139888436	C9orf142	chromosome 9 open reading frame 142 [Source:HGNC Symbol;Acc:27849]	protein_coding	ENSG00000148362
+11	46354455	46402104	DGKZ	diacylglycerol kinase, zeta [Source:HGNC Symbol;Acc:2857]	protein_coding	ENSG00000149091
+11	47185848	47198676	ARFGAP2	ADP-ribosylation factor GTPase activating protein 2 [Source:HGNC Symbol;Acc:13504]	protein_coding	ENSG00000149182
+20	60963688	60982341	CABLES2	Cdk5 and Abl enzyme substrate 2 [Source:HGNC Symbol;Acc:16143]	protein_coding	ENSG00000149679
+11	64856796	64879332	VPS51	vacuolar protein sorting 51 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:1172]	protein_coding	ENSG00000149823
+16	30907928	30914881	CTF1	cardiotrophin 1 [Source:HGNC Symbol;Acc:2499]	protein_coding	ENSG00000150281
+10	320130	735683	DIP2C	DIP2 disco-interacting protein 2 homolog C (Drosophila) [Source:HGNC Symbol;Acc:29150]	protein_coding	ENSG00000151240
+10	13685706	14504141	FRMD4A	FERM domain containing 4A [Source:HGNC Symbol;Acc:25491]	protein_coding	ENSG00000151474
+4	17461884	17513857	QDPR	quinoid dihydropteridine reductase [Source:HGNC Symbol;Acc:9752]	protein_coding	ENSG00000151552
+16	81478775	81745367	CMIP	c-Maf inducing protein [Source:HGNC Symbol;Acc:24319]	protein_coding	ENSG00000153815
+16	84178865	84212373	DNAAF1	dynein, axonemal, assembly factor 1 [Source:HGNC Symbol;Acc:30539]	protein_coding	ENSG00000154099
+11	124753587	124768396	ROBO4	roundabout, axon guidance receptor, homolog 4 (Drosophila) [Source:HGNC Symbol;Acc:17985]	protein_coding	ENSG00000154133
+3	16299485	16306479	DPH3	diphthamide biosynthesis 3 [Source:HGNC Symbol;Acc:27717]	protein_coding	ENSG00000154813
+3	16306706	16391806	OXNAD1	oxidoreductase NAD-binding domain containing 1 [Source:HGNC Symbol;Acc:25128]	protein_coding	ENSG00000154814
+17	48450581	48458844	EME1	essential meiotic structure-specific endonuclease 1 [Source:HGNC Symbol;Acc:24965]	protein_coding	ENSG00000154920
+3	184529931	184770402	VPS8	vacuolar protein sorting 8 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:29122]	protein_coding	ENSG00000156931
+3	9879533	9886286	RPUSD3	RNA pseudouridylate synthase domain containing 3 [Source:HGNC Symbol;Acc:28437]	protein_coding	ENSG00000156990
+11	44748015	44953972	TSPAN18	tetraspanin 18 [Source:HGNC Symbol;Acc:20660]	protein_coding	ENSG00000157570
+1	2517930	2522908	FAM213B	family with sequence similarity 213, member B [Source:HGNC Symbol;Acc:28390]	protein_coding	ENSG00000157870
+8	22462145	22479027	CCAR2	cell cycle and apoptosis regulator 2 [Source:HGNC Symbol;Acc:23360]	protein_coding	ENSG00000158941
+9	139834887	139839148	FBXW5	F-box and WD repeat domain containing 5 [Source:HGNC Symbol;Acc:13613]	protein_coding	ENSG00000159069
+17	43471275	43511787	ARHGAP27	Rho GTPase activating protein 27 [Source:HGNC Symbol;Acc:31813]	protein_coding	ENSG00000159314
+4	1205236	1243741	CTBP1	C-terminal binding protein 1 [Source:HGNC Symbol;Acc:2494]	protein_coding	ENSG00000159692
+16	67700719	67702661	C16orf86	chromosome 16 open reading frame 86 [Source:HGNC Symbol;Acc:33755]	protein_coding	ENSG00000159761
+17	906758	1132315	ABR	active BCR-related [Source:HGNC Symbol;Acc:81]	protein_coding	ENSG00000159842
+21	45285067	45406417	AGPAT3	1-acylglycerol-3-phosphate O-acyltransferase 3 [Source:HGNC Symbol;Acc:326]	protein_coding	ENSG00000160216
+9	135973107	136039301	RALGDS	ral guanine nucleotide dissociation stimulator [Source:HGNC Symbol;Acc:9842]	protein_coding	ENSG00000160271
+9	139221932	139254057	GPSM1	G-protein signaling modulator 1 [Source:HGNC Symbol;Acc:17858]	protein_coding	ENSG00000160360
+9	131464802	131483197	PKN3	protein kinase N3 [Source:HGNC Symbol;Acc:17999]	protein_coding	ENSG00000160447
+9	134165081	134184649	PPAPDC3	phosphatidic acid phosphatase type 2 domain containing 3 [Source:HGNC Symbol;Acc:28174]	protein_coding	ENSG00000160539
+1	153920145	153931101	CRTC2	CREB regulated transcription coactivator 2 [Source:HGNC Symbol;Acc:27301]	protein_coding	ENSG00000160741
+3	47021173	47051193	NBEAL2	neurobeachin-like 2 [Source:HGNC Symbol;Acc:31928]	protein_coding	ENSG00000160796
+3	46963216	47023500	CCDC12	coiled-coil domain containing 12 [Source:HGNC Symbol;Acc:28332]	protein_coding	ENSG00000160799
+3	46899362	46923659	MYL3	myosin, light chain 3, alkali; ventricular, skeletal, slow [Source:HGNC Symbol;Acc:7584]	protein_coding	ENSG00000160808
+8	145649000	145653931	VPS28	vacuolar protein sorting 28 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:18178]	protein_coding	ENSG00000160948
+8	145654165	145669827	TONSL	tonsoku-like, DNA repair protein [Source:HGNC Symbol;Acc:7801]	protein_coding	ENSG00000160949
+8	145703352	145727504	PPP1R16A	protein phosphatase 1, regulatory subunit 16A [Source:HGNC Symbol;Acc:14941]	protein_coding	ENSG00000160972
+8	146015150	146017972	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:10368]	protein_coding	ENSG00000161016
+3	183903811	183911800	ABCF3	ATP-binding cassette, sub-family F (GCN20), member 3 [Source:HGNC Symbol;Acc:72]	protein_coding	ENSG00000161204
+17	37827375	37853050	PGAP3	post-GPI attachment to proteins 3 [Source:HGNC Symbol;Acc:23719]	protein_coding	ENSG00000161395
+17	41878167	41910538	MPP3	membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3) [Source:HGNC Symbol;Acc:7221]	protein_coding	ENSG00000161647
+17	41924516	41940997	CD300LG	CD300 molecule-like family member g [Source:HGNC Symbol;Acc:30455]	protein_coding	ENSG00000161649
+17	42247815	42256451	ASB16	ankyrin repeat and SOCS box containing 16 [Source:HGNC Symbol;Acc:19768]	protein_coding	ENSG00000161664
+17	43186335	43210721	PLCD3	phospholipase C, delta 3 [Source:HGNC Symbol;Acc:9061]	protein_coding	ENSG00000161714
+6	33689444	33714762	IP6K3	inositol hexakisphosphate kinase 3 [Source:HGNC Symbol;Acc:17269]	protein_coding	ENSG00000161896
+16	1826713	1843701	SPSB3	splA/ryanodine receptor domain and SOCS box containing 3 [Source:HGNC Symbol;Acc:30629]	protein_coding	ENSG00000162032
+11	64126620	64139687	RPS6KA4	ribosomal protein S6 kinase, 90kDa, polypeptide 4 [Source:HGNC Symbol;Acc:10433]	protein_coding	ENSG00000162302
+1	16062900	16067891	SLC25A34	solute carrier family 25, member 34 [Source:HGNC Symbol;Acc:27653]	protein_coding	ENSG00000162461
+1	2115903	2144159	C1orf86	chromosome 1 open reading frame 86 [Source:HGNC Symbol;Acc:26428]	protein_coding	ENSG00000162585
+1	154916552	154928599	PBXIP1	pre-B-cell leukemia homeobox interacting protein 1 [Source:HGNC Symbol;Acc:21199]	protein_coding	ENSG00000163346
+1	154929502	154936329	PYGO2	pygopus family PHD finger 2 [Source:HGNC Symbol;Acc:30257]	protein_coding	ENSG00000163348
+3	58223233	58281420	ABHD6	abhydrolase domain containing 6 [Source:HGNC Symbol;Acc:21398]	protein_coding	ENSG00000163686
+3	47537130	47555251	ELP6	elongator acetyltransferase complex subunit 6 [Source:HGNC Symbol;Acc:25976]	protein_coding	ENSG00000163832
+3	52435029	52444366	BAP1	BRCA1 associated protein-1 (ubiquitin carboxy-terminal hydrolase) [Source:HGNC Symbol;Acc:950]	protein_coding	ENSG00000163930
+3	48509197	48542259	SHISA5	shisa family member 5 [Source:HGNC Symbol;Acc:30376]	protein_coding	ENSG00000164054
+7	44102326	44105186	PGAM2	phosphoglycerate mutase 2 (muscle) [Source:HGNC Symbol;Acc:8889]	protein_coding	ENSG00000164708
+7	97736197	97838945	LMTK2	lemur tyrosine kinase 2 [Source:HGNC Symbol;Acc:17880]	protein_coding	ENSG00000164715
+7	855528	936072	SUN1	Sad1 and UNC84 domain containing 1 [Source:HGNC Symbol;Acc:18587]	protein_coding	ENSG00000164828
+7	1084212	1098897	GPR146	G protein-coupled receptor 146 [Source:HGNC Symbol;Acc:21718]	protein_coding	ENSG00000164849
+9	33384765	33402643	AQP7	aquaporin 7 [Source:HGNC Symbol;Acc:640]	protein_coding	ENSG00000165269
+5	180467225	180488523	BTNL9	butyrophilin-like 9 [Source:HGNC Symbol;Acc:24176]	protein_coding	ENSG00000165810
+11	47199076	47207994	PACSIN3	protein kinase C and casein kinase substrate in neurons 3 [Source:HGNC Symbol;Acc:8572]	protein_coding	ENSG00000165912
+14	103995521	104003410	TRMT61A	tRNA methyltransferase 61 homolog A (S. cerevisiae) [Source:HGNC Symbol;Acc:23790]	protein_coding	ENSG00000166166
+10	75404639	75423561	SYNPO2L	synaptopodin 2-like [Source:HGNC Symbol;Acc:23532]	protein_coding	ENSG00000166317
+11	8040791	8127659	TUB	tubby bipartite transcription factor [Source:HGNC Symbol;Acc:12406]	protein_coding	ENSG00000166402
+17	19281034	19286857	MAPK7	mitogen-activated protein kinase 7 [Source:HGNC Symbol;Acc:6880]	protein_coding	ENSG00000166484
+16	66965959	66968326	FAM96B	family with sequence similarity 96, member B [Source:HGNC Symbol;Acc:24261]	protein_coding	ENSG00000166595
+17	27941774	27949925	CORO6	coronin 6 [Source:HGNC Symbol;Acc:21356]	protein_coding	ENSG00000167549
+8	145734457	145736596	MFSD3	major facilitator superfamily domain containing 3 [Source:HGNC Symbol;Acc:25157]	protein_coding	ENSG00000167700
+8	145728356	145732557	GPT	glutamic-pyruvate transaminase (alanine aminotransferase) [Source:HGNC Symbol;Acc:4552]	protein_coding	ENSG00000167701
+17	2225797	2240801	TSR1	TSR1, 20S rRNA accumulation, homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:25542]	protein_coding	ENSG00000167721
+17	4460222	4464113	GGT6	gamma-glutamyltransferase 6 [Source:HGNC Symbol;Acc:26891]	protein_coding	ENSG00000167741
+12	52562780	52585784	KRT80	keratin 80 [Source:HGNC Symbol;Acc:27056]	protein_coding	ENSG00000167767
+11	63678693	63684316	RCOR2	REST corepressor 2 [Source:HGNC Symbol;Acc:27455]	protein_coding	ENSG00000167771
+19	8428173	8439257	ANGPTL4	angiopoietin-like 4 [Source:HGNC Symbol;Acc:16039]	protein_coding	ENSG00000167772
+12	53491220	53496129	IGFBP6	insulin-like growth factor binding protein 6 [Source:HGNC Symbol;Acc:5475]	protein_coding	ENSG00000167779
+12	53497302	53518322	SOAT2	sterol O-acyltransferase 2 [Source:HGNC Symbol;Acc:11178]	protein_coding	ENSG00000167780
+11	67374323	67380006	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:7716]	protein_coding	ENSG00000167792
+11	67273968	67276120	CDK2AP2	cyclin-dependent kinase 2 associated protein 2 [Source:HGNC Symbol;Acc:30833]	protein_coding	ENSG00000167797
+11	67395409	67397401	NUDT8	nudix (nucleoside diphosphate linked moiety X)-type motif 8 [Source:HGNC Symbol;Acc:8055]	protein_coding	ENSG00000167799
+11	67398774	67407031	TBX10	T-box 10 [Source:HGNC Symbol;Acc:11593]	protein_coding	ENSG00000167800
+17	76126851	76139049	TMC8	transmembrane channel-like 8 [Source:HGNC Symbol;Acc:20474]	protein_coding	ENSG00000167895
+16	2289396	2302301	ECI1	enoyl-CoA delta isomerase 1 [Source:HGNC Symbol;Acc:2703]	protein_coding	ENSG00000167969
+11	64755415	64764517	BATF2	basic leucine zipper transcription factor, ATF-like 2 [Source:HGNC Symbol;Acc:25163]	protein_coding	ENSG00000168062
+11	64556290	64570713	MAP4K2	mitogen-activated protein kinase kinase kinase kinase 2 [Source:HGNC Symbol;Acc:6864]	protein_coding	ENSG00000168067
+11	64107695	64125006	CCDC88B	coiled-coil domain containing 88B [Source:HGNC Symbol;Acc:26757]	protein_coding	ENSG00000168071
+8	28174503	28200872	PNOC	prepronociceptin [Source:HGNC Symbol;Acc:9163]	protein_coding	ENSG00000168081
+22	38822332	38851205	KCNJ4	potassium inwardly-rectifying channel, subfamily J, member 4 [Source:HGNC Symbol;Acc:6265]	protein_coding	ENSG00000168135
+4	185308867	185395734	IRF2	interferon regulatory factor 2 [Source:HGNC Symbol;Acc:6117]	protein_coding	ENSG00000168310
+2	97541620	97684175	FAM178B	family with sequence similarity 178, member B [Source:HGNC Symbol;Acc:28036]	protein_coding	ENSG00000168754
+2	97525453	97536494	SEMA4C	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4C [Source:HGNC Symbol;Acc:10731]	protein_coding	ENSG00000168758
+14	25278862	25519503	STXBP6	syntaxin binding protein 6 (amisyn) [Source:HGNC Symbol;Acc:19666]	protein_coding	ENSG00000168952
+4	675618	683230	MFSD7	major facilitator superfamily domain containing 7 [Source:HGNC Symbol;Acc:26177]	protein_coding	ENSG00000169026
+9	139889087	139891255	CLIC3	chloride intracellular channel 3 [Source:HGNC Symbol;Acc:2064]	protein_coding	ENSG00000169583
+17	79981178	79989027	LRRC45	leucine rich repeat containing 45 [Source:HGNC Symbol;Acc:28302]	protein_coding	ENSG00000169683
+17	79976578	79981983	STRA13	stimulated by retinoic acid 13 [Source:HGNC Symbol;Acc:11422]	protein_coding	ENSG00000169689
+9	139567595	139581875	AGPAT2	1-acylglycerol-3-phosphate O-acyltransferase 2 [Source:HGNC Symbol;Acc:325]	protein_coding	ENSG00000169692
+17	79934683	79975282	ASPSCR1	alveolar soft part sarcoma chromosome region, candidate 1 [Source:HGNC Symbol;Acc:13825]	protein_coding	ENSG00000169696
+16	30537244	30546668	ZNF747	zinc finger protein 747 [Source:HGNC Symbol;Acc:28350]	protein_coding	ENSG00000169955
+16	30535325	30538142	ZNF768	zinc finger protein 768 [Source:HGNC Symbol;Acc:26273]	protein_coding	ENSG00000169957
+5	138732252	138739777	SPATA24	spermatogenesis associated 24 [Source:HGNC Symbol;Acc:27322]	protein_coding	ENSG00000170469
+19	14138960	14141854	RLN3	relaxin 3 [Source:HGNC Symbol;Acc:17135]	protein_coding	ENSG00000171136
+6	43477440	43497323	POLR1C	polymerase (RNA) I polypeptide C, 30kDa [Source:HGNC Symbol;Acc:20194]	protein_coding	ENSG00000171453
+6	43274872	43337216	ZNF318	zinc finger protein 318 [Source:HGNC Symbol;Acc:13578]	protein_coding	ENSG00000171467
+20	62681189	62703700	TCEA2	transcription elongation factor A (SII), 2 [Source:HGNC Symbol;Acc:11614]	protein_coding	ENSG00000171703
+10	134210672	134231367	PWWP2B	PWWP domain containing 2B [Source:HGNC Symbol;Acc:25150]	protein_coding	ENSG00000171813
+3	49158547	49170551	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:6487]	protein_coding	ENSG00000172037
+3	49145479	49158371	USP19	ubiquitin specific peptidase 19 [Source:HGNC Symbol;Acc:12617]	protein_coding	ENSG00000172046
+3	49133365	49142553	QARS	glutaminyl-tRNA synthetase [Source:HGNC Symbol;Acc:9751]	protein_coding	ENSG00000172053
+16	691813	698474	FAM195A	family with sequence similarity 195, member A [Source:HGNC Symbol;Acc:14142]	protein_coding	ENSG00000172366
+11	67182439	67193078	CARNS1	carnosine synthase 1 [Source:HGNC Symbol;Acc:29268]	protein_coding	ENSG00000172508
+11	67165654	67188654	PPP1CA	protein phosphatase 1, catalytic subunit, alpha isozyme [Source:HGNC Symbol;Acc:9281]	protein_coding	ENSG00000172531
+11	67159176	67165881	RAD9A	RAD9 homolog A (S. pombe) [Source:HGNC Symbol;Acc:9827]	protein_coding	ENSG00000172613
+11	65633912	65641063	EFEMP2	EGF containing fibulin-like extracellular matrix protein 2 [Source:HGNC Symbol;Acc:3219]	protein_coding	ENSG00000172638
+17	72873428	72889708	FADS6	fatty acid desaturase 6 [Source:HGNC Symbol;Acc:30459]	protein_coding	ENSG00000172782
+16	66968347	66978999	CES2	carboxylesterase 2 [Source:HGNC Symbol;Acc:1864]	protein_coding	ENSG00000172831
+9	139553308	139567130	EGFL7	EGF-like-domain, multiple 7 [Source:HGNC Symbol;Acc:20594]	protein_coding	ENSG00000172889
+11	69061605	69182494	MYEOV	myeloma overexpressed [Source:HGNC Symbol;Acc:7563]	protein_coding	ENSG00000172927
+11	64083932	64085556	TRMT112	tRNA methyltransferase 11-2 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:26940]	protein_coding	ENSG00000173113
+11	64073044	64084215	ESRRA	estrogen-related receptor alpha [Source:HGNC Symbol;Acc:3471]	protein_coding	ENSG00000173153
+10	88718375	88723017	SNCG	synuclein, gamma (breast cancer-specific protein 1) [Source:HGNC Symbol;Acc:11141]	protein_coding	ENSG00000173267
+10	88695297	88729238	MMRN2	multimerin 2 [Source:HGNC Symbol;Acc:19888]	protein_coding	ENSG00000173269
+2	132222473	132250316	MZT2A	mitotic spindle organizing protein 2A [Source:HGNC Symbol;Acc:33187]	protein_coding	ENSG00000173272
+11	64008475	64011604	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:3718]	protein_coding	ENSG00000173486
+19	56152428	56164527	CCDC106	coiled-coil domain containing 106 [Source:HGNC Symbol;Acc:30181]	protein_coding	ENSG00000173581
+1	16340523	16346089	HSPB7	heat shock 27kDa protein family, member 7 (cardiovascular) [Source:HGNC Symbol;Acc:5249]	protein_coding	ENSG00000173641
+17	77751931	77761782	CBX2	chromobox homolog 2 [Source:HGNC Symbol;Acc:1552]	protein_coding	ENSG00000173894
+17	37820440	37822808	TCAP	titin-cap [Source:HGNC Symbol;Acc:11610]	protein_coding	ENSG00000173991
+16	1469745	1479345	C16orf91	chromosome 16 open reading frame 91 [Source:HGNC Symbol;Acc:27558]	protein_coding	ENSG00000174109
+8	107771711	107782473	ABRA	actin-binding Rho activating protein [Source:HGNC Symbol;Acc:30655]	protein_coding	ENSG00000174429
+16	19727778	19868907	IQCK	IQ motif containing K [Source:HGNC Symbol;Acc:28556]	protein_coding	ENSG00000174628
+11	448268	491393	PTDSS2	phosphatidylserine synthase 2 [Source:HGNC Symbol;Acc:15463]	protein_coding	ENSG00000174915
+2	220283099	220291461	DES	desmin [Source:HGNC Symbol;Acc:2770]	protein_coding	ENSG00000175084
+11	45670427	45687172	CHST1	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1 [Source:HGNC Symbol;Acc:1969]	protein_coding	ENSG00000175264
+11	72929343	72947397	P2RY2	purinergic receptor P2Y, G-protein coupled, 2 [Source:HGNC Symbol;Acc:8541]	protein_coding	ENSG00000175591
+1	1309110	1310875	AURKAIP1	aurora kinase A interacting protein 1 [Source:HGNC Symbol;Acc:24114]	protein_coding	ENSG00000175756
+3	127783621	127872757	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:10474]	protein_coding	ENSG00000175792
+17	79008948	79091232	BAIAP2	BAI1-associated protein 2 [Source:HGNC Symbol;Acc:947]	protein_coding	ENSG00000175866
+17	74385532	74449288	UBE2O	ubiquitin-conjugating enzyme E2O [Source:HGNC Symbol;Acc:29554]	protein_coding	ENSG00000175931
+9	140083099	140084822	SSNA1	Sjogren syndrome nuclear autoantigen 1 [Source:HGNC Symbol;Acc:11321]	protein_coding	ENSG00000176101
+17	80059336	80170706	CCDC57	coiled-coil domain containing 57 [Source:HGNC Symbol;Acc:27564]	protein_coding	ENSG00000176155
+9	140069236	140082989	ANAPC2	anaphase promoting complex subunit 2 [Source:HGNC Symbol;Acc:19989]	protein_coding	ENSG00000176248
+19	2714565	2721416	DIRAS1	DIRAS family, GTP-binding RAS-like 1 [Source:HGNC Symbol;Acc:19127]	protein_coding	ENSG00000176490
+9	139839698	139841426	C8G	complement component 8, gamma polypeptide [Source:HGNC Symbol;Acc:1354]	protein_coding	ENSG00000176919
+17	73496342	73511664	CASKIN2	CASK interacting protein 2 [Source:HGNC Symbol;Acc:18200]	protein_coding	ENSG00000177303
+3	49199968	49203754	CCDC71	coiled-coil domain containing 71 [Source:HGNC Symbol;Acc:25760]	protein_coding	ENSG00000177352
+11	799179	809753	PIDD	p53-induced death domain protein [Source:HGNC Symbol;Acc:16491]	protein_coding	ENSG00000177595
+11	818902	825573	PNPLA2	patatin-like phospholipase domain containing 2 [Source:HGNC Symbol;Acc:30802]	protein_coding	ENSG00000177666
+3	46710487	46735194	ALS2CL	ALS2 C-terminal like [Source:HGNC Symbol;Acc:20605]	protein_coding	ENSG00000178038
+8	144989321	145050902	PLEC	plectin [Source:HGNC Symbol;Acc:9069]	protein_coding	ENSG00000178209
+17	76866992	76899299	DDC8	Protein DDC8 homolog  [Source:UniProtKB/Swiss-Prot;Acc:Q96MC4]	protein_coding	ENSG00000178404
+12	57998405	58003587	DTX3	deltex homolog 3 (Drosophila) [Source:HGNC Symbol;Acc:24457]	protein_coding	ENSG00000178498
+3	48894369	48936426	SLC25A20	solute carrier family 25 (carnitine/acylcarnitine translocase), member 20 [Source:HGNC Symbol;Acc:1421]	protein_coding	ENSG00000178537
+1	9908334	9970394	CTNNBIP1	catenin, beta interacting protein 1 [Source:HGNC Symbol;Acc:16913]	protein_coding	ENSG00000178585
+8	145051321	145086940	PARP10	poly (ADP-ribose) polymerase family, member 10 [Source:HGNC Symbol;Acc:25895]	protein_coding	ENSG00000178685
+8	145106167	145118735	OPLAH	5-oxoprolinase (ATP-hydrolysing) [Source:HGNC Symbol;Acc:8149]	protein_coding	ENSG00000178814
+7	142977050	142985141	TMEM139	transmembrane protein 139 [Source:HGNC Symbol;Acc:22058]	protein_coding	ENSG00000178826
+17	8130191	8151362	CTC1	CTS telomere maintenance complex component 1 [Source:HGNC Symbol;Acc:26169]	protein_coding	ENSG00000178971
+19	39109735	39127595	EIF3K	eukaryotic translation initiation factor 3, subunit K [Source:HGNC Symbol;Acc:24656]	protein_coding	ENSG00000178982
+11	6518490	6614988	DNHD1	dynein heavy chain domain 1 [Source:HGNC Symbol;Acc:26532]	protein_coding	ENSG00000179532
+3	50316458	50325545	LSMEM2	leucine-rich single-pass membrane protein 2 [Source:HGNC Symbol;Acc:26781]	protein_coding	ENSG00000179564
+16	1876968	1890208	FAHD1	fumarylacetoacetate hydrolase domain containing 1 [Source:HGNC Symbol;Acc:14169]	protein_coding	ENSG00000180185
+16	30382255	30389312	MYLPF	myosin light chain, phosphorylatable, fast skeletal muscle [Source:HGNC Symbol;Acc:29824]	protein_coding	ENSG00000180209
+10	695888	711109	PRR26	proline rich 26 [Source:HGNC Symbol;Acc:30724]	protein_coding	ENSG00000180525
+11	4664650	4676718	OR51E1	olfactory receptor, family 51, subfamily E, member 1 [Source:HGNC Symbol;Acc:15194]	protein_coding	ENSG00000180785
+17	43209967	43221548	ACBD4	acyl-CoA binding domain containing 4 [Source:HGNC Symbol;Acc:23337]	protein_coding	ENSG00000181513
+6	43968317	43973695	C6orf223	chromosome 6 open reading frame 223 [Source:HGNC Symbol;Acc:28692]	protein_coding	ENSG00000181577
+3	46742823	46752376	TMIE	transmembrane inner ear [Source:HGNC Symbol;Acc:30800]	protein_coding	ENSG00000181585
+19	37803739	37860267	HKR1	HKR1, GLI-Kruppel zinc finger family member [Source:HGNC Symbol;Acc:4928]	protein_coding	ENSG00000181666
+2	237102095	237173052	ASB18	ankyrin repeat and SOCS box containing 18 [Source:HGNC Symbol;Acc:19770]	protein_coding	ENSG00000182177
+3	49842640	49851379	UBA7	ubiquitin-like modifier activating enzyme 7 [Source:HGNC Symbol;Acc:12471]	protein_coding	ENSG00000182179
+19	49244109	49250166	IZUMO1	izumo sperm-egg fusion 1 [Source:HGNC Symbol;Acc:28539]	protein_coding	ENSG00000182264
+17	79791368	79792926	PPP1R27	protein phosphatase 1, regulatory subunit 27 [Source:HGNC Symbol;Acc:16813]	protein_coding	ENSG00000182676
+14	105939299	105946499	CRIP2	cysteine-rich protein 2 [Source:HGNC Symbol;Acc:2361]	protein_coding	ENSG00000182809
+8	144295068	144299044	GPIHBP1	glycosylphosphatidylinositol anchored high density lipoprotein binding protein 1 [Source:HGNC Symbol;Acc:24945]	protein_coding	ENSG00000182851
+14	105886159	105937066	MTA1	metastasis associated 1 [Source:HGNC Symbol;Acc:7410]	protein_coding	ENSG00000182979
+17	79670404	79688042	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10 [Source:HGNC Symbol;Acc:10980]	protein_coding	ENSG00000183048
+14	105515728	105531782	GPR132	G protein-coupled receptor 132 [Source:HGNC Symbol;Acc:17482]	protein_coding	ENSG00000183484
+22	29279580	29453475	ZNRF3	zinc and ring finger 3 [Source:HGNC Symbol;Acc:18126]	protein_coding	ENSG00000183579
+22	20004537	20053449	TANGO2	transport and golgi organization 2 homolog (Drosophila) [Source:HGNC Symbol;Acc:25439]	protein_coding	ENSG00000183597
+8	125463048	125474391	TRMT12	tRNA methyltransferase 12 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:26091]	protein_coding	ENSG00000183665
+16	2022038	2032934	TBL3	transducin (beta)-like 3 [Source:HGNC Symbol;Acc:11587]	protein_coding	ENSG00000183751
+1	226418850	226497570	LIN9	lin-9 homolog (C. elegans) [Source:HGNC Symbol;Acc:30830]	protein_coding	ENSG00000183814
+22	19510547	19515068	CLDN5	claudin 5 [Source:HGNC Symbol;Acc:2047]	protein_coding	ENSG00000184113
+16	2261998	2264808	PGP	phosphoglycolate phosphatase [Source:HGNC Symbol;Acc:8909]	protein_coding	ENSG00000184207
+11	67370351	67374177	C11orf72	chromosome 11 open reading frame 72 [Source:HGNC Symbol;Acc:26915]	protein_coding	ENSG00000184224
+12	6728001	6745613	LPAR5	lysophosphatidic acid receptor 5 [Source:HGNC Symbol;Acc:13307]	protein_coding	ENSG00000184574
+17	75276651	75496678	sep-09	septin 9 [Source:HGNC Symbol;Acc:7323]	protein_coding	ENSG00000184640
+17	43298811	43324687	FMNL1	formin-like 1 [Source:HGNC Symbol;Acc:1212]	protein_coding	ENSG00000184922
+9	139844003	139849949	LCN12	lipocalin 12 [Source:HGNC Symbol;Acc:28733]	protein_coding	ENSG00000184925
+8	145539954	145550573	DGAT1	diacylglycerol O-acyltransferase 1 [Source:HGNC Symbol;Acc:2843]	protein_coding	ENSG00000185000
+5	191626	195468	LRRC14B	leucine rich repeat containing 14B [Source:HGNC Symbol;Acc:37268]	protein_coding	ENSG00000185028
+14	105190523	105213662	ADSSL1	adenylosuccinate synthase like 1 [Source:HGNC Symbol;Acc:20093]	protein_coding	ENSG00000185100
+22	31518717	31530682	INPP5J	inositol polyphosphate-5-phosphatase J [Source:HGNC Symbol;Acc:8956]	protein_coding	ENSG00000185133
+14	103589779	103603776	TNFAIP2	tumor necrosis factor, alpha-induced protein 2 [Source:HGNC Symbol;Acc:11895]	protein_coding	ENSG00000185215
+17	79285074	79304474	TMEM105	transmembrane protein 105 [Source:HGNC Symbol;Acc:26794]	protein_coding	ENSG00000185332
+22	29702572	29708774	GAS2L1	growth arrest-specific 2 like 1 [Source:HGNC Symbol;Acc:16955]	protein_coding	ENSG00000185340
+19	4639530	4655580	TNFAIP8L1	tumor necrosis factor, alpha-induced protein 8-like 1 [Source:HGNC Symbol;Acc:28279]	protein_coding	ENSG00000185361
+3	49840687	49842463	FAM212A	family with sequence similarity 212, member A [Source:HGNC Symbol;Acc:32480]	protein_coding	ENSG00000185614
+4	699537	764428	PCGF3	polycomb group ring finger 3 [Source:HGNC Symbol;Acc:10066]	protein_coding	ENSG00000185619
+3	49209044	49213917	KLHDC8B	kelch domain containing 8B [Source:HGNC Symbol;Acc:28557]	protein_coding	ENSG00000185909
+9	137208944	137332431	RXRA	retinoid X receptor, alpha [Source:HGNC Symbol;Acc:10477]	protein_coding	ENSG00000186350
+1	16345370	16360545	CLCNKA	chloride channel, voltage-sensitive Ka [Source:HGNC Symbol;Acc:2026]	protein_coding	ENSG00000186510
+11	72396114	72504644	ARAP1	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:16925]	protein_coding	ENSG00000186635
+3	50330262	50336899	HYAL3	hyaluronoglucosaminidase 3 [Source:HGNC Symbol;Acc:5322]	protein_coding	ENSG00000186792
+1	1146706	1149518	TNFRSF4	tumor necrosis factor receptor superfamily, member 4 [Source:HGNC Symbol;Acc:11918]	protein_coding	ENSG00000186827
+19	8387468	8408146	KANK3	KN motif and ankyrin repeat domains 3 [Source:HGNC Symbol;Acc:24796]	protein_coding	ENSG00000186994
+19	45312328	45324673	BCAM	basal cell adhesion molecule (Lutheran blood group) [Source:HGNC Symbol;Acc:6722]	protein_coding	ENSG00000187244
+15	71389291	72075722	THSD4	thrombospondin, type I, domain containing 4 [Source:HGNC Symbol;Acc:25835]	protein_coding	ENSG00000187720
+17	76142434	76162258	C17orf99	chromosome 17 open reading frame 99 [Source:HGNC Symbol;Acc:34490]	protein_coding	ENSG00000187997
+2	242792033	242801060	PDCD1	programmed cell death 1 [Source:HGNC Symbol;Acc:8760]	protein_coding	ENSG00000188389
+12	122150658	122220907	TMEM120B	transmembrane protein 120B [Source:HGNC Symbol;Acc:32008]	protein_coding	ENSG00000188735
+1	9648932	9674935	TMEM201	transmembrane protein 201 [Source:HGNC Symbol;Acc:33719]	protein_coding	ENSG00000188807
+9	140149625	140167998	NELFB	negative elongation factor complex member B [Source:HGNC Symbol;Acc:24324]	protein_coding	ENSG00000188986
+7	75616155	75623977	TMEM120A	transmembrane protein 120A [Source:HGNC Symbol;Acc:21697]	polymorphic_pseudogene	ENSG00000189077
+17	4891425	4900905	INCA1	inhibitor of CDK, cyclin A1 interacting protein 1 [Source:HGNC Symbol;Acc:32224]	protein_coding	ENSG00000196388
+7	150065879	150109558	ZNF775	zinc finger protein 775 [Source:HGNC Symbol;Acc:28501]	protein_coding	ENSG00000196456
+20	62588055	62680113	ZNF512B	zinc finger protein 512B [Source:HGNC Symbol;Acc:29212]	protein_coding	ENSG00000196700
+9	129089128	129269320	MVB12B	multivesicular body subunit 12B [Source:HGNC Symbol;Acc:23368]	protein_coding	ENSG00000196814
+17	79876146	79885590	MAFG	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog G [Source:HGNC Symbol;Acc:6781]	protein_coding	ENSG00000197063
+11	65383244	65404910	PCNXL3	pecanex-like 3 (Drosophila) [Source:HGNC Symbol;Acc:18760]	protein_coding	ENSG00000197136
+9	140119087	140120763	C9orf169	chromosome 9 open reading frame 169 [Source:HGNC Symbol;Acc:30529]	protein_coding	ENSG00000197191
+1	26485511	26489119	FAM110D	family with sequence similarity 110, member D [Source:HGNC Symbol;Acc:25860]	protein_coding	ENSG00000197245
+11	68658744	68671303	MRPL21	mitochondrial ribosomal protein L21 [Source:HGNC Symbol;Acc:14479]	protein_coding	ENSG00000197345
+19	55987699	55995854	ZNF628	zinc finger protein 628 [Source:HGNC Symbol;Acc:28054]	protein_coding	ENSG00000197483
+6	132129156	132216295	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1 [Source:HGNC Symbol;Acc:3356]	protein_coding	ENSG00000197594
+2	162848751	162931052	DPP4	dipeptidyl-peptidase 4 [Source:HGNC Symbol;Acc:3009]	protein_coding	ENSG00000197635
+9	140145713	140147934	C9orf173	chromosome 9 open reading frame 173 [Source:HGNC Symbol;Acc:37285]	protein_coding	ENSG00000197768
+16	1823208	1831709	EME2	essential meiotic structure-specific endonuclease subunit 2 [Source:HGNC Symbol;Acc:27289]	protein_coding	ENSG00000197774
+17	1367392	1396106	MYO1C	myosin IC [Source:HGNC Symbol;Acc:7597]	protein_coding	ENSG00000197879
+19	11531272	11546603	CCDC151	coiled-coil domain containing 151 [Source:HGNC Symbol;Acc:28303]	protein_coding	ENSG00000198003
+9	140172201	140177093	TOR4A	torsin family 4, member A [Source:HGNC Symbol;Acc:25981]	protein_coding	ENSG00000198113
+22	36002811	36033998	MB	myoglobin [Source:HGNC Symbol;Acc:6915]	protein_coding	ENSG00000198125
+19	58739960	58788815	ZNF544	zinc finger protein 544 [Source:HGNC Symbol;Acc:16759]	protein_coding	ENSG00000198131
+14	67913801	68000456	TMEM229B	transmembrane protein 229B [Source:HGNC Symbol;Acc:20130]	protein_coding	ENSG00000198133
+20	3170996	3185331	DDRGK1	DDRGK domain containing 1 [Source:HGNC Symbol;Acc:16110]	protein_coding	ENSG00000198171
+3	49067140	49131796	QRICH1	glutamine-rich 1 [Source:HGNC Symbol;Acc:24713]	protein_coding	ENSG00000198218
+14	53196898	53241716	STYX	serine/threonine/tyrosine interacting protein [Source:HGNC Symbol;Acc:11447]	protein_coding	ENSG00000198252
+1	45140364	45191263	C1orf228	chromosome 1 open reading frame 228 [Source:HGNC Symbol;Acc:34345]	protein_coding	ENSG00000198520
+6	36839646	36896740	C6orf89	chromosome 6 open reading frame 89 [Source:HGNC Symbol;Acc:21114]	protein_coding	ENSG00000198663
+22	31500758	31516055	SELM	Selenoprotein M  [Source:UniProtKB/Swiss-Prot;Acc:Q8WWX9]	protein_coding	ENSG00000198832
+1	153901977	153919172	DENND4B	DENN/MADD domain containing 4B [Source:HGNC Symbol;Acc:29044]	protein_coding	ENSG00000198837
+2	220074494	220094439	ATG9A	autophagy related 9A [Source:HGNC Symbol;Acc:22408]	protein_coding	ENSG00000198925
+17	45771447	45789416	TBKBP1	TBK1 binding protein 1 [Source:HGNC Symbol;Acc:30140]	protein_coding	ENSG00000198933
+14	105155943	105185942	INF2	inverted formin, FH2 and WH2 domain containing [Source:HGNC Symbol;Acc:23791]	protein_coding	ENSG00000203485
+9	139632619	139642905	LCN6	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:H7C1C5]	nonsense_mediated_decay	ENSG00000204003
+6	43474707	43478424	LRRC73	leucine rich repeat containing 73 [Source:HGNC Symbol;Acc:21375]	protein_coding	ENSG00000204052
+6	33551515	33556803	GGNBP1	gametogenetin binding protein 1 (pseudogene) [Source:HGNC Symbol;Acc:19427]	protein_coding	ENSG00000204188
+6	31830969	31846823	SLC44A4	solute carrier family 44, member 4 [Source:HGNC Symbol;Acc:13941]	protein_coding	ENSG00000204385
+6	31825436	31830683	NEU1	sialidase 1 (lysosomal sialidase) [Source:HGNC Symbol;Acc:7758]	protein_coding	ENSG00000204386
+6	31745295	31763730	VARS	valyl-tRNA synthetase [Source:HGNC Symbol;Acc:12651]	protein_coding	ENSG00000204394
+6	31733367	31745108	VWA7	von Willebrand factor A domain containing 7 [Source:HGNC Symbol;Acc:13939]	protein_coding	ENSG00000204396
+6	29624758	29640149	MOG	myelin oligodendrocyte glycoprotein [Source:HGNC Symbol;Acc:7197]	protein_coding	ENSG00000204655
+1	1361508	1363167	TMEM88B	transmembrane protein 88B [Source:HGNC Symbol;Acc:37099]	protein_coding	ENSG00000205116
+22	51007290	51017899	CPT1B	carnitine palmitoyltransferase 1B (muscle) [Source:HGNC Symbol;Acc:2329]	protein_coding	ENSG00000205560
+22	50747459	50765489	DENND6B	DENN/MADD domain containing 6B [Source:HGNC Symbol;Acc:32690]	protein_coding	ENSG00000205593
+16	2303117	2318413	RNPS1	RNA binding protein S1, serine-rich domain [Source:HGNC Symbol;Acc:10080]	protein_coding	ENSG00000205937
+12	48147699	48176536	SLC48A1	solute carrier family 48 (heme transporter), member 1 [Source:HGNC Symbol;Acc:26035]	protein_coding	ENSG00000211584
+9	140114707	140116033	RNF208	ring finger protein 208 [Source:HGNC Symbol;Acc:25420]	protein_coding	ENSG00000212864
+14	105952654	105955284	CRIP1	cysteine-rich protein 1 (intestinal) [Source:HGNC Symbol;Acc:2360]	protein_coding	ENSG00000213145
+11	65405568	65418401	SIPA1	signal-induced proliferation-associated 1 [Source:HGNC Symbol;Acc:10885]	protein_coding	ENSG00000213445
+3	9849770	9896822	TTLL3	tubulin tyrosine ligase-like family, member 3 [Source:HGNC Symbol;Acc:24483]	protein_coding	ENSG00000214021
+11	1968508	2005752	MRPL23	mitochondrial ribosomal protein L23 [Source:HGNC Symbol;Acc:10322]	protein_coding	ENSG00000214026
+11	842808	867116	TSPAN4	tetraspanin 4 [Source:HGNC Symbol;Acc:11859]	protein_coding	ENSG00000214063
+9	139876356	139880862	LCNL1	lipocalin-like 1 [Source:HGNC Symbol;Acc:34436]	protein_coding	ENSG00000214402
+3	50325163	50330349	IFRD2	interferon-related developmental regulator 2 [Source:HGNC Symbol;Acc:5457]	protein_coding	ENSG00000214706
+12	7074490	7079988	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:30306]	protein_coding	ENSG00000215021
+11	64067863	64072242	TEX40	testis expressed 40 [Source:HGNC Symbol;Acc:19231]	protein_coding	ENSG00000219435
+11	61640991	61659523	FADS3	fatty acid desaturase 3 [Source:HGNC Symbol;Acc:3576]	protein_coding	ENSG00000221968
+17	62075711	62081664	C17orf72	chromosome 17 open reading frame 72 [Source:HGNC Symbol;Acc:25673]	protein_coding	ENSG00000224383
+19	50191921	50193832	ADM5	adrenomedullin 5 (putative) [Source:HGNC Symbol;Acc:27293]	protein_coding	ENSG00000224420
+17	79780287	79791178	FAM195B	family with sequence similarity 195, member B [Source:HGNC Symbol;Acc:28007]	protein_coding	ENSG00000225663
+14	105864916	105916443	TEX22	testis expressed 22 [Source:HGNC Symbol;Acc:40026]	protein_coding	ENSG00000226174
+6	33246885	33257304	WDR46	WD repeat domain 46 [Source:HGNC Symbol;Acc:13923]	protein_coding	ENSG00000227057
+16	3194220	3199964	CASP16	caspase 16, apoptosis-related cysteine peptidase (putative) [Source:HGNC Symbol;Acc:27290]	protein_coding	ENSG00000228146
+5	138727635	138730885	PROB1	proline-rich basic protein 1 [Source:HGNC Symbol;Acc:41906]	protein_coding	ENSG00000228672
+6	33239787	33244287	RPS18	ribosomal protein S18 [Source:HGNC Symbol;Acc:10401]	protein_coding	ENSG00000231500
+6	33244917	33252609	B3GALT4	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 4 [Source:HGNC Symbol;Acc:919]	protein_coding	ENSG00000235863
+4	106473777	106629250	ARHGEF38	Rho guanine nucleotide exchange factor (GEF) 38 [Source:HGNC Symbol;Acc:25968]	protein_coding	ENSG00000236699
+7	30893010	30965131	AQP1	aquaporin 1 (Colton blood group) [Source:HGNC Symbol;Acc:633]	protein_coding	ENSG00000240583
+12	58003963	58013162	ARHGEF25	Rho guanine nucleotide exchange factor (GEF) 25 [Source:HGNC Symbol;Acc:30275]	protein_coding	ENSG00000240771
+8	22457114	22461663	C8orf58	chromosome 8 open reading frame 58 [Source:HGNC Symbol;Acc:32233]	protein_coding	ENSG00000241852
+3	50333833	50336852	NAT6	N-acetyltransferase 6 (GCN5-related) [Source:HGNC Symbol;Acc:30252]	protein_coding	ENSG00000243477
+3	52009066	52023213	ACY1	aminoacylase 1 [Source:HGNC Symbol;Acc:177]	protein_coding	ENSG00000243989
+1	20978270	20988000	DDOST	dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit (non-catalytic) [Source:HGNC Symbol;Acc:2728]	protein_coding	ENSG00000244038
+9	139685807	139687709	TMEM141	transmembrane protein 141 [Source:HGNC Symbol;Acc:28211]	protein_coding	ENSG00000244187
+8	22446787	22459597	AC037459.4	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:E5RGS7]	protein_coding	ENSG00000248235
+5	271736	353971	PDCD6	programmed cell death 6 [Source:HGNC Symbol;Acc:8765]	protein_coding	ENSG00000249915
+7	30893010	30963427	AQP1	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:K7N7A8]	protein_coding	ENSG00000250424
+1	29445940	29450447	TMEM200B	transmembrane protein 200B [Source:HGNC Symbol;Acc:33785]	protein_coding	ENSG00000253304
+8	9009252	9025646	RP11-10A14.4	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:E5RH78]	protein_coding	ENSG00000253426
+22	51007298	51021394	CHKB-CPT1B	CHKB-CPT1B readthrough (NMD candidate) [Source:HGNC Symbol;Acc:41998]	nonsense_mediated_decay	ENSG00000254413
+11	2909010	2924970	SLC22A18AS	solute carrier family 22 (organic cation transporter), member 18 antisense [Source:HGNC Symbol;Acc:10965]	protein_coding	ENSG00000254827
+12	58120054	58122139	AGAP2-AS1	AGAP2 antisense RNA 1 [Source:HGNC Symbol;Acc:48633]	protein_coding	ENSG00000255737
+22	24666866	24838324	SPECC1L-ADORA2A	SPECC1L-ADORA2A readthrough (NMD candidate) [Source:HGNC Symbol;Acc:49185]	nonsense_mediated_decay	ENSG00000258555
+16	30545548	30569600	AC002310.13	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:H3BQ85]	protein_coding	ENSG00000260869
+16	30537244	30546173	ZNF747	KRAB domain-containing protein ZNF747; Uncharacterized protein; cDNA FLJ54920, moderately similar to Homo sapiens zinc finger protein 689 (ZNF689), mRNA  [Source:UniProtKB/TrEMBL;Acc:B7Z5R0]	nonsense_mediated_decay	ENSG00000261459
+17	79670401	79687569	SLC25A10	Mitochondrial dicarboxylate carrier; Uncharacterized protein; cDNA FLJ60124, highly similar to Mitochondrial dicarboxylate carrier  [Source:UniProtKB/TrEMBL;Acc:B4DLN1]	protein_coding	ENSG00000262660
+11	6502715	6530208	TIMM10B	Fracture callus 1 homolog (Rat); cDNA FLJ11268 fis, clone PLACE1009186, highly similar to Mitochondrial import inner membrane translocase subunit Tim9B; cDNA, FLJ92024, Homo sapiens fracture callus 1 homolog (rat) (FXC1), mRNA  [Source:UniProtKB/TrEMBL;Acc:B2R4A9]	nonsense_mediated_decay	ENSG00000265264
+17	73584139	73622929	MYO15B	myosin XVB pseudogene [Source:HGNC Symbol;Acc:14083]	protein_coding	ENSG00000266714
+19	2717767	2740046	AC006538.4	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:K7EQS6]	protein_coding	ENSG00000267001
+9	139638463	139642980	LCN6	lipocalin 6 [Source:HGNC Symbol;Acc:17337]	protein_coding	ENSG00000267206
+19	58790332	58826563	AC010642.1	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:K7EQD1]	nonsense_mediated_decay	ENSG00000267216
+9	139219089	139219640	DKFZP434A062	HCG2022364; Putative uncharacterized protein DKFZp434A062; Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:Q9Y4N2]	protein_coding	ENSG00000267845
+19	58740831	58798173	CTD-3138B18.4	Uncharacterized protein  [Source:UniProtKB/TrEMBL;Acc:M0QXA5]	nonsense_mediated_decay	ENSG00000269545
+6	34256547	34393825	RPS10-NUDT3	RPS10-NUDT3 readthrough [Source:HGNC Symbol;Acc:49181]	protein_coding	ENSG00000270800
+6	34247456	34360451	NUDT3	nudix (nucleoside diphosphate linked moiety X)-type motif 3 [Source:HGNC Symbol;Acc:8050]	protein_coding	ENSG00000272325
+3	51994317	52008032	RP11-155D18.14	Poly(rC)-binding protein 4  [Source:UniProtKB/TrEMBL;Acc:C9JSA6]	protein_coding	ENSG00000272762
+9	139685831	139695047	RP11-216L13.17		protein_coding	ENSG00000272896
+19	58790318	58807254	ZNF8	zinc finger protein 8 [Source:HGNC Symbol;Acc:13154]	protein_coding	ENSG00000273439
